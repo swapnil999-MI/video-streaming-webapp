@@ -1,0 +1,2827 @@
+[2023-10-01 19:00:41 +0000] [14831] [INFO] Starting gunicorn 21.2.0
+[2023-10-01 19:00:41 +0000] [14831] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2023-10-01 19:00:41 +0000] [14831] [ERROR] Retrying in 1 second.
+[2023-10-01 19:00:42 +0000] [14831] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2023-10-01 19:00:42 +0000] [14831] [ERROR] Retrying in 1 second.
+[2023-10-01 19:00:43 +0000] [14831] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2023-10-01 19:00:43 +0000] [14831] [ERROR] Retrying in 1 second.
+[2023-10-01 19:00:44 +0000] [14831] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2023-10-01 19:00:44 +0000] [14831] [ERROR] Retrying in 1 second.
+[2023-10-01 19:00:45 +0000] [14831] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2023-10-01 19:00:45 +0000] [14831] [ERROR] Retrying in 1 second.
+[2023-10-01 19:00:46 +0000] [14831] [ERROR] Can't connect to ('0.0.0.0', 8080)
+[2023-10-01 19:05:37 +0000] [14842] [INFO] Starting gunicorn 21.2.0
+[2023-10-01 19:05:37 +0000] [14842] [INFO] Listening at: http://0.0.0.0:8080 (14842)
+[2023-10-01 19:05:37 +0000] [14842] [INFO] Using worker: sync
+[2023-10-01 19:05:37 +0000] [14843] [INFO] Booting worker with pid: 14843
+[2023-10-01 19:08:25 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:14843)
+[2023-10-01 19:08:25 +0000] [14843] [INFO] Worker exiting (pid: 14843)
+Swapnil
+Swapnil@999
+<class 'str'>
+user= Swapnil
+<QuerySet [<CustomUser: Swapnil>]>
+<QuerySet []>
+verified
+Alibag beach ⛱️
+Switzerland in 8k
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>]>
+Swapnil
+Swapnil@999
+<class 'str'>
+user= Swapnil
+<QuerySet [<CustomUser: Swapnil>]>
+<QuerySet []>
+verified
+Alibag beach ⛱️
+Switzerland in 8k
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>]>
+Swapnil
+Swapnil@999
+<class 'str'>
+user= Swapnil
+<QuerySet [<CustomUser: Swapnil>]>
+<QuerySet []>
+verified
+Alibag beach ⛱️
+Switzerland in 8k
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>]>
+[2023-10-01 19:08:25 +0000] [14842] [ERROR] Worker (pid:14843) exited with code 1
+[2023-10-01 19:08:25 +0000] [14842] [ERROR] Worker (pid:14843) exited with code 1.
+[2023-10-01 19:08:25 +0000] [14844] [INFO] Booting worker with pid: 14844
+[2023-10-01 19:09:26 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:14844)
+[2023-10-01 19:09:26 +0000] [14844] [INFO] Worker exiting (pid: 14844)
+[2023-10-01 19:09:26 +0000] [14842] [ERROR] Worker (pid:14844) exited with code 1
+[2023-10-01 19:09:26 +0000] [14842] [ERROR] Worker (pid:14844) exited with code 1.
+[2023-10-01 19:09:26 +0000] [14845] [INFO] Booting worker with pid: 14845
+[2023-10-01 19:12:41 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:14845)
+[2023-10-01 19:12:41 +0000] [14845] [INFO] Worker exiting (pid: 14845)
+Swapnil
+Swapnil@999
+<class 'str'>
+user= Swapnil
+<QuerySet [<CustomUser: Swapnil>]>
+<QuerySet []>
+verified
+Alibag beach ⛱️
+Switzerland in 8k
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>]>
+swapniljagadale999@gmail.com
+True
+[2023-10-01 19:12:41 +0000] [14842] [ERROR] Worker (pid:14845) exited with code 1
+[2023-10-01 19:12:41 +0000] [14842] [ERROR] Worker (pid:14845) exited with code 1.
+[2023-10-01 19:12:41 +0000] [14848] [INFO] Booting worker with pid: 14848
+[2023-10-01 19:13:45 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:14848)
+[2023-10-01 19:13:45 +0000] [14848] [INFO] Worker exiting (pid: 14848)
+Swapnil
+Swapnil@999
+<class 'str'>
+user= Swapnil
+<QuerySet [<CustomUser: Swapnil>]>
+<QuerySet []>
+verified
+Swapnil
+Swapnil@999
+<class 'str'>
+user= Swapnil
+<QuerySet [<CustomUser: Swapnil>]>
+<QuerySet []>
+verified
+Swapnil
+Swapnil@999
+<class 'str'>
+user= Swapnil
+<QuerySet [<CustomUser: Swapnil>]>
+<QuerySet []>
+verified
+Alibag beach ⛱️
+Switzerland in 8k
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>]>
+[2023-10-01 19:13:45 +0000] [14842] [ERROR] Worker (pid:14848) exited with code 1
+[2023-10-01 19:13:45 +0000] [14842] [ERROR] Worker (pid:14848) exited with code 1.
+[2023-10-01 19:13:45 +0000] [14849] [INFO] Booting worker with pid: 14849
+[2023-10-01 19:14:46 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:14849)
+[2023-10-01 19:14:46 +0000] [14849] [INFO] Worker exiting (pid: 14849)
+[2023-10-01 19:14:46 +0000] [14842] [ERROR] Worker (pid:14849) exited with code 1
+[2023-10-01 19:14:46 +0000] [14842] [ERROR] Worker (pid:14849) exited with code 1.
+[2023-10-01 19:14:46 +0000] [14850] [INFO] Booting worker with pid: 14850
+[2023-10-01 19:22:00 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:14850)
+[2023-10-01 19:22:00 +0000] [14850] [INFO] Worker exiting (pid: 14850)
+Alibag beach ⛱️
+Switzerland in 8k
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>]>
+[2023-10-01 19:22:00 +0000] [14842] [ERROR] Worker (pid:14850) exited with code 1
+[2023-10-01 19:22:00 +0000] [14842] [ERROR] Worker (pid:14850) exited with code 1.
+[2023-10-01 19:22:00 +0000] [14857] [INFO] Booting worker with pid: 14857
+[2023-10-01 19:23:02 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:14857)
+[2023-10-01 19:23:02 +0000] [14857] [INFO] Worker exiting (pid: 14857)
+[2023-10-01 19:23:02 +0000] [14842] [ERROR] Worker (pid:14857) exited with code 1
+[2023-10-01 19:23:02 +0000] [14842] [ERROR] Worker (pid:14857) exited with code 1.
+[2023-10-01 19:23:02 +0000] [14858] [INFO] Booting worker with pid: 14858
+[2023-10-01 19:28:41 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:14858)
+[2023-10-01 19:28:41 +0000] [14858] [INFO] Worker exiting (pid: 14858)
+Swapnil
+Swapnil@999
+<class 'str'>
+user= Swapnil
+<QuerySet [<CustomUser: Swapnil>]>
+<QuerySet []>
+verified
+Alibag beach ⛱️
+Switzerland in 8k
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>]>
+[2023-10-01 19:28:41 +0000] [14842] [ERROR] Worker (pid:14858) exited with code 1
+[2023-10-01 19:28:41 +0000] [14842] [ERROR] Worker (pid:14858) exited with code 1.
+[2023-10-01 19:28:41 +0000] [14859] [INFO] Booting worker with pid: 14859
+[2023-10-01 19:32:44 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:14859)
+[2023-10-01 19:32:44 +0000] [14859] [INFO] Worker exiting (pid: 14859)
+Swapnil
+Swapnil@999
+<class 'str'>
+user= Swapnil
+<QuerySet [<CustomUser: Swapnil>]>
+<QuerySet []>
+verified
+Alibag beach ⛱️
+Switzerland in 8k
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>]>
+[2023-10-01 19:32:44 +0000] [14842] [ERROR] Worker (pid:14859) exited with code 1
+[2023-10-01 19:32:44 +0000] [14842] [ERROR] Worker (pid:14859) exited with code 1.
+[2023-10-01 19:32:44 +0000] [14860] [INFO] Booting worker with pid: 14860
+[2023-10-01 19:33:46 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:14860)
+[2023-10-01 19:33:46 +0000] [14860] [INFO] Worker exiting (pid: 14860)
+[2023-10-01 19:33:46 +0000] [14842] [ERROR] Worker (pid:14860) exited with code 1
+[2023-10-01 19:33:46 +0000] [14842] [ERROR] Worker (pid:14860) exited with code 1.
+[2023-10-01 19:33:46 +0000] [14861] [INFO] Booting worker with pid: 14861
+[2023-10-02 03:41:16 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:14861)
+[2023-10-02 03:41:16 +0000] [14861] [INFO] Worker exiting (pid: 14861)
+Swapnil
+Swapnil@999
+<class 'str'>
+user= Swapnil
+<QuerySet [<CustomUser: Swapnil>]>
+<QuerySet []>
+verified
+Alibag beach ⛱️
+Switzerland in 8k
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>]>
+[2023-10-02 03:41:16 +0000] [14842] [ERROR] Worker (pid:14861) exited with code 1
+[2023-10-02 03:41:16 +0000] [14842] [ERROR] Worker (pid:14861) exited with code 1.
+[2023-10-02 03:41:16 +0000] [15563] [INFO] Booting worker with pid: 15563
+[2023-10-02 04:30:04 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15563)
+[2023-10-02 04:30:04 +0000] [15563] [INFO] Worker exiting (pid: 15563)
+Alibag beach ⛱️
+Switzerland in 8k
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>]>
+[2023-10-02 04:30:04 +0000] [14842] [ERROR] Worker (pid:15563) exited with code 1
+[2023-10-02 04:30:04 +0000] [14842] [ERROR] Worker (pid:15563) exited with code 1.
+[2023-10-02 04:30:04 +0000] [15581] [INFO] Booting worker with pid: 15581
+[2023-10-02 04:38:36 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15581)
+[2023-10-02 04:38:36 +0000] [15581] [INFO] Worker exiting (pid: 15581)
+[2023-10-02 04:38:36 +0000] [14842] [ERROR] Worker (pid:15581) exited with code 1
+[2023-10-02 04:38:36 +0000] [14842] [ERROR] Worker (pid:15581) exited with code 1.
+[2023-10-02 04:38:36 +0000] [15583] [INFO] Booting worker with pid: 15583
+[2023-10-02 04:39:47 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15583)
+[2023-10-02 04:39:47 +0000] [15583] [INFO] Worker exiting (pid: 15583)
+[2023-10-02 04:39:47 +0000] [14842] [ERROR] Worker (pid:15583) exited with code 1
+[2023-10-02 04:39:47 +0000] [14842] [ERROR] Worker (pid:15583) exited with code 1.
+[2023-10-02 04:39:47 +0000] [15584] [INFO] Booting worker with pid: 15584
+[2023-10-02 04:40:54 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15584)
+[2023-10-02 04:40:54 +0000] [15584] [INFO] Worker exiting (pid: 15584)
+[2023-10-02 04:40:54 +0000] [14842] [ERROR] Worker (pid:15584) exited with code 1
+[2023-10-02 04:40:54 +0000] [14842] [ERROR] Worker (pid:15584) exited with code 1.
+[2023-10-02 04:40:54 +0000] [15585] [INFO] Booting worker with pid: 15585
+[2023-10-02 04:42:01 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15585)
+[2023-10-02 04:42:01 +0000] [15585] [INFO] Worker exiting (pid: 15585)
+Alibag beach ⛱️
+Switzerland in 8k
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>]>
+[2023-10-02 04:42:01 +0000] [14842] [ERROR] Worker (pid:15585) exited with code 1
+[2023-10-02 04:42:01 +0000] [14842] [ERROR] Worker (pid:15585) exited with code 1.
+[2023-10-02 04:42:01 +0000] [15587] [INFO] Booting worker with pid: 15587
+[2023-10-02 04:43:36 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15587)
+[2023-10-02 04:43:36 +0000] [15587] [INFO] Worker exiting (pid: 15587)
+hey
+form valid
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>]>
+[2023-10-02 04:43:36 +0000] [14842] [ERROR] Worker (pid:15587) exited with code 1
+[2023-10-02 04:43:36 +0000] [14842] [ERROR] Worker (pid:15587) exited with code 1.
+[2023-10-02 04:43:36 +0000] [15588] [INFO] Booting worker with pid: 15588
+[2023-10-02 04:44:39 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15588)
+[2023-10-02 04:44:39 +0000] [15588] [INFO] Worker exiting (pid: 15588)
+[2023-10-02 04:44:39 +0000] [14842] [ERROR] Worker (pid:15588) exited with code 1
+[2023-10-02 04:44:39 +0000] [14842] [ERROR] Worker (pid:15588) exited with code 1.
+[2023-10-02 04:44:39 +0000] [15589] [INFO] Booting worker with pid: 15589
+[2023-10-02 04:45:40 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15589)
+[2023-10-02 04:45:40 +0000] [15589] [INFO] Worker exiting (pid: 15589)
+[2023-10-02 04:45:40 +0000] [14842] [ERROR] Worker (pid:15589) exited with code 1
+[2023-10-02 04:45:40 +0000] [14842] [ERROR] Worker (pid:15589) exited with code 1.
+[2023-10-02 04:45:40 +0000] [15590] [INFO] Booting worker with pid: 15590
+[2023-10-02 04:46:41 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15590)
+[2023-10-02 04:46:41 +0000] [15590] [INFO] Worker exiting (pid: 15590)
+[2023-10-02 04:46:41 +0000] [14842] [ERROR] Worker (pid:15590) exited with code 1
+[2023-10-02 04:46:41 +0000] [14842] [ERROR] Worker (pid:15590) exited with code 1.
+[2023-10-02 04:46:41 +0000] [15591] [INFO] Booting worker with pid: 15591
+[2023-10-02 04:47:42 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15591)
+[2023-10-02 04:47:42 +0000] [15591] [INFO] Worker exiting (pid: 15591)
+[2023-10-02 04:47:42 +0000] [14842] [ERROR] Worker (pid:15591) exited with code 1
+[2023-10-02 04:47:42 +0000] [14842] [ERROR] Worker (pid:15591) exited with code 1.
+[2023-10-02 04:47:42 +0000] [15594] [INFO] Booting worker with pid: 15594
+[2023-10-02 04:48:43 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15594)
+[2023-10-02 04:48:43 +0000] [15594] [INFO] Worker exiting (pid: 15594)
+[2023-10-02 04:48:44 +0000] [14842] [ERROR] Worker (pid:15594) exited with code 1
+[2023-10-02 04:48:44 +0000] [14842] [ERROR] Worker (pid:15594) exited with code 1.
+[2023-10-02 04:48:44 +0000] [15595] [INFO] Booting worker with pid: 15595
+[2023-10-02 04:49:45 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15595)
+[2023-10-02 04:49:45 +0000] [15595] [INFO] Worker exiting (pid: 15595)
+[2023-10-02 04:49:45 +0000] [14842] [ERROR] Worker (pid:15595) exited with code 1
+[2023-10-02 04:49:45 +0000] [14842] [ERROR] Worker (pid:15595) exited with code 1.
+[2023-10-02 04:49:45 +0000] [15596] [INFO] Booting worker with pid: 15596
+[2023-10-02 04:50:46 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15596)
+[2023-10-02 04:50:46 +0000] [15596] [INFO] Worker exiting (pid: 15596)
+[2023-10-02 04:50:46 +0000] [14842] [ERROR] Worker (pid:15596) exited with code 1
+[2023-10-02 04:50:46 +0000] [14842] [ERROR] Worker (pid:15596) exited with code 1.
+[2023-10-02 04:50:46 +0000] [15598] [INFO] Booting worker with pid: 15598
+[2023-10-02 04:51:47 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15598)
+[2023-10-02 04:51:47 +0000] [15598] [INFO] Worker exiting (pid: 15598)
+[2023-10-02 04:51:47 +0000] [14842] [ERROR] Worker (pid:15598) exited with code 1
+[2023-10-02 04:51:47 +0000] [14842] [ERROR] Worker (pid:15598) exited with code 1.
+[2023-10-02 04:51:47 +0000] [15599] [INFO] Booting worker with pid: 15599
+[2023-10-02 04:52:48 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15599)
+[2023-10-02 04:52:48 +0000] [15599] [INFO] Worker exiting (pid: 15599)
+[2023-10-02 04:52:48 +0000] [14842] [ERROR] Worker (pid:15599) exited with code 1
+[2023-10-02 04:52:48 +0000] [14842] [ERROR] Worker (pid:15599) exited with code 1.
+[2023-10-02 04:52:48 +0000] [15601] [INFO] Booting worker with pid: 15601
+[2023-10-02 04:53:49 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15601)
+[2023-10-02 04:53:49 +0000] [15601] [INFO] Worker exiting (pid: 15601)
+[2023-10-02 04:53:49 +0000] [14842] [ERROR] Worker (pid:15601) exited with code 1
+[2023-10-02 04:53:49 +0000] [14842] [ERROR] Worker (pid:15601) exited with code 1.
+[2023-10-02 04:53:49 +0000] [15602] [INFO] Booting worker with pid: 15602
+[2023-10-02 04:54:51 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15602)
+[2023-10-02 04:54:51 +0000] [15602] [INFO] Worker exiting (pid: 15602)
+[2023-10-02 04:54:51 +0000] [14842] [ERROR] Worker (pid:15602) exited with code 1
+[2023-10-02 04:54:51 +0000] [14842] [ERROR] Worker (pid:15602) exited with code 1.
+[2023-10-02 04:54:51 +0000] [15605] [INFO] Booting worker with pid: 15605
+[2023-10-02 04:55:52 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15605)
+[2023-10-02 04:55:52 +0000] [15605] [INFO] Worker exiting (pid: 15605)
+[2023-10-02 04:55:52 +0000] [14842] [ERROR] Worker (pid:15605) exited with code 1
+[2023-10-02 04:55:52 +0000] [14842] [ERROR] Worker (pid:15605) exited with code 1.
+[2023-10-02 04:55:52 +0000] [15606] [INFO] Booting worker with pid: 15606
+[2023-10-02 04:56:53 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15606)
+[2023-10-02 04:56:53 +0000] [15606] [INFO] Worker exiting (pid: 15606)
+[2023-10-02 04:56:53 +0000] [14842] [ERROR] Worker (pid:15606) exited with code 1
+[2023-10-02 04:56:53 +0000] [14842] [ERROR] Worker (pid:15606) exited with code 1.
+[2023-10-02 04:56:53 +0000] [15607] [INFO] Booting worker with pid: 15607
+[2023-10-02 04:57:54 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15607)
+[2023-10-02 04:57:54 +0000] [15607] [INFO] Worker exiting (pid: 15607)
+[2023-10-02 04:57:54 +0000] [14842] [ERROR] Worker (pid:15607) exited with code 1
+[2023-10-02 04:57:54 +0000] [14842] [ERROR] Worker (pid:15607) exited with code 1.
+[2023-10-02 04:57:54 +0000] [15608] [INFO] Booting worker with pid: 15608
+[2023-10-02 04:58:55 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15608)
+[2023-10-02 04:58:55 +0000] [15608] [INFO] Worker exiting (pid: 15608)
+[2023-10-02 04:58:55 +0000] [14842] [ERROR] Worker (pid:15608) exited with code 1
+[2023-10-02 04:58:55 +0000] [14842] [ERROR] Worker (pid:15608) exited with code 1.
+[2023-10-02 04:58:55 +0000] [15609] [INFO] Booting worker with pid: 15609
+[2023-10-02 05:15:20 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15609)
+[2023-10-02 05:15:20 +0000] [15609] [INFO] Worker exiting (pid: 15609)
+[2023-10-02 05:15:20 +0000] [14842] [ERROR] Worker (pid:15609) exited with code 1
+[2023-10-02 05:15:20 +0000] [14842] [ERROR] Worker (pid:15609) exited with code 1.
+[2023-10-02 05:15:20 +0000] [15611] [INFO] Booting worker with pid: 15611
+[2023-10-02 05:16:22 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15611)
+[2023-10-02 05:16:22 +0000] [15611] [INFO] Worker exiting (pid: 15611)
+[2023-10-02 05:16:23 +0000] [14842] [ERROR] Worker (pid:15611) exited with code 1
+[2023-10-02 05:16:23 +0000] [14842] [ERROR] Worker (pid:15611) exited with code 1.
+[2023-10-02 05:16:23 +0000] [15612] [INFO] Booting worker with pid: 15612
+[2023-10-02 05:17:24 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15612)
+[2023-10-02 05:17:24 +0000] [15612] [INFO] Worker exiting (pid: 15612)
+[2023-10-02 05:17:24 +0000] [14842] [ERROR] Worker (pid:15612) exited with code 1
+[2023-10-02 05:17:24 +0000] [14842] [ERROR] Worker (pid:15612) exited with code 1.
+[2023-10-02 05:17:24 +0000] [15618] [INFO] Booting worker with pid: 15618
+[2023-10-02 05:21:40 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15618)
+[2023-10-02 05:21:40 +0000] [15618] [INFO] Worker exiting (pid: 15618)
+hey
+[2023-10-02 05:21:40 +0000] [14842] [ERROR] Worker (pid:15618) exited with code 1
+[2023-10-02 05:21:40 +0000] [14842] [ERROR] Worker (pid:15618) exited with code 1.
+[2023-10-02 05:21:40 +0000] [15619] [INFO] Booting worker with pid: 15619
+[2023-10-02 05:22:42 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15619)
+[2023-10-02 05:22:42 +0000] [15619] [INFO] Worker exiting (pid: 15619)
+[2023-10-02 05:22:42 +0000] [14842] [ERROR] Worker (pid:15619) exited with code 1
+[2023-10-02 05:22:42 +0000] [14842] [ERROR] Worker (pid:15619) exited with code 1.
+[2023-10-02 05:22:42 +0000] [15622] [INFO] Booting worker with pid: 15622
+[2023-10-02 05:24:29 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15622)
+[2023-10-02 05:24:29 +0000] [15622] [INFO] Worker exiting (pid: 15622)
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>]>
+[2023-10-02 05:24:29 +0000] [14842] [ERROR] Worker (pid:15622) exited with code 1
+[2023-10-02 05:24:29 +0000] [14842] [ERROR] Worker (pid:15622) exited with code 1.
+[2023-10-02 05:24:29 +0000] [15623] [INFO] Booting worker with pid: 15623
+[2023-10-02 05:25:31 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15623)
+[2023-10-02 05:25:31 +0000] [15623] [INFO] Worker exiting (pid: 15623)
+[2023-10-02 05:25:31 +0000] [14842] [ERROR] Worker (pid:15623) exited with code 1
+[2023-10-02 05:25:31 +0000] [14842] [ERROR] Worker (pid:15623) exited with code 1.
+[2023-10-02 05:25:31 +0000] [15624] [INFO] Booting worker with pid: 15624
+[2023-10-02 05:27:18 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15624)
+[2023-10-02 05:27:18 +0000] [15624] [INFO] Worker exiting (pid: 15624)
+[2023-10-02 05:27:18 +0000] [14842] [ERROR] Worker (pid:15624) exited with code 1
+[2023-10-02 05:27:18 +0000] [14842] [ERROR] Worker (pid:15624) exited with code 1.
+[2023-10-02 05:27:18 +0000] [15625] [INFO] Booting worker with pid: 15625
+[2023-10-02 05:29:51 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15625)
+[2023-10-02 05:29:51 +0000] [15625] [INFO] Worker exiting (pid: 15625)
+hey
+[2023-10-02 05:29:51 +0000] [14842] [ERROR] Worker (pid:15625) exited with code 1
+[2023-10-02 05:29:51 +0000] [14842] [ERROR] Worker (pid:15625) exited with code 1.
+[2023-10-02 05:29:51 +0000] [15627] [INFO] Booting worker with pid: 15627
+[2023-10-02 05:31:29 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15627)
+[2023-10-02 05:31:29 +0000] [15627] [INFO] Worker exiting (pid: 15627)
+hey
+form valid
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>]>
+[2023-10-02 05:31:29 +0000] [14842] [ERROR] Worker (pid:15627) exited with code 1
+[2023-10-02 05:31:29 +0000] [14842] [ERROR] Worker (pid:15627) exited with code 1.
+[2023-10-02 05:31:29 +0000] [15628] [INFO] Booting worker with pid: 15628
+[2023-10-02 05:32:51 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15628)
+[2023-10-02 05:32:51 +0000] [15628] [INFO] Worker exiting (pid: 15628)
+[2023-10-02 05:32:52 +0000] [14842] [ERROR] Worker (pid:15628) exited with code 1
+[2023-10-02 05:32:52 +0000] [14842] [ERROR] Worker (pid:15628) exited with code 1.
+[2023-10-02 05:32:52 +0000] [15629] [INFO] Booting worker with pid: 15629
+[2023-10-02 05:34:43 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15629)
+[2023-10-02 05:34:43 +0000] [15629] [INFO] Worker exiting (pid: 15629)
+[2023-10-02 05:34:43 +0000] [14842] [ERROR] Worker (pid:15629) exited with code 1
+[2023-10-02 05:34:43 +0000] [14842] [ERROR] Worker (pid:15629) exited with code 1.
+[2023-10-02 05:34:43 +0000] [15630] [INFO] Booting worker with pid: 15630
+[2023-10-02 05:35:44 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15630)
+[2023-10-02 05:35:44 +0000] [15630] [INFO] Worker exiting (pid: 15630)
+[2023-10-02 05:35:44 +0000] [14842] [ERROR] Worker (pid:15630) exited with code 1
+[2023-10-02 05:35:44 +0000] [14842] [ERROR] Worker (pid:15630) exited with code 1.
+[2023-10-02 05:35:44 +0000] [15632] [INFO] Booting worker with pid: 15632
+[2023-10-02 05:36:50 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15632)
+[2023-10-02 05:36:50 +0000] [15632] [INFO] Worker exiting (pid: 15632)
+[2023-10-02 05:36:50 +0000] [14842] [ERROR] Worker (pid:15632) exited with code 1
+[2023-10-02 05:36:50 +0000] [14842] [ERROR] Worker (pid:15632) exited with code 1.
+[2023-10-02 05:36:50 +0000] [15633] [INFO] Booting worker with pid: 15633
+[2023-10-02 05:37:51 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15633)
+[2023-10-02 05:37:51 +0000] [15633] [INFO] Worker exiting (pid: 15633)
+[2023-10-02 05:37:51 +0000] [14842] [ERROR] Worker (pid:15633) exited with code 1
+[2023-10-02 05:37:51 +0000] [14842] [ERROR] Worker (pid:15633) exited with code 1.
+[2023-10-02 05:37:51 +0000] [15634] [INFO] Booting worker with pid: 15634
+[2023-10-02 05:38:52 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15634)
+[2023-10-02 05:38:52 +0000] [15634] [INFO] Worker exiting (pid: 15634)
+[2023-10-02 05:38:53 +0000] [14842] [ERROR] Worker (pid:15634) exited with code 1
+[2023-10-02 05:38:53 +0000] [14842] [ERROR] Worker (pid:15634) exited with code 1.
+[2023-10-02 05:38:53 +0000] [15635] [INFO] Booting worker with pid: 15635
+[2023-10-02 05:44:47 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15635)
+[2023-10-02 05:44:47 +0000] [15635] [INFO] Worker exiting (pid: 15635)
+[2023-10-02 05:44:47 +0000] [14842] [ERROR] Worker (pid:15635) exited with code 1
+[2023-10-02 05:44:47 +0000] [14842] [ERROR] Worker (pid:15635) exited with code 1.
+[2023-10-02 05:44:47 +0000] [15637] [INFO] Booting worker with pid: 15637
+[2023-10-02 05:45:48 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15637)
+[2023-10-02 05:45:48 +0000] [15637] [INFO] Worker exiting (pid: 15637)
+[2023-10-02 05:45:48 +0000] [14842] [ERROR] Worker (pid:15637) exited with code 1
+[2023-10-02 05:45:48 +0000] [14842] [ERROR] Worker (pid:15637) exited with code 1.
+[2023-10-02 05:45:48 +0000] [15638] [INFO] Booting worker with pid: 15638
+[2023-10-02 05:46:49 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15638)
+[2023-10-02 05:46:49 +0000] [15638] [INFO] Worker exiting (pid: 15638)
+[2023-10-02 05:46:49 +0000] [14842] [ERROR] Worker (pid:15638) exited with code 1
+[2023-10-02 05:46:49 +0000] [14842] [ERROR] Worker (pid:15638) exited with code 1.
+[2023-10-02 05:46:50 +0000] [15639] [INFO] Booting worker with pid: 15639
+[2023-10-02 05:47:51 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15639)
+[2023-10-02 05:47:51 +0000] [15639] [INFO] Worker exiting (pid: 15639)
+[2023-10-02 05:47:51 +0000] [14842] [ERROR] Worker (pid:15639) exited with code 1
+[2023-10-02 05:47:51 +0000] [14842] [ERROR] Worker (pid:15639) exited with code 1.
+[2023-10-02 05:47:51 +0000] [15640] [INFO] Booting worker with pid: 15640
+[2023-10-02 05:48:52 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15640)
+[2023-10-02 05:48:52 +0000] [15640] [INFO] Worker exiting (pid: 15640)
+[2023-10-02 05:48:52 +0000] [14842] [ERROR] Worker (pid:15640) exited with code 1
+[2023-10-02 05:48:52 +0000] [14842] [ERROR] Worker (pid:15640) exited with code 1.
+[2023-10-02 05:48:52 +0000] [15641] [INFO] Booting worker with pid: 15641
+[2023-10-02 05:51:36 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15641)
+[2023-10-02 05:51:36 +0000] [15641] [INFO] Worker exiting (pid: 15641)
+[2023-10-02 05:51:36 +0000] [14842] [ERROR] Worker (pid:15641) exited with code 1
+[2023-10-02 05:51:36 +0000] [14842] [ERROR] Worker (pid:15641) exited with code 1.
+[2023-10-02 05:51:36 +0000] [15644] [INFO] Booting worker with pid: 15644
+[2023-10-02 05:53:25 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15644)
+[2023-10-02 05:53:25 +0000] [15644] [INFO] Worker exiting (pid: 15644)
+hey
+[2023-10-02 05:53:25 +0000] [14842] [ERROR] Worker (pid:15644) exited with code 1
+[2023-10-02 05:53:25 +0000] [14842] [ERROR] Worker (pid:15644) exited with code 1.
+[2023-10-02 05:53:25 +0000] [15645] [INFO] Booting worker with pid: 15645
+[2023-10-02 05:54:26 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15645)
+[2023-10-02 05:54:26 +0000] [15645] [INFO] Worker exiting (pid: 15645)
+[2023-10-02 05:54:27 +0000] [14842] [ERROR] Worker (pid:15645) exited with code 1
+[2023-10-02 05:54:27 +0000] [14842] [ERROR] Worker (pid:15645) exited with code 1.
+[2023-10-02 05:54:27 +0000] [15647] [INFO] Booting worker with pid: 15647
+[2023-10-02 05:56:04 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15647)
+[2023-10-02 05:56:04 +0000] [15647] [INFO] Worker exiting (pid: 15647)
+[2023-10-02 05:56:04 +0000] [14842] [ERROR] Worker (pid:15647) exited with code 1
+[2023-10-02 05:56:04 +0000] [14842] [ERROR] Worker (pid:15647) exited with code 1.
+[2023-10-02 05:56:04 +0000] [15648] [INFO] Booting worker with pid: 15648
+[2023-10-02 05:57:05 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15648)
+[2023-10-02 05:57:05 +0000] [15648] [INFO] Worker exiting (pid: 15648)
+[2023-10-02 05:57:05 +0000] [14842] [ERROR] Worker (pid:15648) exited with code 1
+[2023-10-02 05:57:05 +0000] [14842] [ERROR] Worker (pid:15648) exited with code 1.
+[2023-10-02 05:57:05 +0000] [15649] [INFO] Booting worker with pid: 15649
+[2023-10-02 05:58:06 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15649)
+[2023-10-02 05:58:06 +0000] [15649] [INFO] Worker exiting (pid: 15649)
+[2023-10-02 05:58:06 +0000] [14842] [ERROR] Worker (pid:15649) exited with code 1
+[2023-10-02 05:58:06 +0000] [14842] [ERROR] Worker (pid:15649) exited with code 1.
+[2023-10-02 05:58:06 +0000] [15650] [INFO] Booting worker with pid: 15650
+[2023-10-02 06:02:50 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15650)
+[2023-10-02 06:02:50 +0000] [15650] [INFO] Worker exiting (pid: 15650)
+[2023-10-02 06:02:50 +0000] [14842] [ERROR] Worker (pid:15650) exited with code 1
+[2023-10-02 06:02:50 +0000] [14842] [ERROR] Worker (pid:15650) exited with code 1.
+[2023-10-02 06:02:50 +0000] [15651] [INFO] Booting worker with pid: 15651
+[2023-10-02 06:03:51 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15651)
+[2023-10-02 06:03:51 +0000] [15651] [INFO] Worker exiting (pid: 15651)
+[2023-10-02 06:03:51 +0000] [14842] [ERROR] Worker (pid:15651) exited with code 1
+[2023-10-02 06:03:51 +0000] [14842] [ERROR] Worker (pid:15651) exited with code 1.
+[2023-10-02 06:03:51 +0000] [15653] [INFO] Booting worker with pid: 15653
+[2023-10-02 06:18:05 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15653)
+[2023-10-02 06:18:05 +0000] [15653] [INFO] Worker exiting (pid: 15653)
+[2023-10-02 06:18:05 +0000] [14842] [ERROR] Worker (pid:15653) exited with code 1
+[2023-10-02 06:18:05 +0000] [14842] [ERROR] Worker (pid:15653) exited with code 1.
+[2023-10-02 06:18:05 +0000] [15659] [INFO] Booting worker with pid: 15659
+[2023-10-02 06:19:06 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15659)
+[2023-10-02 06:19:06 +0000] [15659] [INFO] Worker exiting (pid: 15659)
+[2023-10-02 06:19:06 +0000] [14842] [ERROR] Worker (pid:15659) exited with code 1
+[2023-10-02 06:19:06 +0000] [14842] [ERROR] Worker (pid:15659) exited with code 1.
+[2023-10-02 06:19:06 +0000] [15660] [INFO] Booting worker with pid: 15660
+[2023-10-02 06:46:43 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15660)
+[2023-10-02 06:46:43 +0000] [15660] [INFO] Worker exiting (pid: 15660)
+[2023-10-02 06:46:43 +0000] [14842] [ERROR] Worker (pid:15660) exited with code 1
+[2023-10-02 06:46:43 +0000] [14842] [ERROR] Worker (pid:15660) exited with code 1.
+[2023-10-02 06:46:43 +0000] [15711] [INFO] Booting worker with pid: 15711
+[2023-10-02 06:48:12 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15711)
+[2023-10-02 06:48:12 +0000] [15711] [INFO] Worker exiting (pid: 15711)
+[2023-10-02 06:48:12 +0000] [14842] [ERROR] Worker (pid:15711) exited with code 1
+[2023-10-02 06:48:12 +0000] [14842] [ERROR] Worker (pid:15711) exited with code 1.
+[2023-10-02 06:48:12 +0000] [15712] [INFO] Booting worker with pid: 15712
+[2023-10-02 06:49:14 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15712)
+[2023-10-02 06:49:14 +0000] [15712] [INFO] Worker exiting (pid: 15712)
+[2023-10-02 06:49:14 +0000] [14842] [ERROR] Worker (pid:15712) exited with code 1
+[2023-10-02 06:49:14 +0000] [14842] [ERROR] Worker (pid:15712) exited with code 1.
+[2023-10-02 06:49:14 +0000] [15714] [INFO] Booting worker with pid: 15714
+[2023-10-02 06:51:11 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15714)
+[2023-10-02 06:51:11 +0000] [15714] [INFO] Worker exiting (pid: 15714)
+[2023-10-02 06:51:11 +0000] [14842] [ERROR] Worker (pid:15714) exited with code 1
+[2023-10-02 06:51:11 +0000] [14842] [ERROR] Worker (pid:15714) exited with code 1.
+[2023-10-02 06:51:11 +0000] [15716] [INFO] Booting worker with pid: 15716
+[2023-10-02 06:52:17 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15716)
+[2023-10-02 06:52:17 +0000] [15716] [INFO] Worker exiting (pid: 15716)
+[2023-10-02 06:52:17 +0000] [14842] [ERROR] Worker (pid:15716) exited with code 1
+[2023-10-02 06:52:17 +0000] [14842] [ERROR] Worker (pid:15716) exited with code 1.
+[2023-10-02 06:52:17 +0000] [15717] [INFO] Booting worker with pid: 15717
+[2023-10-02 06:53:18 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15717)
+[2023-10-02 06:53:18 +0000] [15717] [INFO] Worker exiting (pid: 15717)
+[2023-10-02 06:53:18 +0000] [14842] [ERROR] Worker (pid:15717) exited with code 1
+[2023-10-02 06:53:18 +0000] [14842] [ERROR] Worker (pid:15717) exited with code 1.
+[2023-10-02 06:53:18 +0000] [15718] [INFO] Booting worker with pid: 15718
+[2023-10-02 06:54:19 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15718)
+[2023-10-02 06:54:19 +0000] [15718] [INFO] Worker exiting (pid: 15718)
+[2023-10-02 06:54:19 +0000] [14842] [ERROR] Worker (pid:15718) exited with code 1
+[2023-10-02 06:54:19 +0000] [14842] [ERROR] Worker (pid:15718) exited with code 1.
+[2023-10-02 06:54:19 +0000] [15719] [INFO] Booting worker with pid: 15719
+[2023-10-02 06:57:14 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15719)
+[2023-10-02 06:57:14 +0000] [15719] [INFO] Worker exiting (pid: 15719)
+[2023-10-02 06:57:14 +0000] [14842] [ERROR] Worker (pid:15719) exited with code 1
+[2023-10-02 06:57:14 +0000] [14842] [ERROR] Worker (pid:15719) exited with code 1.
+[2023-10-02 06:57:14 +0000] [15721] [INFO] Booting worker with pid: 15721
+[2023-10-02 07:01:18 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15721)
+[2023-10-02 07:01:18 +0000] [15721] [INFO] Worker exiting (pid: 15721)
+[2023-10-02 07:01:18 +0000] [14842] [ERROR] Worker (pid:15721) exited with code 1
+[2023-10-02 07:01:18 +0000] [14842] [ERROR] Worker (pid:15721) exited with code 1.
+[2023-10-02 07:01:18 +0000] [15794] [INFO] Booting worker with pid: 15794
+[2023-10-02 07:08:50 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15794)
+[2023-10-02 07:08:50 +0000] [15794] [INFO] Worker exiting (pid: 15794)
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>]>
+[2023-10-02 07:08:50 +0000] [14842] [ERROR] Worker (pid:15794) exited with code 1
+[2023-10-02 07:08:50 +0000] [14842] [ERROR] Worker (pid:15794) exited with code 1.
+[2023-10-02 07:08:50 +0000] [15797] [INFO] Booting worker with pid: 15797
+[2023-10-02 07:09:51 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15797)
+[2023-10-02 07:09:51 +0000] [15797] [INFO] Worker exiting (pid: 15797)
+[2023-10-02 07:09:51 +0000] [14842] [ERROR] Worker (pid:15797) exited with code 1
+[2023-10-02 07:09:51 +0000] [14842] [ERROR] Worker (pid:15797) exited with code 1.
+[2023-10-02 07:09:51 +0000] [15798] [INFO] Booting worker with pid: 15798
+[2023-10-02 07:10:52 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15798)
+[2023-10-02 07:10:52 +0000] [15798] [INFO] Worker exiting (pid: 15798)
+[2023-10-02 07:10:53 +0000] [14842] [ERROR] Worker (pid:15798) exited with code 1
+[2023-10-02 07:10:53 +0000] [14842] [ERROR] Worker (pid:15798) exited with code 1.
+[2023-10-02 07:10:53 +0000] [15802] [INFO] Booting worker with pid: 15802
+[2023-10-02 07:11:54 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15802)
+[2023-10-02 07:11:54 +0000] [15802] [INFO] Worker exiting (pid: 15802)
+[2023-10-02 07:11:54 +0000] [14842] [ERROR] Worker (pid:15802) exited with code 1
+[2023-10-02 07:11:54 +0000] [14842] [ERROR] Worker (pid:15802) exited with code 1.
+[2023-10-02 07:11:54 +0000] [15803] [INFO] Booting worker with pid: 15803
+[2023-10-02 07:12:55 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15803)
+[2023-10-02 07:12:55 +0000] [15803] [INFO] Worker exiting (pid: 15803)
+[2023-10-02 07:12:55 +0000] [14842] [ERROR] Worker (pid:15803) exited with code 1
+[2023-10-02 07:12:55 +0000] [14842] [ERROR] Worker (pid:15803) exited with code 1.
+[2023-10-02 07:12:55 +0000] [15804] [INFO] Booting worker with pid: 15804
+[2023-10-02 07:13:56 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15804)
+[2023-10-02 07:13:56 +0000] [15804] [INFO] Worker exiting (pid: 15804)
+[2023-10-02 07:13:56 +0000] [14842] [ERROR] Worker (pid:15804) exited with code 1
+[2023-10-02 07:13:56 +0000] [14842] [ERROR] Worker (pid:15804) exited with code 1.
+[2023-10-02 07:13:56 +0000] [15805] [INFO] Booting worker with pid: 15805
+[2023-10-02 07:14:57 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15805)
+[2023-10-02 07:14:57 +0000] [15805] [INFO] Worker exiting (pid: 15805)
+[2023-10-02 07:14:57 +0000] [14842] [ERROR] Worker (pid:15805) exited with code 1
+[2023-10-02 07:14:57 +0000] [14842] [ERROR] Worker (pid:15805) exited with code 1.
+[2023-10-02 07:14:57 +0000] [15806] [INFO] Booting worker with pid: 15806
+[2023-10-02 07:15:58 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15806)
+[2023-10-02 07:15:58 +0000] [15806] [INFO] Worker exiting (pid: 15806)
+[2023-10-02 07:15:59 +0000] [14842] [ERROR] Worker (pid:15806) exited with code 1
+[2023-10-02 07:15:59 +0000] [14842] [ERROR] Worker (pid:15806) exited with code 1.
+[2023-10-02 07:15:59 +0000] [15809] [INFO] Booting worker with pid: 15809
+[2023-10-02 07:17:00 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15809)
+[2023-10-02 07:17:00 +0000] [15809] [INFO] Worker exiting (pid: 15809)
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>]>
+[2023-10-02 07:17:00 +0000] [14842] [ERROR] Worker (pid:15809) exited with code 1
+[2023-10-02 07:17:00 +0000] [14842] [ERROR] Worker (pid:15809) exited with code 1.
+[2023-10-02 07:17:00 +0000] [15810] [INFO] Booting worker with pid: 15810
+[2023-10-02 07:19:57 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15810)
+[2023-10-02 07:19:57 +0000] [15810] [INFO] Worker exiting (pid: 15810)
+Swapnil
+Swapnil@999
+<class 'str'>
+user= Swapnil
+<QuerySet [<CustomUser: Swapnil>]>
+<QuerySet []>
+verified
+Swapnil
+Swapnil@999
+<class 'str'>
+user= Swapnil
+<QuerySet [<CustomUser: Swapnil>]>
+<QuerySet []>
+verified
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>]>
+[2023-10-02 07:19:57 +0000] [14842] [ERROR] Worker (pid:15810) exited with code 1
+[2023-10-02 07:19:57 +0000] [14842] [ERROR] Worker (pid:15810) exited with code 1.
+[2023-10-02 07:19:57 +0000] [15817] [INFO] Booting worker with pid: 15817
+[2023-10-02 07:20:58 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15817)
+[2023-10-02 07:20:58 +0000] [15817] [INFO] Worker exiting (pid: 15817)
+[2023-10-02 07:20:58 +0000] [14842] [ERROR] Worker (pid:15817) exited with code 1
+[2023-10-02 07:20:58 +0000] [14842] [ERROR] Worker (pid:15817) exited with code 1.
+[2023-10-02 07:20:58 +0000] [15819] [INFO] Booting worker with pid: 15819
+[2023-10-02 07:22:00 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15819)
+[2023-10-02 07:22:00 +0000] [15819] [INFO] Worker exiting (pid: 15819)
+[2023-10-02 07:22:00 +0000] [14842] [ERROR] Worker (pid:15819) exited with code 1
+[2023-10-02 07:22:00 +0000] [14842] [ERROR] Worker (pid:15819) exited with code 1.
+[2023-10-02 07:22:00 +0000] [15820] [INFO] Booting worker with pid: 15820
+[2023-10-02 07:23:01 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15820)
+[2023-10-02 07:23:01 +0000] [15820] [INFO] Worker exiting (pid: 15820)
+[2023-10-02 07:23:01 +0000] [14842] [ERROR] Worker (pid:15820) exited with code 1
+[2023-10-02 07:23:01 +0000] [14842] [ERROR] Worker (pid:15820) exited with code 1.
+[2023-10-02 07:23:01 +0000] [15822] [INFO] Booting worker with pid: 15822
+[2023-10-02 07:24:02 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15822)
+[2023-10-02 07:24:02 +0000] [15822] [INFO] Worker exiting (pid: 15822)
+[2023-10-02 07:24:02 +0000] [14842] [ERROR] Worker (pid:15822) exited with code 1
+[2023-10-02 07:24:02 +0000] [14842] [ERROR] Worker (pid:15822) exited with code 1.
+[2023-10-02 07:24:02 +0000] [15823] [INFO] Booting worker with pid: 15823
+[2023-10-02 07:25:03 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15823)
+[2023-10-02 07:25:03 +0000] [15823] [INFO] Worker exiting (pid: 15823)
+[2023-10-02 07:25:03 +0000] [14842] [ERROR] Worker (pid:15823) exited with code 1
+[2023-10-02 07:25:03 +0000] [14842] [ERROR] Worker (pid:15823) exited with code 1.
+[2023-10-02 07:25:03 +0000] [15824] [INFO] Booting worker with pid: 15824
+[2023-10-02 07:27:40 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15824)
+[2023-10-02 07:27:40 +0000] [15824] [INFO] Worker exiting (pid: 15824)
+hey
+hey
+[2023-10-02 07:27:40 +0000] [14842] [ERROR] Worker (pid:15824) exited with code 1
+[2023-10-02 07:27:40 +0000] [14842] [ERROR] Worker (pid:15824) exited with code 1.
+[2023-10-02 07:27:40 +0000] [15825] [INFO] Booting worker with pid: 15825
+[2023-10-02 07:28:41 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15825)
+[2023-10-02 07:28:41 +0000] [15825] [INFO] Worker exiting (pid: 15825)
+[2023-10-02 07:28:41 +0000] [14842] [ERROR] Worker (pid:15825) exited with code 1
+[2023-10-02 07:28:41 +0000] [14842] [ERROR] Worker (pid:15825) exited with code 1.
+[2023-10-02 07:28:41 +0000] [15826] [INFO] Booting worker with pid: 15826
+[2023-10-02 07:32:33 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15826)
+[2023-10-02 07:32:33 +0000] [15826] [INFO] Worker exiting (pid: 15826)
+[2023-10-02 07:32:33 +0000] [14842] [ERROR] Worker (pid:15826) exited with code 1
+[2023-10-02 07:32:33 +0000] [14842] [ERROR] Worker (pid:15826) exited with code 1.
+[2023-10-02 07:32:33 +0000] [15827] [INFO] Booting worker with pid: 15827
+[2023-10-02 07:33:34 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15827)
+[2023-10-02 07:33:34 +0000] [15827] [INFO] Worker exiting (pid: 15827)
+[2023-10-02 07:33:34 +0000] [14842] [ERROR] Worker (pid:15827) exited with code 1
+[2023-10-02 07:33:34 +0000] [14842] [ERROR] Worker (pid:15827) exited with code 1.
+[2023-10-02 07:33:34 +0000] [15829] [INFO] Booting worker with pid: 15829
+[2023-10-02 07:34:35 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15829)
+[2023-10-02 07:34:35 +0000] [15829] [INFO] Worker exiting (pid: 15829)
+[2023-10-02 07:34:36 +0000] [14842] [ERROR] Worker (pid:15829) exited with code 1
+[2023-10-02 07:34:36 +0000] [14842] [ERROR] Worker (pid:15829) exited with code 1.
+[2023-10-02 07:34:36 +0000] [15830] [INFO] Booting worker with pid: 15830
+[2023-10-02 07:37:23 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15830)
+[2023-10-02 07:37:23 +0000] [15830] [INFO] Worker exiting (pid: 15830)
+[2023-10-02 07:37:23 +0000] [14842] [ERROR] Worker (pid:15830) exited with code 1
+[2023-10-02 07:37:23 +0000] [14842] [ERROR] Worker (pid:15830) exited with code 1.
+[2023-10-02 07:37:23 +0000] [15832] [INFO] Booting worker with pid: 15832
+[2023-10-02 08:51:33 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15832)
+[2023-10-02 08:51:34 +0000] [15832] [INFO] Worker exiting (pid: 15832)
+hey
+hey
+[2023-10-02 08:51:35 +0000] [14842] [ERROR] Worker (pid:15832) exited with code 1
+[2023-10-02 08:51:35 +0000] [14842] [ERROR] Worker (pid:15832) exited with code 1.
+[2023-10-02 08:51:35 +0000] [15992] [INFO] Booting worker with pid: 15992
+[2023-10-02 08:52:36 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15992)
+[2023-10-02 08:52:36 +0000] [15992] [INFO] Worker exiting (pid: 15992)
+[2023-10-02 08:52:36 +0000] [14842] [ERROR] Worker (pid:15992) exited with code 1
+[2023-10-02 08:52:36 +0000] [14842] [ERROR] Worker (pid:15992) exited with code 1.
+[2023-10-02 08:52:36 +0000] [15993] [INFO] Booting worker with pid: 15993
+[2023-10-02 08:54:02 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15993)
+[2023-10-02 08:54:02 +0000] [15993] [INFO] Worker exiting (pid: 15993)
+[2023-10-02 08:54:02 +0000] [14842] [ERROR] Worker (pid:15993) exited with code 1
+[2023-10-02 08:54:02 +0000] [14842] [ERROR] Worker (pid:15993) exited with code 1.
+[2023-10-02 08:54:02 +0000] [15994] [INFO] Booting worker with pid: 15994
+[2023-10-02 08:55:03 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15994)
+[2023-10-02 08:55:03 +0000] [15994] [INFO] Worker exiting (pid: 15994)
+[2023-10-02 08:55:03 +0000] [14842] [ERROR] Worker (pid:15994) exited with code 1
+[2023-10-02 08:55:03 +0000] [14842] [ERROR] Worker (pid:15994) exited with code 1.
+[2023-10-02 08:55:03 +0000] [15995] [INFO] Booting worker with pid: 15995
+[2023-10-02 08:56:31 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15995)
+[2023-10-02 08:56:31 +0000] [15995] [INFO] Worker exiting (pid: 15995)
+[2023-10-02 08:56:31 +0000] [14842] [ERROR] Worker (pid:15995) exited with code 1
+[2023-10-02 08:56:31 +0000] [14842] [ERROR] Worker (pid:15995) exited with code 1.
+[2023-10-02 08:56:31 +0000] [15996] [INFO] Booting worker with pid: 15996
+[2023-10-02 08:57:32 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15996)
+[2023-10-02 08:57:32 +0000] [15996] [INFO] Worker exiting (pid: 15996)
+[2023-10-02 08:57:33 +0000] [14842] [ERROR] Worker (pid:15996) exited with code 1
+[2023-10-02 08:57:33 +0000] [14842] [ERROR] Worker (pid:15996) exited with code 1.
+[2023-10-02 08:57:33 +0000] [15998] [INFO] Booting worker with pid: 15998
+[2023-10-02 08:58:34 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15998)
+[2023-10-02 08:58:34 +0000] [15998] [INFO] Worker exiting (pid: 15998)
+[2023-10-02 08:58:34 +0000] [14842] [ERROR] Worker (pid:15998) exited with code 1
+[2023-10-02 08:58:34 +0000] [14842] [ERROR] Worker (pid:15998) exited with code 1.
+[2023-10-02 08:58:34 +0000] [15999] [INFO] Booting worker with pid: 15999
+[2023-10-02 08:59:35 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:15999)
+[2023-10-02 08:59:35 +0000] [15999] [INFO] Worker exiting (pid: 15999)
+[2023-10-02 08:59:35 +0000] [14842] [ERROR] Worker (pid:15999) exited with code 1
+[2023-10-02 08:59:35 +0000] [14842] [ERROR] Worker (pid:15999) exited with code 1.
+[2023-10-02 08:59:35 +0000] [16000] [INFO] Booting worker with pid: 16000
+[2023-10-02 09:00:36 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16000)
+[2023-10-02 09:00:36 +0000] [16000] [INFO] Worker exiting (pid: 16000)
+[2023-10-02 09:00:36 +0000] [14842] [ERROR] Worker (pid:16000) exited with code 1
+[2023-10-02 09:00:36 +0000] [14842] [ERROR] Worker (pid:16000) exited with code 1.
+[2023-10-02 09:00:36 +0000] [16001] [INFO] Booting worker with pid: 16001
+[2023-10-02 09:02:35 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16001)
+[2023-10-02 09:02:35 +0000] [16001] [INFO] Worker exiting (pid: 16001)
+[2023-10-02 09:02:35 +0000] [14842] [ERROR] Worker (pid:16001) exited with code 1
+[2023-10-02 09:02:35 +0000] [14842] [ERROR] Worker (pid:16001) exited with code 1.
+[2023-10-02 09:02:35 +0000] [16003] [INFO] Booting worker with pid: 16003
+[2023-10-02 09:03:37 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16003)
+[2023-10-02 09:03:37 +0000] [16003] [INFO] Worker exiting (pid: 16003)
+[2023-10-02 09:03:37 +0000] [14842] [ERROR] Worker (pid:16003) exited with code 1
+[2023-10-02 09:03:37 +0000] [14842] [ERROR] Worker (pid:16003) exited with code 1.
+[2023-10-02 09:03:37 +0000] [16004] [INFO] Booting worker with pid: 16004
+[2023-10-02 10:07:04 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16004)
+[2023-10-02 10:07:04 +0000] [16004] [INFO] Worker exiting (pid: 16004)
+[2023-10-02 10:07:04 +0000] [14842] [ERROR] Worker (pid:16004) exited with code 1
+[2023-10-02 10:07:04 +0000] [14842] [ERROR] Worker (pid:16004) exited with code 1.
+[2023-10-02 10:07:04 +0000] [16017] [INFO] Booting worker with pid: 16017
+[2023-10-02 10:08:05 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16017)
+[2023-10-02 10:08:05 +0000] [16017] [INFO] Worker exiting (pid: 16017)
+[2023-10-02 10:08:05 +0000] [14842] [ERROR] Worker (pid:16017) exited with code 1
+[2023-10-02 10:08:05 +0000] [14842] [ERROR] Worker (pid:16017) exited with code 1.
+[2023-10-02 10:08:05 +0000] [16018] [INFO] Booting worker with pid: 16018
+[2023-10-02 12:05:12 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16018)
+[2023-10-02 12:05:12 +0000] [16018] [INFO] Worker exiting (pid: 16018)
+[2023-10-02 12:05:12 +0000] [14842] [ERROR] Worker (pid:16018) exited with code 1
+[2023-10-02 12:05:12 +0000] [14842] [ERROR] Worker (pid:16018) exited with code 1.
+[2023-10-02 12:05:12 +0000] [16054] [INFO] Booting worker with pid: 16054
+[2023-10-02 12:48:09 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16054)
+[2023-10-02 12:48:09 +0000] [16054] [INFO] Worker exiting (pid: 16054)
+Swapnil
+Swapnil@999
+<class 'str'>
+user= Swapnil
+<QuerySet [<CustomUser: Swapnil>]>
+<QuerySet []>
+verified
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>]>
+[2023-10-02 12:48:09 +0000] [14842] [ERROR] Worker (pid:16054) exited with code 1
+[2023-10-02 12:48:09 +0000] [14842] [ERROR] Worker (pid:16054) exited with code 1.
+[2023-10-02 12:48:09 +0000] [16073] [INFO] Booting worker with pid: 16073
+[2023-10-02 12:50:09 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16073)
+[2023-10-02 12:50:09 +0000] [16073] [INFO] Worker exiting (pid: 16073)
+[2023-10-02 12:50:09 +0000] [14842] [ERROR] Worker (pid:16073) exited with code 1
+[2023-10-02 12:50:09 +0000] [14842] [ERROR] Worker (pid:16073) exited with code 1.
+[2023-10-02 12:50:09 +0000] [16074] [INFO] Booting worker with pid: 16074
+[2023-10-02 12:51:10 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16074)
+[2023-10-02 12:51:10 +0000] [16074] [INFO] Worker exiting (pid: 16074)
+[2023-10-02 12:51:10 +0000] [14842] [ERROR] Worker (pid:16074) exited with code 1
+[2023-10-02 12:51:10 +0000] [14842] [ERROR] Worker (pid:16074) exited with code 1.
+[2023-10-02 12:51:10 +0000] [16075] [INFO] Booting worker with pid: 16075
+[2023-10-02 12:53:12 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16075)
+[2023-10-02 12:53:12 +0000] [16075] [INFO] Worker exiting (pid: 16075)
+[2023-10-02 12:53:12 +0000] [14842] [ERROR] Worker (pid:16075) exited with code 1
+[2023-10-02 12:53:12 +0000] [14842] [ERROR] Worker (pid:16075) exited with code 1.
+[2023-10-02 12:53:12 +0000] [16076] [INFO] Booting worker with pid: 16076
+[2023-10-02 12:54:22 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16076)
+[2023-10-02 12:54:22 +0000] [16076] [INFO] Worker exiting (pid: 16076)
+[2023-10-02 12:54:22 +0000] [14842] [ERROR] Worker (pid:16076) exited with code 1
+[2023-10-02 12:54:22 +0000] [14842] [ERROR] Worker (pid:16076) exited with code 1.
+[2023-10-02 12:54:22 +0000] [16077] [INFO] Booting worker with pid: 16077
+[2023-10-02 12:55:37 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16077)
+[2023-10-02 12:55:37 +0000] [16077] [INFO] Worker exiting (pid: 16077)
+[2023-10-02 12:55:37 +0000] [14842] [ERROR] Worker (pid:16077) exited with code 1
+[2023-10-02 12:55:37 +0000] [14842] [ERROR] Worker (pid:16077) exited with code 1.
+[2023-10-02 12:55:37 +0000] [16078] [INFO] Booting worker with pid: 16078
+[2023-10-02 12:57:01 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16078)
+[2023-10-02 12:57:01 +0000] [16078] [INFO] Worker exiting (pid: 16078)
+[2023-10-02 12:57:01 +0000] [14842] [ERROR] Worker (pid:16078) exited with code 1
+[2023-10-02 12:57:01 +0000] [14842] [ERROR] Worker (pid:16078) exited with code 1.
+[2023-10-02 12:57:01 +0000] [16079] [INFO] Booting worker with pid: 16079
+[2023-10-02 12:58:48 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16079)
+[2023-10-02 12:58:48 +0000] [16079] [INFO] Worker exiting (pid: 16079)
+[2023-10-02 12:58:48 +0000] [14842] [ERROR] Worker (pid:16079) exited with code 1
+[2023-10-02 12:58:48 +0000] [14842] [ERROR] Worker (pid:16079) exited with code 1.
+[2023-10-02 12:58:48 +0000] [16080] [INFO] Booting worker with pid: 16080
+[2023-10-02 12:59:49 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16080)
+[2023-10-02 12:59:49 +0000] [16080] [INFO] Worker exiting (pid: 16080)
+[2023-10-02 12:59:50 +0000] [14842] [ERROR] Worker (pid:16080) exited with code 1
+[2023-10-02 12:59:50 +0000] [14842] [ERROR] Worker (pid:16080) exited with code 1.
+[2023-10-02 12:59:50 +0000] [16081] [INFO] Booting worker with pid: 16081
+[2023-10-02 13:03:46 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16081)
+[2023-10-02 13:03:46 +0000] [16081] [INFO] Worker exiting (pid: 16081)
+[2023-10-02 13:03:46 +0000] [14842] [ERROR] Worker (pid:16081) exited with code 1
+[2023-10-02 13:03:46 +0000] [14842] [ERROR] Worker (pid:16081) exited with code 1.
+[2023-10-02 13:03:46 +0000] [16083] [INFO] Booting worker with pid: 16083
+[2023-10-02 13:04:47 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16083)
+[2023-10-02 13:04:47 +0000] [16083] [INFO] Worker exiting (pid: 16083)
+[2023-10-02 13:04:47 +0000] [14842] [ERROR] Worker (pid:16083) exited with code 1
+[2023-10-02 13:04:47 +0000] [14842] [ERROR] Worker (pid:16083) exited with code 1.
+[2023-10-02 13:04:47 +0000] [16084] [INFO] Booting worker with pid: 16084
+[2023-10-02 13:07:53 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16084)
+[2023-10-02 13:07:53 +0000] [16084] [INFO] Worker exiting (pid: 16084)
+[2023-10-02 13:07:53 +0000] [14842] [ERROR] Worker (pid:16084) exited with code 1
+[2023-10-02 13:07:53 +0000] [14842] [ERROR] Worker (pid:16084) exited with code 1.
+[2023-10-02 13:07:53 +0000] [16085] [INFO] Booting worker with pid: 16085
+[2023-10-02 13:09:57 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16085)
+[2023-10-02 13:09:57 +0000] [16085] [INFO] Worker exiting (pid: 16085)
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>]>
+[2023-10-02 13:09:57 +0000] [14842] [ERROR] Worker (pid:16085) exited with code 1
+[2023-10-02 13:09:57 +0000] [14842] [ERROR] Worker (pid:16085) exited with code 1.
+[2023-10-02 13:09:57 +0000] [16088] [INFO] Booting worker with pid: 16088
+[2023-10-02 13:10:58 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16088)
+[2023-10-02 13:10:58 +0000] [16088] [INFO] Worker exiting (pid: 16088)
+[2023-10-02 13:10:58 +0000] [14842] [ERROR] Worker (pid:16088) exited with code 1
+[2023-10-02 13:10:58 +0000] [14842] [ERROR] Worker (pid:16088) exited with code 1.
+[2023-10-02 13:10:58 +0000] [16091] [INFO] Booting worker with pid: 16091
+[2023-10-02 13:15:29 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16091)
+[2023-10-02 13:15:29 +0000] [16091] [INFO] Worker exiting (pid: 16091)
+[2023-10-02 13:15:29 +0000] [14842] [ERROR] Worker (pid:16091) exited with code 1
+[2023-10-02 13:15:29 +0000] [14842] [ERROR] Worker (pid:16091) exited with code 1.
+[2023-10-02 13:15:29 +0000] [16099] [INFO] Booting worker with pid: 16099
+[2023-10-02 13:16:30 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16099)
+[2023-10-02 13:16:30 +0000] [16099] [INFO] Worker exiting (pid: 16099)
+[2023-10-02 13:16:31 +0000] [14842] [ERROR] Worker (pid:16099) exited with code 1
+[2023-10-02 13:16:31 +0000] [14842] [ERROR] Worker (pid:16099) exited with code 1.
+[2023-10-02 13:16:31 +0000] [16100] [INFO] Booting worker with pid: 16100
+[2023-10-02 13:18:59 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16100)
+[2023-10-02 13:18:59 +0000] [16100] [INFO] Worker exiting (pid: 16100)
+[2023-10-02 13:18:59 +0000] [14842] [ERROR] Worker (pid:16100) exited with code 1
+[2023-10-02 13:18:59 +0000] [14842] [ERROR] Worker (pid:16100) exited with code 1.
+[2023-10-02 13:18:59 +0000] [16104] [INFO] Booting worker with pid: 16104
+[2023-10-02 13:20:12 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16104)
+[2023-10-02 13:20:12 +0000] [16104] [INFO] Worker exiting (pid: 16104)
+[2023-10-02 13:20:12 +0000] [14842] [ERROR] Worker (pid:16104) exited with code 1
+[2023-10-02 13:20:12 +0000] [14842] [ERROR] Worker (pid:16104) exited with code 1.
+[2023-10-02 13:20:12 +0000] [16105] [INFO] Booting worker with pid: 16105
+[2023-10-02 13:21:13 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16105)
+[2023-10-02 13:21:13 +0000] [16105] [INFO] Worker exiting (pid: 16105)
+[2023-10-02 13:21:13 +0000] [14842] [ERROR] Worker (pid:16105) exited with code 1
+[2023-10-02 13:21:13 +0000] [14842] [ERROR] Worker (pid:16105) exited with code 1.
+[2023-10-02 13:21:13 +0000] [16107] [INFO] Booting worker with pid: 16107
+[2023-10-02 13:22:56 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16107)
+[2023-10-02 13:22:56 +0000] [16107] [INFO] Worker exiting (pid: 16107)
+[2023-10-02 13:22:56 +0000] [14842] [ERROR] Worker (pid:16107) exited with code 1
+[2023-10-02 13:22:56 +0000] [14842] [ERROR] Worker (pid:16107) exited with code 1.
+[2023-10-02 13:22:56 +0000] [16108] [INFO] Booting worker with pid: 16108
+[2023-10-02 13:23:58 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16108)
+[2023-10-02 13:23:58 +0000] [16108] [INFO] Worker exiting (pid: 16108)
+[2023-10-02 13:23:58 +0000] [14842] [ERROR] Worker (pid:16108) exited with code 1
+[2023-10-02 13:23:58 +0000] [14842] [ERROR] Worker (pid:16108) exited with code 1.
+[2023-10-02 13:23:58 +0000] [16109] [INFO] Booting worker with pid: 16109
+[2023-10-02 13:42:58 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16109)
+[2023-10-02 13:42:58 +0000] [16109] [INFO] Worker exiting (pid: 16109)
+[2023-10-02 13:42:58 +0000] [14842] [ERROR] Worker (pid:16109) exited with code 1
+[2023-10-02 13:42:58 +0000] [14842] [ERROR] Worker (pid:16109) exited with code 1.
+[2023-10-02 13:42:58 +0000] [16114] [INFO] Booting worker with pid: 16114
+[2023-10-02 13:46:35 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16114)
+[2023-10-02 13:46:35 +0000] [16114] [INFO] Worker exiting (pid: 16114)
+hey
+[2023-10-02 13:46:35 +0000] [14842] [ERROR] Worker (pid:16114) exited with code 1
+[2023-10-02 13:46:35 +0000] [14842] [ERROR] Worker (pid:16114) exited with code 1.
+[2023-10-02 13:46:35 +0000] [16115] [INFO] Booting worker with pid: 16115
+[2023-10-02 13:47:36 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16115)
+[2023-10-02 13:47:36 +0000] [16115] [INFO] Worker exiting (pid: 16115)
+[2023-10-02 13:47:37 +0000] [14842] [ERROR] Worker (pid:16115) exited with code 1
+[2023-10-02 13:47:37 +0000] [14842] [ERROR] Worker (pid:16115) exited with code 1.
+[2023-10-02 13:47:37 +0000] [16116] [INFO] Booting worker with pid: 16116
+[2023-10-02 13:48:38 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16116)
+[2023-10-02 13:48:38 +0000] [16116] [INFO] Worker exiting (pid: 16116)
+[2023-10-02 13:48:38 +0000] [14842] [ERROR] Worker (pid:16116) exited with code 1
+[2023-10-02 13:48:38 +0000] [14842] [ERROR] Worker (pid:16116) exited with code 1.
+[2023-10-02 13:48:38 +0000] [16117] [INFO] Booting worker with pid: 16117
+[2023-10-02 13:49:50 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16117)
+[2023-10-02 13:49:50 +0000] [16117] [INFO] Worker exiting (pid: 16117)
+hey
+[2023-10-02 13:49:50 +0000] [14842] [ERROR] Worker (pid:16117) exited with code 1
+[2023-10-02 13:49:50 +0000] [14842] [ERROR] Worker (pid:16117) exited with code 1.
+[2023-10-02 13:49:50 +0000] [16118] [INFO] Booting worker with pid: 16118
+[2023-10-02 13:51:25 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16118)
+[2023-10-02 13:51:25 +0000] [16118] [INFO] Worker exiting (pid: 16118)
+[2023-10-02 13:51:25 +0000] [14842] [ERROR] Worker (pid:16118) exited with code 1
+[2023-10-02 13:51:25 +0000] [14842] [ERROR] Worker (pid:16118) exited with code 1.
+[2023-10-02 13:51:25 +0000] [16120] [INFO] Booting worker with pid: 16120
+[2023-10-02 13:52:26 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16120)
+[2023-10-02 13:52:26 +0000] [16120] [INFO] Worker exiting (pid: 16120)
+[2023-10-02 13:52:26 +0000] [14842] [ERROR] Worker (pid:16120) exited with code 1
+[2023-10-02 13:52:26 +0000] [14842] [ERROR] Worker (pid:16120) exited with code 1.
+[2023-10-02 13:52:26 +0000] [16121] [INFO] Booting worker with pid: 16121
+[2023-10-02 14:53:52 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16121)
+[2023-10-02 14:53:52 +0000] [16121] [INFO] Worker exiting (pid: 16121)
+hey
+hey
+[2023-10-02 14:53:52 +0000] [14842] [ERROR] Worker (pid:16121) exited with code 1
+[2023-10-02 14:53:52 +0000] [14842] [ERROR] Worker (pid:16121) exited with code 1.
+[2023-10-02 14:53:52 +0000] [16132] [INFO] Booting worker with pid: 16132
+[2023-10-02 14:54:53 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16132)
+[2023-10-02 14:54:53 +0000] [16132] [INFO] Worker exiting (pid: 16132)
+[2023-10-02 14:54:54 +0000] [14842] [ERROR] Worker (pid:16132) exited with code 1
+[2023-10-02 14:54:54 +0000] [14842] [ERROR] Worker (pid:16132) exited with code 1.
+[2023-10-02 14:54:54 +0000] [16135] [INFO] Booting worker with pid: 16135
+[2023-10-02 14:55:55 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16135)
+[2023-10-02 14:55:55 +0000] [16135] [INFO] Worker exiting (pid: 16135)
+[2023-10-02 14:55:55 +0000] [14842] [ERROR] Worker (pid:16135) exited with code 1
+[2023-10-02 14:55:55 +0000] [14842] [ERROR] Worker (pid:16135) exited with code 1.
+[2023-10-02 14:55:55 +0000] [16136] [INFO] Booting worker with pid: 16136
+[2023-10-02 15:12:11 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16136)
+[2023-10-02 15:12:11 +0000] [16136] [INFO] Worker exiting (pid: 16136)
+hey
+form valid
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+[2023-10-02 15:12:11 +0000] [14842] [ERROR] Worker (pid:16136) exited with code 1
+[2023-10-02 15:12:11 +0000] [14842] [ERROR] Worker (pid:16136) exited with code 1.
+[2023-10-02 15:12:11 +0000] [16139] [INFO] Booting worker with pid: 16139
+[2023-10-02 15:13:32 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16139)
+[2023-10-02 15:13:32 +0000] [16139] [INFO] Worker exiting (pid: 16139)
+[2023-10-02 15:13:32 +0000] [14842] [ERROR] Worker (pid:16139) exited with code 1
+[2023-10-02 15:13:32 +0000] [14842] [ERROR] Worker (pid:16139) exited with code 1.
+[2023-10-02 15:13:32 +0000] [16140] [INFO] Booting worker with pid: 16140
+[2023-10-02 15:14:33 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16140)
+[2023-10-02 15:14:33 +0000] [16140] [INFO] Worker exiting (pid: 16140)
+[2023-10-02 15:14:33 +0000] [14842] [ERROR] Worker (pid:16140) exited with code 1
+[2023-10-02 15:14:33 +0000] [14842] [ERROR] Worker (pid:16140) exited with code 1.
+[2023-10-02 15:14:33 +0000] [16141] [INFO] Booting worker with pid: 16141
+[2023-10-02 15:15:34 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16141)
+[2023-10-02 15:15:34 +0000] [16141] [INFO] Worker exiting (pid: 16141)
+[2023-10-02 15:15:34 +0000] [14842] [ERROR] Worker (pid:16141) exited with code 1
+[2023-10-02 15:15:34 +0000] [14842] [ERROR] Worker (pid:16141) exited with code 1.
+[2023-10-02 15:15:34 +0000] [16142] [INFO] Booting worker with pid: 16142
+[2023-10-02 15:16:36 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16142)
+[2023-10-02 15:16:36 +0000] [16142] [INFO] Worker exiting (pid: 16142)
+[2023-10-02 15:16:36 +0000] [14842] [ERROR] Worker (pid:16142) exited with code 1
+[2023-10-02 15:16:36 +0000] [14842] [ERROR] Worker (pid:16142) exited with code 1.
+[2023-10-02 15:16:36 +0000] [16144] [INFO] Booting worker with pid: 16144
+[2023-10-02 15:17:37 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16144)
+[2023-10-02 15:17:37 +0000] [16144] [INFO] Worker exiting (pid: 16144)
+[2023-10-02 15:17:37 +0000] [14842] [ERROR] Worker (pid:16144) exited with code 1
+[2023-10-02 15:17:37 +0000] [14842] [ERROR] Worker (pid:16144) exited with code 1.
+[2023-10-02 15:17:37 +0000] [16149] [INFO] Booting worker with pid: 16149
+[2023-10-02 15:18:38 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16149)
+[2023-10-02 15:18:38 +0000] [16149] [INFO] Worker exiting (pid: 16149)
+[2023-10-02 15:18:38 +0000] [14842] [ERROR] Worker (pid:16149) exited with code 1
+[2023-10-02 15:18:38 +0000] [14842] [ERROR] Worker (pid:16149) exited with code 1.
+[2023-10-02 15:18:38 +0000] [16150] [INFO] Booting worker with pid: 16150
+[2023-10-02 15:19:39 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16150)
+[2023-10-02 15:19:39 +0000] [16150] [INFO] Worker exiting (pid: 16150)
+[2023-10-02 15:19:39 +0000] [14842] [ERROR] Worker (pid:16150) exited with code 1
+[2023-10-02 15:19:39 +0000] [14842] [ERROR] Worker (pid:16150) exited with code 1.
+[2023-10-02 15:19:39 +0000] [16151] [INFO] Booting worker with pid: 16151
+[2023-10-02 15:20:40 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16151)
+[2023-10-02 15:20:40 +0000] [16151] [INFO] Worker exiting (pid: 16151)
+[2023-10-02 15:20:41 +0000] [14842] [ERROR] Worker (pid:16151) exited with code 1
+[2023-10-02 15:20:41 +0000] [14842] [ERROR] Worker (pid:16151) exited with code 1.
+[2023-10-02 15:20:41 +0000] [16152] [INFO] Booting worker with pid: 16152
+[2023-10-02 15:21:42 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16152)
+[2023-10-02 15:21:42 +0000] [16152] [INFO] Worker exiting (pid: 16152)
+[2023-10-02 15:21:42 +0000] [14842] [ERROR] Worker (pid:16152) exited with code 1
+[2023-10-02 15:21:42 +0000] [14842] [ERROR] Worker (pid:16152) exited with code 1.
+[2023-10-02 15:21:42 +0000] [16153] [INFO] Booting worker with pid: 16153
+[2023-10-02 15:22:43 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16153)
+[2023-10-02 15:22:43 +0000] [16153] [INFO] Worker exiting (pid: 16153)
+[2023-10-02 15:22:43 +0000] [14842] [ERROR] Worker (pid:16153) exited with code 1
+[2023-10-02 15:22:43 +0000] [14842] [ERROR] Worker (pid:16153) exited with code 1.
+[2023-10-02 15:22:43 +0000] [16155] [INFO] Booting worker with pid: 16155
+[2023-10-02 15:23:44 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16155)
+[2023-10-02 15:23:44 +0000] [16155] [INFO] Worker exiting (pid: 16155)
+[2023-10-02 15:23:44 +0000] [14842] [ERROR] Worker (pid:16155) exited with code 1
+[2023-10-02 15:23:44 +0000] [14842] [ERROR] Worker (pid:16155) exited with code 1.
+[2023-10-02 15:23:44 +0000] [16156] [INFO] Booting worker with pid: 16156
+[2023-10-02 17:05:14 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16156)
+[2023-10-02 17:05:14 +0000] [16156] [INFO] Worker exiting (pid: 16156)
+swapniljagadale999@gmail.com
+True
+[2023-10-02 17:05:14 +0000] [14842] [ERROR] Worker (pid:16156) exited with code 1
+[2023-10-02 17:05:14 +0000] [14842] [ERROR] Worker (pid:16156) exited with code 1.
+[2023-10-02 17:05:14 +0000] [16507] [INFO] Booting worker with pid: 16507
+[2023-10-02 17:06:16 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16507)
+[2023-10-02 17:06:16 +0000] [16507] [INFO] Worker exiting (pid: 16507)
+[2023-10-02 17:06:16 +0000] [14842] [ERROR] Worker (pid:16507) exited with code 1
+[2023-10-02 17:06:16 +0000] [14842] [ERROR] Worker (pid:16507) exited with code 1.
+[2023-10-02 17:06:16 +0000] [16508] [INFO] Booting worker with pid: 16508
+[2023-10-02 17:08:12 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16508)
+[2023-10-02 17:08:12 +0000] [16508] [INFO] Worker exiting (pid: 16508)
+[2023-10-02 17:08:12 +0000] [14842] [ERROR] Worker (pid:16508) exited with code 1
+[2023-10-02 17:08:12 +0000] [14842] [ERROR] Worker (pid:16508) exited with code 1.
+[2023-10-02 17:08:12 +0000] [16510] [INFO] Booting worker with pid: 16510
+[2023-10-02 17:09:13 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16510)
+[2023-10-02 17:09:13 +0000] [16510] [INFO] Worker exiting (pid: 16510)
+[2023-10-02 17:09:13 +0000] [14842] [ERROR] Worker (pid:16510) exited with code 1
+[2023-10-02 17:09:13 +0000] [14842] [ERROR] Worker (pid:16510) exited with code 1.
+[2023-10-02 17:09:13 +0000] [16511] [INFO] Booting worker with pid: 16511
+[2023-10-02 17:22:17 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16511)
+[2023-10-02 17:22:17 +0000] [16511] [INFO] Worker exiting (pid: 16511)
+[2023-10-02 17:22:17 +0000] [14842] [ERROR] Worker (pid:16511) exited with code 1
+[2023-10-02 17:22:17 +0000] [14842] [ERROR] Worker (pid:16511) exited with code 1.
+[2023-10-02 17:22:17 +0000] [16518] [INFO] Booting worker with pid: 16518
+[2023-10-02 17:36:38 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16518)
+[2023-10-02 17:36:38 +0000] [16518] [INFO] Worker exiting (pid: 16518)
+[2023-10-02 17:36:38 +0000] [14842] [ERROR] Worker (pid:16518) exited with code 1
+[2023-10-02 17:36:38 +0000] [14842] [ERROR] Worker (pid:16518) exited with code 1.
+[2023-10-02 17:36:38 +0000] [16519] [INFO] Booting worker with pid: 16519
+[2023-10-02 17:37:41 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16519)
+[2023-10-02 17:37:41 +0000] [16519] [INFO] Worker exiting (pid: 16519)
+[2023-10-02 17:37:41 +0000] [14842] [ERROR] Worker (pid:16519) exited with code 1
+[2023-10-02 17:37:41 +0000] [14842] [ERROR] Worker (pid:16519) exited with code 1.
+[2023-10-02 17:37:41 +0000] [16520] [INFO] Booting worker with pid: 16520
+[2023-10-02 17:45:07 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16520)
+[2023-10-02 17:45:07 +0000] [16520] [INFO] Worker exiting (pid: 16520)
+[2023-10-02 17:45:07 +0000] [14842] [ERROR] Worker (pid:16520) exited with code 1
+[2023-10-02 17:45:07 +0000] [14842] [ERROR] Worker (pid:16520) exited with code 1.
+[2023-10-02 17:45:07 +0000] [16656] [INFO] Booting worker with pid: 16656
+[2023-10-02 17:46:08 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16656)
+[2023-10-02 17:46:08 +0000] [16656] [INFO] Worker exiting (pid: 16656)
+[2023-10-02 17:46:08 +0000] [14842] [ERROR] Worker (pid:16656) exited with code 1
+[2023-10-02 17:46:08 +0000] [14842] [ERROR] Worker (pid:16656) exited with code 1.
+[2023-10-02 17:46:08 +0000] [16657] [INFO] Booting worker with pid: 16657
+[2023-10-02 20:28:50 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16657)
+[2023-10-02 20:28:50 +0000] [16657] [INFO] Worker exiting (pid: 16657)
+[2023-10-02 20:28:50 +0000] [14842] [ERROR] Worker (pid:16657) exited with code 1
+[2023-10-02 20:28:50 +0000] [14842] [ERROR] Worker (pid:16657) exited with code 1.
+[2023-10-02 20:28:50 +0000] [16910] [INFO] Booting worker with pid: 16910
+[2023-10-02 20:29:51 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16910)
+[2023-10-02 20:29:51 +0000] [16910] [INFO] Worker exiting (pid: 16910)
+[2023-10-02 20:29:51 +0000] [14842] [ERROR] Worker (pid:16910) exited with code 1
+[2023-10-02 20:29:51 +0000] [14842] [ERROR] Worker (pid:16910) exited with code 1.
+[2023-10-02 20:29:51 +0000] [16911] [INFO] Booting worker with pid: 16911
+[2023-10-02 20:30:52 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16911)
+[2023-10-02 20:30:52 +0000] [16911] [INFO] Worker exiting (pid: 16911)
+[2023-10-02 20:30:52 +0000] [14842] [ERROR] Worker (pid:16911) exited with code 1
+[2023-10-02 20:30:52 +0000] [14842] [ERROR] Worker (pid:16911) exited with code 1.
+[2023-10-02 20:30:52 +0000] [16912] [INFO] Booting worker with pid: 16912
+[2023-10-02 20:31:54 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16912)
+[2023-10-02 20:31:54 +0000] [16912] [INFO] Worker exiting (pid: 16912)
+[2023-10-02 20:31:54 +0000] [14842] [ERROR] Worker (pid:16912) exited with code 1
+[2023-10-02 20:31:54 +0000] [14842] [ERROR] Worker (pid:16912) exited with code 1.
+[2023-10-02 20:31:54 +0000] [16913] [INFO] Booting worker with pid: 16913
+[2023-10-02 20:32:55 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16913)
+[2023-10-02 20:32:55 +0000] [16913] [INFO] Worker exiting (pid: 16913)
+[2023-10-02 20:32:55 +0000] [14842] [ERROR] Worker (pid:16913) exited with code 1
+[2023-10-02 20:32:55 +0000] [14842] [ERROR] Worker (pid:16913) exited with code 1.
+[2023-10-02 20:32:55 +0000] [16914] [INFO] Booting worker with pid: 16914
+[2023-10-02 20:33:56 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16914)
+[2023-10-02 20:33:56 +0000] [16914] [INFO] Worker exiting (pid: 16914)
+[2023-10-02 20:33:56 +0000] [14842] [ERROR] Worker (pid:16914) exited with code 1
+[2023-10-02 20:33:56 +0000] [14842] [ERROR] Worker (pid:16914) exited with code 1.
+[2023-10-02 20:33:56 +0000] [16915] [INFO] Booting worker with pid: 16915
+[2023-10-03 02:26:05 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:16915)
+[2023-10-03 02:26:05 +0000] [16915] [INFO] Worker exiting (pid: 16915)
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+Swapnil
+Swapnil@999
+<class 'str'>
+user= Swapnil
+<QuerySet [<CustomUser: Swapnil>]>
+<QuerySet []>
+verified
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+[2023-10-03 02:26:05 +0000] [14842] [ERROR] Worker (pid:16915) exited with code 1
+[2023-10-03 02:26:05 +0000] [14842] [ERROR] Worker (pid:16915) exited with code 1.
+[2023-10-03 02:26:05 +0000] [17231] [INFO] Booting worker with pid: 17231
+[2023-10-03 02:27:06 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:17231)
+[2023-10-03 02:27:06 +0000] [17231] [INFO] Worker exiting (pid: 17231)
+[2023-10-03 02:27:07 +0000] [14842] [ERROR] Worker (pid:17231) exited with code 1
+[2023-10-03 02:27:07 +0000] [14842] [ERROR] Worker (pid:17231) exited with code 1.
+[2023-10-03 02:27:07 +0000] [17232] [INFO] Booting worker with pid: 17232
+[2023-10-03 02:28:08 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:17232)
+[2023-10-03 02:28:08 +0000] [17232] [INFO] Worker exiting (pid: 17232)
+[2023-10-03 02:28:08 +0000] [14842] [ERROR] Worker (pid:17232) exited with code 1
+[2023-10-03 02:28:08 +0000] [14842] [ERROR] Worker (pid:17232) exited with code 1.
+[2023-10-03 02:28:08 +0000] [17233] [INFO] Booting worker with pid: 17233
+[2023-10-03 02:40:44 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:17233)
+[2023-10-03 02:40:44 +0000] [17233] [INFO] Worker exiting (pid: 17233)
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+[2023-10-03 02:40:44 +0000] [14842] [ERROR] Worker (pid:17233) exited with code 1
+[2023-10-03 02:40:44 +0000] [14842] [ERROR] Worker (pid:17233) exited with code 1.
+[2023-10-03 02:40:44 +0000] [17235] [INFO] Booting worker with pid: 17235
+[2023-10-03 02:53:40 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:17235)
+[2023-10-03 02:53:40 +0000] [17235] [INFO] Worker exiting (pid: 17235)
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+[2023-10-03 02:53:40 +0000] [14842] [ERROR] Worker (pid:17235) exited with code 1
+[2023-10-03 02:53:40 +0000] [14842] [ERROR] Worker (pid:17235) exited with code 1.
+[2023-10-03 02:53:40 +0000] [17236] [INFO] Booting worker with pid: 17236
+[2023-10-03 02:57:05 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:17236)
+[2023-10-03 02:57:05 +0000] [17236] [INFO] Worker exiting (pid: 17236)
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+[2023-10-03 02:57:05 +0000] [14842] [ERROR] Worker (pid:17236) exited with code 1
+[2023-10-03 02:57:05 +0000] [14842] [ERROR] Worker (pid:17236) exited with code 1.
+[2023-10-03 02:57:05 +0000] [17238] [INFO] Booting worker with pid: 17238
+[2023-10-03 03:05:02 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:17238)
+[2023-10-03 03:05:02 +0000] [17238] [INFO] Worker exiting (pid: 17238)
+Swapnil
+Swapnil@999
+<class 'str'>
+user= Swapnil
+<QuerySet [<CustomUser: Swapnil>]>
+<QuerySet []>
+verified
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+[2023-10-03 03:05:02 +0000] [14842] [ERROR] Worker (pid:17238) exited with code 1
+[2023-10-03 03:05:02 +0000] [14842] [ERROR] Worker (pid:17238) exited with code 1.
+[2023-10-03 03:05:02 +0000] [17239] [INFO] Booting worker with pid: 17239
+[2023-10-03 03:07:01 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:17239)
+[2023-10-03 03:07:01 +0000] [17239] [INFO] Worker exiting (pid: 17239)
+[2023-10-03 03:07:01 +0000] [14842] [ERROR] Worker (pid:17239) exited with code 1
+[2023-10-03 03:07:01 +0000] [14842] [ERROR] Worker (pid:17239) exited with code 1.
+[2023-10-03 03:07:01 +0000] [17240] [INFO] Booting worker with pid: 17240
+[2023-10-03 03:09:01 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:17240)
+[2023-10-03 03:09:01 +0000] [17240] [INFO] Worker exiting (pid: 17240)
+[2023-10-03 03:09:01 +0000] [14842] [ERROR] Worker (pid:17240) exited with code 1
+[2023-10-03 03:09:01 +0000] [14842] [ERROR] Worker (pid:17240) exited with code 1.
+[2023-10-03 03:09:01 +0000] [17241] [INFO] Booting worker with pid: 17241
+[2023-10-03 03:10:02 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:17241)
+[2023-10-03 03:10:02 +0000] [17241] [INFO] Worker exiting (pid: 17241)
+[2023-10-03 03:10:02 +0000] [14842] [ERROR] Worker (pid:17241) exited with code 1
+[2023-10-03 03:10:02 +0000] [14842] [ERROR] Worker (pid:17241) exited with code 1.
+[2023-10-03 03:10:02 +0000] [17244] [INFO] Booting worker with pid: 17244
+[2023-10-03 03:38:19 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:17244)
+[2023-10-03 03:38:19 +0000] [17244] [INFO] Worker exiting (pid: 17244)
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+[2023-10-03 03:38:19 +0000] [14842] [ERROR] Worker (pid:17244) exited with code 1
+[2023-10-03 03:38:19 +0000] [14842] [ERROR] Worker (pid:17244) exited with code 1.
+[2023-10-03 03:38:19 +0000] [17295] [INFO] Booting worker with pid: 17295
+[2023-10-03 03:40:07 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:17295)
+[2023-10-03 03:40:07 +0000] [17295] [INFO] Worker exiting (pid: 17295)
+[2023-10-03 03:40:07 +0000] [14842] [ERROR] Worker (pid:17295) exited with code 1
+[2023-10-03 03:40:07 +0000] [14842] [ERROR] Worker (pid:17295) exited with code 1.
+[2023-10-03 03:40:07 +0000] [17296] [INFO] Booting worker with pid: 17296
+[2023-10-03 03:41:12 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:17296)
+[2023-10-03 03:41:12 +0000] [17296] [INFO] Worker exiting (pid: 17296)
+[2023-10-03 03:41:13 +0000] [14842] [ERROR] Worker (pid:17296) exited with code 1
+[2023-10-03 03:41:13 +0000] [14842] [ERROR] Worker (pid:17296) exited with code 1.
+[2023-10-03 03:41:13 +0000] [17297] [INFO] Booting worker with pid: 17297
+[2023-10-03 06:03:26 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:17297)
+[2023-10-03 06:03:26 +0000] [17297] [INFO] Worker exiting (pid: 17297)
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+[2023-10-03 06:03:26 +0000] [14842] [ERROR] Worker (pid:17297) exited with code 1
+[2023-10-03 06:03:26 +0000] [14842] [ERROR] Worker (pid:17297) exited with code 1.
+[2023-10-03 06:03:26 +0000] [17346] [INFO] Booting worker with pid: 17346
+[2023-10-03 06:04:27 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:17346)
+[2023-10-03 06:04:27 +0000] [17346] [INFO] Worker exiting (pid: 17346)
+[2023-10-03 06:04:27 +0000] [14842] [ERROR] Worker (pid:17346) exited with code 1
+[2023-10-03 06:04:27 +0000] [14842] [ERROR] Worker (pid:17346) exited with code 1.
+[2023-10-03 06:04:27 +0000] [17347] [INFO] Booting worker with pid: 17347
+[2023-10-03 06:21:06 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:17347)
+[2023-10-03 06:21:06 +0000] [17347] [INFO] Worker exiting (pid: 17347)
+[2023-10-03 06:21:06 +0000] [14842] [ERROR] Worker (pid:17347) exited with code 1
+[2023-10-03 06:21:06 +0000] [14842] [ERROR] Worker (pid:17347) exited with code 1.
+[2023-10-03 06:21:06 +0000] [17430] [INFO] Booting worker with pid: 17430
+[2023-10-03 06:22:07 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:17430)
+[2023-10-03 06:22:07 +0000] [17430] [INFO] Worker exiting (pid: 17430)
+[2023-10-03 06:22:07 +0000] [14842] [ERROR] Worker (pid:17430) exited with code 1
+[2023-10-03 06:22:07 +0000] [14842] [ERROR] Worker (pid:17430) exited with code 1.
+[2023-10-03 06:22:07 +0000] [17432] [INFO] Booting worker with pid: 17432
+[2023-10-03 06:24:45 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:17432)
+[2023-10-03 06:24:45 +0000] [17432] [INFO] Worker exiting (pid: 17432)
+[2023-10-03 06:24:45 +0000] [14842] [ERROR] Worker (pid:17432) exited with code 1
+[2023-10-03 06:24:45 +0000] [14842] [ERROR] Worker (pid:17432) exited with code 1.
+[2023-10-03 06:24:45 +0000] [17434] [INFO] Booting worker with pid: 17434
+[2023-10-03 06:26:00 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:17434)
+[2023-10-03 06:26:00 +0000] [17434] [INFO] Worker exiting (pid: 17434)
+[2023-10-03 06:26:01 +0000] [14842] [ERROR] Worker (pid:17434) exited with code 1
+[2023-10-03 06:26:01 +0000] [14842] [ERROR] Worker (pid:17434) exited with code 1.
+[2023-10-03 06:26:01 +0000] [17447] [INFO] Booting worker with pid: 17447
+[2023-10-03 06:27:03 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:17447)
+[2023-10-03 06:27:03 +0000] [17447] [INFO] Worker exiting (pid: 17447)
+[2023-10-03 06:27:03 +0000] [14842] [ERROR] Worker (pid:17447) exited with code 1
+[2023-10-03 06:27:03 +0000] [14842] [ERROR] Worker (pid:17447) exited with code 1.
+[2023-10-03 06:27:03 +0000] [17448] [INFO] Booting worker with pid: 17448
+[2023-10-03 06:28:04 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:17448)
+[2023-10-03 06:28:04 +0000] [17448] [INFO] Worker exiting (pid: 17448)
+[2023-10-03 06:28:04 +0000] [14842] [ERROR] Worker (pid:17448) exited with code 1
+[2023-10-03 06:28:04 +0000] [14842] [ERROR] Worker (pid:17448) exited with code 1.
+[2023-10-03 06:28:04 +0000] [17449] [INFO] Booting worker with pid: 17449
+[2023-10-03 06:29:05 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:17449)
+[2023-10-03 06:29:05 +0000] [17449] [INFO] Worker exiting (pid: 17449)
+[2023-10-03 06:29:05 +0000] [14842] [ERROR] Worker (pid:17449) exited with code 1
+[2023-10-03 06:29:05 +0000] [14842] [ERROR] Worker (pid:17449) exited with code 1.
+[2023-10-03 06:29:05 +0000] [17451] [INFO] Booting worker with pid: 17451
+[2023-10-03 06:30:06 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:17451)
+[2023-10-03 06:30:06 +0000] [17451] [INFO] Worker exiting (pid: 17451)
+[2023-10-03 06:30:06 +0000] [14842] [ERROR] Worker (pid:17451) exited with code 1
+[2023-10-03 06:30:06 +0000] [14842] [ERROR] Worker (pid:17451) exited with code 1.
+[2023-10-03 06:30:06 +0000] [17452] [INFO] Booting worker with pid: 17452
+[2023-10-03 06:31:07 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:17452)
+[2023-10-03 06:31:07 +0000] [17452] [INFO] Worker exiting (pid: 17452)
+[2023-10-03 06:31:07 +0000] [14842] [ERROR] Worker (pid:17452) exited with code 1
+[2023-10-03 06:31:07 +0000] [14842] [ERROR] Worker (pid:17452) exited with code 1.
+[2023-10-03 06:31:07 +0000] [17453] [INFO] Booting worker with pid: 17453
+[2023-10-03 06:32:08 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:17453)
+[2023-10-03 06:32:08 +0000] [17453] [INFO] Worker exiting (pid: 17453)
+[2023-10-03 06:32:08 +0000] [14842] [ERROR] Worker (pid:17453) exited with code 1
+[2023-10-03 06:32:08 +0000] [14842] [ERROR] Worker (pid:17453) exited with code 1.
+[2023-10-03 06:32:08 +0000] [17454] [INFO] Booting worker with pid: 17454
+[2023-10-03 13:52:41 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:17454)
+[2023-10-03 13:52:41 +0000] [17454] [INFO] Worker exiting (pid: 17454)
+Swapnil
+Swapnil@999
+<class 'str'>
+user= Swapnil
+<QuerySet [<CustomUser: Swapnil>]>
+<QuerySet []>
+verified
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+[2023-10-03 13:52:41 +0000] [14842] [ERROR] Worker (pid:17454) exited with code 1
+[2023-10-03 13:52:41 +0000] [14842] [ERROR] Worker (pid:17454) exited with code 1.
+[2023-10-03 13:52:41 +0000] [18072] [INFO] Booting worker with pid: 18072
+[2023-10-03 13:54:41 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18072)
+[2023-10-03 13:54:41 +0000] [18072] [INFO] Worker exiting (pid: 18072)
+[2023-10-03 13:54:41 +0000] [14842] [ERROR] Worker (pid:18072) exited with code 1
+[2023-10-03 13:54:41 +0000] [14842] [ERROR] Worker (pid:18072) exited with code 1.
+[2023-10-03 13:54:41 +0000] [18073] [INFO] Booting worker with pid: 18073
+[2023-10-03 13:57:58 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18073)
+[2023-10-03 13:57:58 +0000] [18073] [INFO] Worker exiting (pid: 18073)
+[2023-10-03 13:57:58 +0000] [14842] [ERROR] Worker (pid:18073) exited with code 1
+[2023-10-03 13:57:58 +0000] [14842] [ERROR] Worker (pid:18073) exited with code 1.
+[2023-10-03 13:57:58 +0000] [18075] [INFO] Booting worker with pid: 18075
+[2023-10-03 13:58:59 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18075)
+[2023-10-03 13:58:59 +0000] [18075] [INFO] Worker exiting (pid: 18075)
+[2023-10-03 13:58:59 +0000] [14842] [ERROR] Worker (pid:18075) exited with code 1
+[2023-10-03 13:58:59 +0000] [14842] [ERROR] Worker (pid:18075) exited with code 1.
+[2023-10-03 13:58:59 +0000] [18076] [INFO] Booting worker with pid: 18076
+[2023-10-03 14:00:00 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18076)
+[2023-10-03 14:00:00 +0000] [18076] [INFO] Worker exiting (pid: 18076)
+[2023-10-03 14:00:00 +0000] [14842] [ERROR] Worker (pid:18076) exited with code 1
+[2023-10-03 14:00:00 +0000] [14842] [ERROR] Worker (pid:18076) exited with code 1.
+[2023-10-03 14:00:00 +0000] [18077] [INFO] Booting worker with pid: 18077
+[2023-10-03 14:01:01 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18077)
+[2023-10-03 14:01:01 +0000] [18077] [INFO] Worker exiting (pid: 18077)
+[2023-10-03 14:01:01 +0000] [14842] [ERROR] Worker (pid:18077) exited with code 1
+[2023-10-03 14:01:01 +0000] [14842] [ERROR] Worker (pid:18077) exited with code 1.
+[2023-10-03 14:01:01 +0000] [18079] [INFO] Booting worker with pid: 18079
+[2023-10-03 14:02:03 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18079)
+[2023-10-03 14:02:03 +0000] [18079] [INFO] Worker exiting (pid: 18079)
+[2023-10-03 14:02:03 +0000] [14842] [ERROR] Worker (pid:18079) exited with code 1
+[2023-10-03 14:02:03 +0000] [14842] [ERROR] Worker (pid:18079) exited with code 1.
+[2023-10-03 14:02:03 +0000] [18080] [INFO] Booting worker with pid: 18080
+[2023-10-03 14:03:04 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18080)
+[2023-10-03 14:03:04 +0000] [18080] [INFO] Worker exiting (pid: 18080)
+[2023-10-03 14:03:04 +0000] [14842] [ERROR] Worker (pid:18080) exited with code 1
+[2023-10-03 14:03:04 +0000] [14842] [ERROR] Worker (pid:18080) exited with code 1.
+[2023-10-03 14:03:04 +0000] [18081] [INFO] Booting worker with pid: 18081
+[2023-10-03 14:04:22 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18081)
+[2023-10-03 14:04:22 +0000] [18081] [INFO] Worker exiting (pid: 18081)
+[2023-10-03 14:04:22 +0000] [14842] [ERROR] Worker (pid:18081) exited with code 1
+[2023-10-03 14:04:22 +0000] [14842] [ERROR] Worker (pid:18081) exited with code 1.
+[2023-10-03 14:04:22 +0000] [18082] [INFO] Booting worker with pid: 18082
+[2023-10-03 14:05:23 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18082)
+[2023-10-03 14:05:23 +0000] [18082] [INFO] Worker exiting (pid: 18082)
+[2023-10-03 14:05:23 +0000] [14842] [ERROR] Worker (pid:18082) exited with code 1
+[2023-10-03 14:05:23 +0000] [14842] [ERROR] Worker (pid:18082) exited with code 1.
+[2023-10-03 14:05:23 +0000] [18083] [INFO] Booting worker with pid: 18083
+[2023-10-03 14:07:07 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18083)
+[2023-10-03 14:07:07 +0000] [18083] [INFO] Worker exiting (pid: 18083)
+hey
+[2023-10-03 14:07:07 +0000] [14842] [ERROR] Worker (pid:18083) exited with code 1
+[2023-10-03 14:07:07 +0000] [14842] [ERROR] Worker (pid:18083) exited with code 1.
+[2023-10-03 14:07:07 +0000] [18085] [INFO] Booting worker with pid: 18085
+[2023-10-03 14:08:08 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18085)
+[2023-10-03 14:08:08 +0000] [18085] [INFO] Worker exiting (pid: 18085)
+[2023-10-03 14:08:09 +0000] [14842] [ERROR] Worker (pid:18085) exited with code 1
+[2023-10-03 14:08:09 +0000] [14842] [ERROR] Worker (pid:18085) exited with code 1.
+[2023-10-03 14:08:09 +0000] [18086] [INFO] Booting worker with pid: 18086
+[2023-10-03 14:09:10 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18086)
+[2023-10-03 14:09:10 +0000] [18086] [INFO] Worker exiting (pid: 18086)
+[2023-10-03 14:09:10 +0000] [14842] [ERROR] Worker (pid:18086) exited with code 1
+[2023-10-03 14:09:10 +0000] [14842] [ERROR] Worker (pid:18086) exited with code 1.
+[2023-10-03 14:09:10 +0000] [18087] [INFO] Booting worker with pid: 18087
+[2023-10-03 14:10:11 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18087)
+[2023-10-03 14:10:11 +0000] [18087] [INFO] Worker exiting (pid: 18087)
+[2023-10-03 14:10:11 +0000] [14842] [ERROR] Worker (pid:18087) exited with code 1
+[2023-10-03 14:10:11 +0000] [14842] [ERROR] Worker (pid:18087) exited with code 1.
+[2023-10-03 14:10:11 +0000] [18088] [INFO] Booting worker with pid: 18088
+[2023-10-03 14:11:36 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18088)
+[2023-10-03 14:11:36 +0000] [18088] [INFO] Worker exiting (pid: 18088)
+[2023-10-03 14:11:36 +0000] [14842] [ERROR] Worker (pid:18088) exited with code 1
+[2023-10-03 14:11:36 +0000] [14842] [ERROR] Worker (pid:18088) exited with code 1.
+[2023-10-03 14:11:36 +0000] [18089] [INFO] Booting worker with pid: 18089
+[2023-10-03 14:12:54 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18089)
+[2023-10-03 14:12:54 +0000] [18089] [INFO] Worker exiting (pid: 18089)
+Swapnil
+Swapnil@999
+<class 'str'>
+user= Swapnil
+<QuerySet [<CustomUser: Swapnil>]>
+<QuerySet []>
+verified
+Swapnil
+Swapnil@999
+<class 'str'>
+user= Swapnil
+<QuerySet [<CustomUser: Swapnil>]>
+<QuerySet []>
+verified
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+[2023-10-03 14:12:54 +0000] [14842] [ERROR] Worker (pid:18089) exited with code 1
+[2023-10-03 14:12:54 +0000] [14842] [ERROR] Worker (pid:18089) exited with code 1.
+[2023-10-03 14:12:54 +0000] [18090] [INFO] Booting worker with pid: 18090
+[2023-10-03 14:15:32 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18090)
+[2023-10-03 14:15:32 +0000] [18090] [INFO] Worker exiting (pid: 18090)
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+Swapnil
+Swapnil@999
+<class 'str'>
+user= Swapnil
+<QuerySet [<CustomUser: Swapnil>]>
+<QuerySet []>
+verified
+[2023-10-03 14:15:32 +0000] [14842] [ERROR] Worker (pid:18090) exited with code 1
+[2023-10-03 14:15:32 +0000] [14842] [ERROR] Worker (pid:18090) exited with code 1.
+[2023-10-03 14:15:32 +0000] [18092] [INFO] Booting worker with pid: 18092
+[2023-10-03 14:16:47 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18092)
+[2023-10-03 14:16:47 +0000] [18092] [INFO] Worker exiting (pid: 18092)
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+Swapnil
+Swapnil@999
+<class 'str'>
+user= Swapnil
+<QuerySet [<CustomUser: Swapnil>]>
+<QuerySet []>
+verified
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+[2023-10-03 14:16:47 +0000] [14842] [ERROR] Worker (pid:18092) exited with code 1
+[2023-10-03 14:16:47 +0000] [14842] [ERROR] Worker (pid:18092) exited with code 1.
+[2023-10-03 14:16:47 +0000] [18094] [INFO] Booting worker with pid: 18094
+[2023-10-03 14:18:47 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18094)
+[2023-10-03 14:18:47 +0000] [18094] [INFO] Worker exiting (pid: 18094)
+[2023-10-03 14:18:47 +0000] [14842] [ERROR] Worker (pid:18094) exited with code 1
+[2023-10-03 14:18:47 +0000] [14842] [ERROR] Worker (pid:18094) exited with code 1.
+[2023-10-03 14:18:47 +0000] [18098] [INFO] Booting worker with pid: 18098
+[2023-10-03 14:20:46 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18098)
+[2023-10-03 14:20:46 +0000] [18098] [INFO] Worker exiting (pid: 18098)
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+[2023-10-03 14:20:47 +0000] [14842] [ERROR] Worker (pid:18098) exited with code 1
+[2023-10-03 14:20:47 +0000] [14842] [ERROR] Worker (pid:18098) exited with code 1.
+[2023-10-03 14:20:47 +0000] [18099] [INFO] Booting worker with pid: 18099
+[2023-10-03 14:21:48 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18099)
+[2023-10-03 14:21:48 +0000] [18099] [INFO] Worker exiting (pid: 18099)
+[2023-10-03 14:21:48 +0000] [14842] [ERROR] Worker (pid:18099) exited with code 1
+[2023-10-03 14:21:48 +0000] [14842] [ERROR] Worker (pid:18099) exited with code 1.
+[2023-10-03 14:21:48 +0000] [18100] [INFO] Booting worker with pid: 18100
+[2023-10-03 14:24:18 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18100)
+[2023-10-03 14:24:18 +0000] [18100] [INFO] Worker exiting (pid: 18100)
+Swapnil
+Swapnil@999
+<class 'str'>
+user= Swapnil
+<QuerySet [<CustomUser: Swapnil>]>
+<QuerySet []>
+verified
+Swapnil
+Swapnil@999
+<class 'str'>
+user= Swapnil
+<QuerySet [<CustomUser: Swapnil>]>
+<QuerySet []>
+verified
+Swapnil
+Swapnil@999
+<class 'str'>
+user= Swapnil
+<QuerySet [<CustomUser: Swapnil>]>
+<QuerySet []>
+verified
+Swapnil
+Swapnil@999
+<class 'str'>
+user= Swapnil
+<QuerySet [<CustomUser: Swapnil>]>
+<QuerySet []>
+verified
+Swapnil
+Swapnil@999
+<class 'str'>
+user= Swapnil
+<QuerySet [<CustomUser: Swapnil>]>
+<QuerySet []>
+verified
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+Swapnil
+Swapnil@999
+<class 'str'>
+user= Swapnil
+<QuerySet [<CustomUser: Swapnil>]>
+<QuerySet []>
+verified
+[2023-10-03 14:24:18 +0000] [14842] [ERROR] Worker (pid:18100) exited with code 1
+[2023-10-03 14:24:18 +0000] [14842] [ERROR] Worker (pid:18100) exited with code 1.
+[2023-10-03 14:24:18 +0000] [18102] [INFO] Booting worker with pid: 18102
+[2023-10-03 14:25:54 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18102)
+[2023-10-03 14:25:54 +0000] [18102] [INFO] Worker exiting (pid: 18102)
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+[2023-10-03 14:25:54 +0000] [14842] [ERROR] Worker (pid:18102) exited with code 1
+[2023-10-03 14:25:54 +0000] [14842] [ERROR] Worker (pid:18102) exited with code 1.
+[2023-10-03 14:25:54 +0000] [18103] [INFO] Booting worker with pid: 18103
+[2023-10-03 14:27:37 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18103)
+[2023-10-03 14:27:37 +0000] [18103] [INFO] Worker exiting (pid: 18103)
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+[2023-10-03 14:27:37 +0000] [14842] [ERROR] Worker (pid:18103) exited with code 1
+[2023-10-03 14:27:37 +0000] [14842] [ERROR] Worker (pid:18103) exited with code 1.
+[2023-10-03 14:27:37 +0000] [18104] [INFO] Booting worker with pid: 18104
+[2023-10-03 14:28:39 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18104)
+[2023-10-03 14:28:39 +0000] [18104] [INFO] Worker exiting (pid: 18104)
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+[2023-10-03 14:28:39 +0000] [14842] [ERROR] Worker (pid:18104) exited with code 1
+[2023-10-03 14:28:39 +0000] [14842] [ERROR] Worker (pid:18104) exited with code 1.
+[2023-10-03 14:28:39 +0000] [18194] [INFO] Booting worker with pid: 18194
+[2023-10-03 14:30:24 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18194)
+[2023-10-03 14:30:24 +0000] [18194] [INFO] Worker exiting (pid: 18194)
+[2023-10-03 14:30:24 +0000] [14842] [ERROR] Worker (pid:18194) exited with code 1
+[2023-10-03 14:30:24 +0000] [14842] [ERROR] Worker (pid:18194) exited with code 1.
+[2023-10-03 14:30:24 +0000] [18195] [INFO] Booting worker with pid: 18195
+[2023-10-03 14:31:25 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18195)
+[2023-10-03 14:31:25 +0000] [18195] [INFO] Worker exiting (pid: 18195)
+[2023-10-03 14:31:25 +0000] [14842] [ERROR] Worker (pid:18195) exited with code 1
+[2023-10-03 14:31:25 +0000] [14842] [ERROR] Worker (pid:18195) exited with code 1.
+[2023-10-03 14:31:25 +0000] [18196] [INFO] Booting worker with pid: 18196
+[2023-10-03 14:35:23 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18196)
+[2023-10-03 14:35:23 +0000] [18196] [INFO] Worker exiting (pid: 18196)
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+Swapnil
+Swapnil@999
+<class 'str'>
+user= Swapnil
+<QuerySet [<CustomUser: Swapnil>]>
+<QuerySet []>
+verified
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+[2023-10-03 14:35:23 +0000] [14842] [ERROR] Worker (pid:18196) exited with code 1
+[2023-10-03 14:35:23 +0000] [14842] [ERROR] Worker (pid:18196) exited with code 1.
+[2023-10-03 14:35:23 +0000] [18269] [INFO] Booting worker with pid: 18269
+[2023-10-03 14:36:25 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18269)
+[2023-10-03 14:36:25 +0000] [18269] [INFO] Worker exiting (pid: 18269)
+[2023-10-03 14:36:25 +0000] [14842] [ERROR] Worker (pid:18269) exited with code 1
+[2023-10-03 14:36:25 +0000] [14842] [ERROR] Worker (pid:18269) exited with code 1.
+[2023-10-03 14:36:25 +0000] [18270] [INFO] Booting worker with pid: 18270
+[2023-10-03 14:38:02 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18270)
+[2023-10-03 14:38:02 +0000] [18270] [INFO] Worker exiting (pid: 18270)
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+Swapnil
+Swapnil@999
+<class 'str'>
+user= Swapnil
+<QuerySet [<CustomUser: Swapnil>]>
+<QuerySet []>
+verified
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+[2023-10-03 14:38:02 +0000] [14842] [ERROR] Worker (pid:18270) exited with code 1
+[2023-10-03 14:38:02 +0000] [14842] [ERROR] Worker (pid:18270) exited with code 1.
+[2023-10-03 14:38:02 +0000] [18273] [INFO] Booting worker with pid: 18273
+[2023-10-03 14:39:03 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18273)
+[2023-10-03 14:39:03 +0000] [18273] [INFO] Worker exiting (pid: 18273)
+[2023-10-03 14:39:03 +0000] [14842] [ERROR] Worker (pid:18273) exited with code 1
+[2023-10-03 14:39:03 +0000] [14842] [ERROR] Worker (pid:18273) exited with code 1.
+[2023-10-03 14:39:03 +0000] [18357] [INFO] Booting worker with pid: 18357
+[2023-10-03 14:40:33 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18357)
+[2023-10-03 14:40:33 +0000] [18357] [INFO] Worker exiting (pid: 18357)
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+Swapnil
+Swapnil@999
+<class 'str'>
+user= Swapnil
+<QuerySet [<CustomUser: Swapnil>]>
+<QuerySet []>
+verified
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>]>
+[2023-10-03 14:40:33 +0000] [14842] [ERROR] Worker (pid:18357) exited with code 1
+[2023-10-03 14:40:33 +0000] [14842] [ERROR] Worker (pid:18357) exited with code 1.
+[2023-10-03 14:40:33 +0000] [18358] [INFO] Booting worker with pid: 18358
+[2023-10-03 14:42:26 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18358)
+[2023-10-03 14:42:26 +0000] [18358] [INFO] Worker exiting (pid: 18358)
+[2023-10-03 14:42:26 +0000] [14842] [ERROR] Worker (pid:18358) exited with code 1
+[2023-10-03 14:42:26 +0000] [14842] [ERROR] Worker (pid:18358) exited with code 1.
+[2023-10-03 14:42:26 +0000] [18359] [INFO] Booting worker with pid: 18359
+[2023-10-03 14:46:42 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18359)
+[2023-10-03 14:46:42 +0000] [18359] [INFO] Worker exiting (pid: 18359)
+[2023-10-03 14:46:42 +0000] [14842] [ERROR] Worker (pid:18359) exited with code 1
+[2023-10-03 14:46:42 +0000] [14842] [ERROR] Worker (pid:18359) exited with code 1.
+[2023-10-03 14:46:42 +0000] [18363] [INFO] Booting worker with pid: 18363
+[2023-10-03 14:48:24 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18363)
+[2023-10-03 14:48:24 +0000] [18363] [INFO] Worker exiting (pid: 18363)
+[2023-10-03 14:48:24 +0000] [14842] [ERROR] Worker (pid:18363) exited with code 1
+[2023-10-03 14:48:24 +0000] [14842] [ERROR] Worker (pid:18363) exited with code 1.
+[2023-10-03 14:48:24 +0000] [18364] [INFO] Booting worker with pid: 18364
+[2023-10-03 14:49:25 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18364)
+[2023-10-03 14:49:25 +0000] [18364] [INFO] Worker exiting (pid: 18364)
+[2023-10-03 14:49:25 +0000] [14842] [ERROR] Worker (pid:18364) exited with code 1
+[2023-10-03 14:49:25 +0000] [14842] [ERROR] Worker (pid:18364) exited with code 1.
+[2023-10-03 14:49:25 +0000] [18365] [INFO] Booting worker with pid: 18365
+[2023-10-03 14:56:30 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18365)
+[2023-10-03 14:56:30 +0000] [18365] [INFO] Worker exiting (pid: 18365)
+[2023-10-03 14:56:30 +0000] [14842] [ERROR] Worker (pid:18365) exited with code 1
+[2023-10-03 14:56:30 +0000] [14842] [ERROR] Worker (pid:18365) exited with code 1.
+[2023-10-03 14:56:30 +0000] [18368] [INFO] Booting worker with pid: 18368
+[2023-10-03 14:57:31 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18368)
+[2023-10-03 14:57:31 +0000] [18368] [INFO] Worker exiting (pid: 18368)
+[2023-10-03 14:57:31 +0000] [14842] [ERROR] Worker (pid:18368) exited with code 1
+[2023-10-03 14:57:31 +0000] [14842] [ERROR] Worker (pid:18368) exited with code 1.
+[2023-10-03 14:57:31 +0000] [18369] [INFO] Booting worker with pid: 18369
+[2023-10-03 15:06:45 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18369)
+[2023-10-03 15:06:45 +0000] [18369] [INFO] Worker exiting (pid: 18369)
+[2023-10-03 15:06:45 +0000] [14842] [ERROR] Worker (pid:18369) exited with code 1
+[2023-10-03 15:06:45 +0000] [14842] [ERROR] Worker (pid:18369) exited with code 1.
+[2023-10-03 15:06:45 +0000] [18441] [INFO] Booting worker with pid: 18441
+[2023-10-03 15:12:37 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18441)
+[2023-10-03 15:12:37 +0000] [18441] [INFO] Worker exiting (pid: 18441)
+[2023-10-03 15:12:37 +0000] [14842] [ERROR] Worker (pid:18441) exited with code 1
+[2023-10-03 15:12:37 +0000] [14842] [ERROR] Worker (pid:18441) exited with code 1.
+[2023-10-03 15:12:37 +0000] [18507] [INFO] Booting worker with pid: 18507
+[2023-10-03 15:13:38 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18507)
+[2023-10-03 15:13:38 +0000] [18507] [INFO] Worker exiting (pid: 18507)
+[2023-10-03 15:13:38 +0000] [14842] [ERROR] Worker (pid:18507) exited with code 1
+[2023-10-03 15:13:38 +0000] [14842] [ERROR] Worker (pid:18507) exited with code 1.
+[2023-10-03 15:13:38 +0000] [18510] [INFO] Booting worker with pid: 18510
+[2023-10-03 15:16:12 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18510)
+[2023-10-03 15:16:12 +0000] [18510] [INFO] Worker exiting (pid: 18510)
+[2023-10-03 15:16:12 +0000] [14842] [ERROR] Worker (pid:18510) exited with code 1
+[2023-10-03 15:16:12 +0000] [14842] [ERROR] Worker (pid:18510) exited with code 1.
+[2023-10-03 15:16:12 +0000] [18518] [INFO] Booting worker with pid: 18518
+Internal Server Error: /homei/getotp/
+Traceback (most recent call last):
+  File "/home/ubuntu/logins/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/ubuntu/logins/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/logins/home/views.py", line 63, in getotp
+    send_mail(
+  File "/home/ubuntu/logins/venv/lib/python3.10/site-packages/django/core/mail/__init__.py", line 87, in send_mail
+    return mail.send()
+  File "/home/ubuntu/logins/venv/lib/python3.10/site-packages/django/core/mail/message.py", line 298, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "/home/ubuntu/logins/venv/lib/python3.10/site-packages/django/core/mail/backends/smtp.py", line 127, in send_messages
+    new_conn_created = self.open()
+  File "/home/ubuntu/logins/venv/lib/python3.10/site-packages/django/core/mail/backends/smtp.py", line 92, in open
+    self.connection.starttls(context=self.ssl_context)
+  File "/usr/lib/python3.10/smtplib.py", line 769, in starttls
+    self.ehlo_or_helo_if_needed()
+  File "/usr/lib/python3.10/smtplib.py", line 611, in ehlo_or_helo_if_needed
+    if not (200 <= self.ehlo()[0] <= 299):
+  File "/usr/lib/python3.10/smtplib.py", line 451, in ehlo
+    self.putcmd(self.ehlo_msg, name or self.local_hostname)
+  File "/usr/lib/python3.10/smtplib.py", line 378, in putcmd
+    self.send(f'{s}{CRLF}')
+  File "/usr/lib/python3.10/smtplib.py", line 365, in send
+    raise SMTPServerDisconnected('please run connect() first')
+smtplib.SMTPServerDisconnected: please run connect() first
+[2023-10-03 15:22:17 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18518)
+[2023-10-03 15:22:17 +0000] [18518] [INFO] Worker exiting (pid: 18518)
+swapniljagadale999@gmail.com
+True
+[2023-10-03 15:22:17 +0000] [14842] [ERROR] Worker (pid:18518) exited with code 1
+[2023-10-03 15:22:17 +0000] [14842] [ERROR] Worker (pid:18518) exited with code 1.
+[2023-10-03 15:22:17 +0000] [18530] [INFO] Booting worker with pid: 18530
+Internal Server Error: /homei/getotp/
+Traceback (most recent call last):
+  File "/home/ubuntu/logins/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/ubuntu/logins/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/logins/home/views.py", line 63, in getotp
+    send_mail(
+  File "/home/ubuntu/logins/venv/lib/python3.10/site-packages/django/core/mail/__init__.py", line 87, in send_mail
+    return mail.send()
+  File "/home/ubuntu/logins/venv/lib/python3.10/site-packages/django/core/mail/message.py", line 298, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "/home/ubuntu/logins/venv/lib/python3.10/site-packages/django/core/mail/backends/smtp.py", line 127, in send_messages
+    new_conn_created = self.open()
+  File "/home/ubuntu/logins/venv/lib/python3.10/site-packages/django/core/mail/backends/smtp.py", line 92, in open
+    self.connection.starttls(context=self.ssl_context)
+  File "/usr/lib/python3.10/smtplib.py", line 769, in starttls
+    self.ehlo_or_helo_if_needed()
+  File "/usr/lib/python3.10/smtplib.py", line 611, in ehlo_or_helo_if_needed
+    if not (200 <= self.ehlo()[0] <= 299):
+  File "/usr/lib/python3.10/smtplib.py", line 451, in ehlo
+    self.putcmd(self.ehlo_msg, name or self.local_hostname)
+  File "/usr/lib/python3.10/smtplib.py", line 378, in putcmd
+    self.send(f'{s}{CRLF}')
+  File "/usr/lib/python3.10/smtplib.py", line 365, in send
+    raise SMTPServerDisconnected('please run connect() first')
+smtplib.SMTPServerDisconnected: please run connect() first
+[2023-10-03 15:35:03 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18530)
+[2023-10-03 15:35:03 +0000] [18530] [INFO] Worker exiting (pid: 18530)
+swapniljagadale999@gmail.com
+True
+[2023-10-03 15:35:03 +0000] [14842] [ERROR] Worker (pid:18530) exited with code 1
+[2023-10-03 15:35:03 +0000] [14842] [ERROR] Worker (pid:18530) exited with code 1.
+[2023-10-03 15:35:03 +0000] [18615] [INFO] Booting worker with pid: 18615
+Not Found: /goform/set_LimitClient_cfg
+[2023-10-03 15:37:29 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18615)
+[2023-10-03 15:37:29 +0000] [18615] [INFO] Worker exiting (pid: 18615)
+[2023-10-03 15:37:29 +0000] [14842] [ERROR] Worker (pid:18615) exited with code 1
+[2023-10-03 15:37:29 +0000] [14842] [ERROR] Worker (pid:18615) exited with code 1.
+[2023-10-03 15:37:29 +0000] [18619] [INFO] Booting worker with pid: 18619
+[2023-10-03 15:38:57 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18619)
+[2023-10-03 15:38:57 +0000] [18619] [INFO] Worker exiting (pid: 18619)
+[2023-10-03 15:38:57 +0000] [14842] [ERROR] Worker (pid:18619) exited with code 1
+[2023-10-03 15:38:57 +0000] [14842] [ERROR] Worker (pid:18619) exited with code 1.
+[2023-10-03 15:38:57 +0000] [18621] [INFO] Booting worker with pid: 18621
+[2023-10-03 15:39:59 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18621)
+[2023-10-03 15:39:59 +0000] [18621] [INFO] Worker exiting (pid: 18621)
+[2023-10-03 15:39:59 +0000] [14842] [ERROR] Worker (pid:18621) exited with code 1
+[2023-10-03 15:39:59 +0000] [14842] [ERROR] Worker (pid:18621) exited with code 1.
+[2023-10-03 15:39:59 +0000] [18622] [INFO] Booting worker with pid: 18622
+[2023-10-03 15:44:55 +0000] [14842] [CRITICAL] WORKER TIMEOUT (pid:18622)
+[2023-10-03 15:44:55 +0000] [18622] [INFO] Worker exiting (pid: 18622)
+[2023-10-03 15:44:55 +0000] [14842] [ERROR] Worker (pid:18622) exited with code 1
+[2023-10-03 15:44:55 +0000] [14842] [ERROR] Worker (pid:18622) exited with code 1.
+[2023-10-03 15:44:55 +0000] [18623] [INFO] Booting worker with pid: 18623
+Internal Server Error: /homei/getotp/
+Traceback (most recent call last):
+  File "/home/ubuntu/logins/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/ubuntu/logins/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/logins/home/views.py", line 63, in getotp
+    send_mail(
+  File "/home/ubuntu/logins/venv/lib/python3.10/site-packages/django/core/mail/__init__.py", line 87, in send_mail
+    return mail.send()
+  File "/home/ubuntu/logins/venv/lib/python3.10/site-packages/django/core/mail/message.py", line 298, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "/home/ubuntu/logins/venv/lib/python3.10/site-packages/django/core/mail/backends/smtp.py", line 127, in send_messages
+    new_conn_created = self.open()
+  File "/home/ubuntu/logins/venv/lib/python3.10/site-packages/django/core/mail/backends/smtp.py", line 92, in open
+    self.connection.starttls(context=self.ssl_context)
+  File "/usr/lib/python3.10/smtplib.py", line 769, in starttls
+    self.ehlo_or_helo_if_needed()
+  File "/usr/lib/python3.10/smtplib.py", line 611, in ehlo_or_helo_if_needed
+    if not (200 <= self.ehlo()[0] <= 299):
+  File "/usr/lib/python3.10/smtplib.py", line 451, in ehlo
+    self.putcmd(self.ehlo_msg, name or self.local_hostname)
+  File "/usr/lib/python3.10/smtplib.py", line 378, in putcmd
+    self.send(f'{s}{CRLF}')
+  File "/usr/lib/python3.10/smtplib.py", line 365, in send
+    raise SMTPServerDisconnected('please run connect() first')
+smtplib.SMTPServerDisconnected: please run connect() first
+[2023-10-03 15:48:13 +0000] [14842] [INFO] Handling signal: term
+[2023-10-03 15:48:13 +0000] [18623] [INFO] Worker exiting (pid: 18623)
+swapniljagadale999@gmail.com
+True
+[2023-10-03 15:48:13 +0000] [14842] [ERROR] Worker (pid:18623) was sent SIGTERM!
+[2023-10-03 15:48:14 +0000] [14842] [INFO] Shutting down: Master
+[2023-10-03 15:50:07 +0000] [18642] [INFO] Starting gunicorn 21.2.0
+[2023-10-03 15:50:07 +0000] [18642] [INFO] Listening at: http://0.0.0.0:8080 (18642)
+[2023-10-03 15:50:07 +0000] [18642] [INFO] Using worker: sync
+[2023-10-03 15:50:07 +0000] [18643] [INFO] Booting worker with pid: 18643
+[2023-10-03 15:50:07 +0000] [18644] [INFO] Booting worker with pid: 18644
+[2023-10-03 15:50:07 +0000] [18645] [INFO] Booting worker with pid: 18645
+[2023-10-03 15:50:07 +0000] [18646] [INFO] Booting worker with pid: 18646
+[2023-10-03 15:53:19 +0000] [18642] [CRITICAL] WORKER TIMEOUT (pid:18644)
+[2023-10-03 15:53:19 +0000] [18644] [INFO] Worker exiting (pid: 18644)
+[2023-10-03 15:53:19 +0000] [18642] [ERROR] Worker (pid:18644) exited with code 1
+[2023-10-03 15:53:19 +0000] [18642] [ERROR] Worker (pid:18644) exited with code 1.
+[2023-10-03 15:53:19 +0000] [18651] [INFO] Booting worker with pid: 18651
+[2023-10-03 15:57:25 +0000] [18642] [CRITICAL] WORKER TIMEOUT (pid:18646)
+[2023-10-03 15:57:25 +0000] [18646] [INFO] Worker exiting (pid: 18646)
+swapniljagadale999@gmail.com
+True
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+Best of Dolby Vision
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>, <Video: Best of Dolby Vision>]>
+[2023-10-03 15:57:25 +0000] [18642] [ERROR] Worker (pid:18646) exited with code 1
+[2023-10-03 15:57:25 +0000] [18642] [ERROR] Worker (pid:18646) exited with code 1.
+[2023-10-03 15:57:25 +0000] [18654] [INFO] Booting worker with pid: 18654
+[2023-10-03 15:59:26 +0000] [18642] [CRITICAL] WORKER TIMEOUT (pid:18651)
+[2023-10-03 15:59:26 +0000] [18651] [INFO] Worker exiting (pid: 18651)
+[2023-10-03 15:59:26 +0000] [18642] [ERROR] Worker (pid:18651) exited with code 1
+[2023-10-03 15:59:26 +0000] [18642] [ERROR] Worker (pid:18651) exited with code 1.
+[2023-10-03 15:59:26 +0000] [18655] [INFO] Booting worker with pid: 18655
+[2023-10-03 16:27:11 +0000] [18642] [CRITICAL] WORKER TIMEOUT (pid:18645)
+[2023-10-03 16:27:11 +0000] [18642] [CRITICAL] WORKER TIMEOUT (pid:18655)
+[2023-10-03 16:27:11 +0000] [18655] [INFO] Worker exiting (pid: 18655)
+[2023-10-03 16:27:11 +0000] [18645] [INFO] Worker exiting (pid: 18645)
+Swapnil
+Swapnil@999
+<class 'str'>
+user= Swapnil
+<QuerySet [<CustomUser: Swapnil>]>
+<QuerySet []>
+verified
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+Best of Dolby Vision
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>, <Video: Best of Dolby Vision>]>
+[2023-10-03 16:27:12 +0000] [18642] [ERROR] Worker (pid:18645) exited with code 1
+[2023-10-03 16:27:12 +0000] [18642] [ERROR] Worker (pid:18645) exited with code 1.
+[2023-10-03 16:27:12 +0000] [18642] [ERROR] Worker (pid:18655) exited with code 1
+[2023-10-03 16:27:12 +0000] [18642] [ERROR] Worker (pid:18655) exited with code 1.
+[2023-10-03 16:27:12 +0000] [18665] [INFO] Booting worker with pid: 18665
+[2023-10-03 16:27:12 +0000] [18666] [INFO] Booting worker with pid: 18666
+[2023-10-03 16:29:15 +0000] [18642] [CRITICAL] WORKER TIMEOUT (pid:18666)
+[2023-10-03 16:29:15 +0000] [18666] [INFO] Worker exiting (pid: 18666)
+[2023-10-03 16:29:15 +0000] [18642] [ERROR] Worker (pid:18666) exited with code 1
+[2023-10-03 16:29:15 +0000] [18642] [ERROR] Worker (pid:18666) exited with code 1.
+[2023-10-03 16:29:15 +0000] [18667] [INFO] Booting worker with pid: 18667
+[2023-10-03 16:31:16 +0000] [18642] [CRITICAL] WORKER TIMEOUT (pid:18654)
+[2023-10-03 16:31:16 +0000] [18654] [INFO] Worker exiting (pid: 18654)
+[2023-10-03 16:31:16 +0000] [18642] [ERROR] Worker (pid:18654) exited with code 1
+[2023-10-03 16:31:16 +0000] [18642] [ERROR] Worker (pid:18654) exited with code 1.
+[2023-10-03 16:31:16 +0000] [18704] [INFO] Booting worker with pid: 18704
+[2023-10-03 16:33:04 +0000] [18642] [CRITICAL] WORKER TIMEOUT (pid:18665)
+[2023-10-03 16:33:04 +0000] [18665] [INFO] Worker exiting (pid: 18665)
+[2023-10-03 16:33:04 +0000] [18642] [ERROR] Worker (pid:18665) exited with code 1
+[2023-10-03 16:33:04 +0000] [18642] [ERROR] Worker (pid:18665) exited with code 1.
+[2023-10-03 16:33:04 +0000] [18705] [INFO] Booting worker with pid: 18705
+[2023-10-03 16:35:06 +0000] [18642] [CRITICAL] WORKER TIMEOUT (pid:18643)
+[2023-10-03 16:35:06 +0000] [18643] [INFO] Worker exiting (pid: 18643)
+[2023-10-03 16:35:06 +0000] [18642] [ERROR] Worker (pid:18643) exited with code 1
+[2023-10-03 16:35:06 +0000] [18642] [ERROR] Worker (pid:18643) exited with code 1.
+[2023-10-03 16:35:06 +0000] [18706] [INFO] Booting worker with pid: 18706
+Forbidden (CSRF token from POST incorrect.): /logi/log/
+Forbidden (CSRF token from POST incorrect.): /logi/log/
+Forbidden (CSRF token from POST incorrect.): /logi/log/
+Forbidden (CSRF token from POST incorrect.): /logi/log/
+Not Found: /*
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[2023-10-03 18:23:01 +0000] [18642] [ERROR] Worker (pid:18667) was sent SIGHUP!
+[2023-10-03 18:23:01 +0000] [18642] [ERROR] Worker (pid:18704) was sent SIGHUP!
+[2023-10-03 18:23:01 +0000] [18642] [ERROR] Worker (pid:18705) was sent SIGHUP!
+[2023-10-03 18:23:01 +0000] [18642] [ERROR] Worker (pid:18706) was sent SIGHUP!
+[2023-10-03 18:23:01 +0000] [18735] [INFO] Booting worker with pid: 18735
+[2023-10-03 18:23:01 +0000] [18736] [INFO] Booting worker with pid: 18736
+[2023-10-03 18:23:01 +0000] [18737] [INFO] Booting worker with pid: 18737
+[2023-10-03 18:23:01 +0000] [18738] [INFO] Booting worker with pid: 18738
+[2023-10-03 18:23:01 +0000] [18642] [INFO] Handling signal: hup
+[2023-10-03 18:23:01 +0000] [18642] [INFO] Hang up: Master
+[2023-10-03 18:23:01 +0000] [18740] [INFO] Booting worker with pid: 18740
+[2023-10-03 18:23:01 +0000] [18739] [INFO] Booting worker with pid: 18739
+[2023-10-03 18:23:01 +0000] [18741] [INFO] Booting worker with pid: 18741
+[2023-10-03 18:23:01 +0000] [18742] [INFO] Booting worker with pid: 18742
+[2023-10-03 18:23:04 +0000] [18737] [INFO] Worker exiting (pid: 18737)
+[2023-10-03 18:23:04 +0000] [18738] [INFO] Worker exiting (pid: 18738)
+[2023-10-03 18:23:04 +0000] [18736] [INFO] Worker exiting (pid: 18736)
+[2023-10-03 18:23:04 +0000] [18735] [INFO] Worker exiting (pid: 18735)
+[2023-10-03 18:23:04 +0000] [18642] [ERROR] Worker (pid:18736) was sent SIGTERM!
+[2023-10-03 18:23:04 +0000] [18642] [ERROR] Worker (pid:18735) was sent SIGTERM!
+[2023-10-03 18:23:04 +0000] [18642] [ERROR] Worker (pid:18737) was sent SIGTERM!
+Not Found: /99vt
+Not Found: /aaaaaaaaaaaaaaaaaaaaaaaaaqr
+Not Found: /99vu
+[2023-10-03 21:07:13 +0000] [18742] [WARNING] Invalid request from ip=109.107.166.8: Invalid HTTP request line: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr'
+Not Found: /robots.txt
+Not Found: /goform/set_LimitClient_cfg
+Not Found: /manager/text/list
+Not Found: /favicon.ico
+Not Found: /goform/set_LimitClient_cfg
+Not Found: /hudson
+Not Found: /goform/set_LimitClient_cfg
+Not Found: /favicon.ico
+Not Found: /login.html
+Not Found: /favicon.ico
+Not Found: /443
+[2023-10-04 07:10:23 +0000] [18642] [CRITICAL] WORKER TIMEOUT (pid:18739)
+[2023-10-04 07:11:24 +0000] [18642] [ERROR] Worker (pid:18739) was sent SIGKILL! Perhaps out of memory?
+[2023-10-04 07:11:24 +0000] [20650] [INFO] Booting worker with pid: 20650
+[2023-10-04 07:13:38 +0000] [18642] [CRITICAL] WORKER TIMEOUT (pid:20650)
+[2023-10-04 07:15:07 +0000] [18642] [ERROR] Worker (pid:20650) was sent SIGKILL! Perhaps out of memory?
+[2023-10-04 07:17:10 +0000] [20658] [INFO] Booting worker with pid: 20658
+[2023-10-04 10:11:35 +0000] [18642] [INFO] Handling signal: term
+--- Logging error ---
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/logging/__init__.py", line 1103, in emit
+    stream.write(msg + self.terminator)
+RuntimeError: reentrant call inside <_io.BufferedWriter name='<stderr>'>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/logging/__init__.py", line 1103, in emit
+    stream.write(msg + self.terminator)
+  File "/home/ubuntu/logins/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/home/ubuntu/logins/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 554, in reap_workers
+    self.log.error(msg)
+  File "/home/ubuntu/logins/venv/lib/python3.10/site-packages/gunicorn/glogging.py", line 272, in error
+    self.error_log.error(msg, *args, **kwargs)
+  File "/usr/lib/python3.10/logging/__init__.py", line 1506, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "/usr/lib/python3.10/logging/__init__.py", line 1624, in _log
+    self.handle(record)
+  File "/usr/lib/python3.10/logging/__init__.py", line 1634, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python3.10/logging/__init__.py", line 1696, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python3.10/logging/__init__.py", line 968, in handle
+    self.emit(record)
+  File "/usr/lib/python3.10/logging/__init__.py", line 1108, in emit
+    self.handleError(record)
+  File "/usr/lib/python3.10/logging/__init__.py", line 1021, in handleError
+    sys.stderr.write('--- Logging error ---\n')
+RuntimeError: reentrant call inside <_io.BufferedWriter name='<stderr>'>
+Call stack:
+  File "/home/ubuntu/logins/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+  File "/home/ubuntu/logins/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 67, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+  File "/home/ubuntu/logins/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 236, in run
+    super().run()
+  File "/home/ubuntu/logins/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+  File "/home/ubuntu/logins/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 223, in run
+    self.log.info("Handling signal: %s", signame)
+  File "/home/ubuntu/logins/venv/lib/python3.10/site-packages/gunicorn/glogging.py", line 278, in info
+    self.error_log.info(msg, *args, **kwargs)
+Message: 'Handling signal: %s'
+Arguments: ('term',)
+[2023-10-04 10:12:05 +0000] [18642] [INFO] Shutting down: Master
+[2023-10-04 12:59:22 +0000] [1052] [INFO] Starting gunicorn 21.2.0
+[2023-10-04 12:59:22 +0000] [1052] [INFO] Listening at: http://0.0.0.0:8080 (1052)
+[2023-10-04 12:59:22 +0000] [1052] [INFO] Using worker: sync
+[2023-10-04 12:59:22 +0000] [1053] [INFO] Booting worker with pid: 1053
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Forbidden (CSRF token from POST incorrect.): /logi/log/
+Forbidden (CSRF token from POST incorrect.): /logi/log/
+Not Found: /favicon.ico
+[2023-10-04 13:05:27 +0000] [1052] [CRITICAL] WORKER TIMEOUT (pid:1053)
+[2023-10-04 13:05:27 +0000] [1053] [INFO] Worker exiting (pid: 1053)
+Swapnil
+Swapnil@999
+<class 'str'>
+user= Swapnil
+<QuerySet [<CustomUser: Swapnil>]>
+<QuerySet []>
+verified
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+Best of Dolby Vision
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>, <Video: Best of Dolby Vision>]>
+Swapni
+Swapnil@999
+<class 'str'>
+user= None
+<QuerySet []>
+<QuerySet []>
+username
+Swapnil
+Swapnil@99
+<class 'str'>
+user= None
+<QuerySet [<CustomUser: Swapnil>]>
+<QuerySet []>
+password
+ryfhd
+5ruy5dyth
+<class 'str'>
+user= None
+<QuerySet []>
+<QuerySet []>
+username
+ryfhd
+5ruy5dyth
+<class 'str'>
+user= None
+<QuerySet []>
+<QuerySet []>
+username
+ryfhd
+5ruy5dyth
+<class 'str'>
+user= None
+<QuerySet []>
+<QuerySet []>
+username
+Swapni
+Swapnil@999
+<class 'str'>
+user= None
+<QuerySet []>
+<QuerySet []>
+username
+Swapni
+Swapnil@999
+<class 'str'>
+user= None
+<QuerySet []>
+<QuerySet []>
+username
+Swapnil
+Swapnil@99
+<class 'str'>
+user= None
+<QuerySet [<CustomUser: Swapnil>]>
+<QuerySet []>
+password
+Swapni
+Swapnil@999
+<class 'str'>
+user= None
+<QuerySet []>
+<QuerySet []>
+username
+Swapnil
+Swapnil@999
+<class 'str'>
+user= Swapnil
+<QuerySet [<CustomUser: Swapnil>]>
+<QuerySet []>
+verified
+Swapnil
+Swapnil@99
+<class 'str'>
+user= None
+<QuerySet [<CustomUser: Swapnil>]>
+<QuerySet []>
+password
+Swapni
+Swapnil@999
+<class 'str'>
+user= None
+<QuerySet []>
+<QuerySet []>
+username
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+Best of Dolby Vision
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>, <Video: Best of Dolby Vision>]>
+Swapnil
+Swapnil@999
+<class 'str'>
+user= Swapnil
+<QuerySet [<CustomUser: Swapnil>]>
+<QuerySet []>
+verified
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Nature
+Best of Dolby Vision
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Nature>, <Video: Best of Dolby Vision>]>
+[2023-10-04 13:05:27 +0000] [1052] [ERROR] Worker (pid:1053) exited with code 1
+[2023-10-04 13:05:27 +0000] [1052] [ERROR] Worker (pid:1053) exited with code 1.
+[2023-10-04 13:05:27 +0000] [1058] [INFO] Booting worker with pid: 1058
+[2023-10-04 13:06:28 +0000] [1052] [CRITICAL] WORKER TIMEOUT (pid:1058)
+[2023-10-04 13:06:28 +0000] [1058] [INFO] Worker exiting (pid: 1058)
+[2023-10-04 13:06:28 +0000] [1052] [ERROR] Worker (pid:1058) exited with code 1
+[2023-10-04 13:06:28 +0000] [1052] [ERROR] Worker (pid:1058) exited with code 1.
+[2023-10-04 13:06:28 +0000] [1059] [INFO] Booting worker with pid: 1059
+[2023-10-04 13:08:42 +0000] [1052] [CRITICAL] WORKER TIMEOUT (pid:1059)
+[2023-10-04 13:08:42 +0000] [1059] [INFO] Worker exiting (pid: 1059)
+[2023-10-04 13:08:42 +0000] [1052] [ERROR] Worker (pid:1059) exited with code 1
+[2023-10-04 13:08:42 +0000] [1052] [ERROR] Worker (pid:1059) exited with code 1.
+[2023-10-04 13:08:42 +0000] [1061] [INFO] Booting worker with pid: 1061
+[2023-10-04 13:13:16 +0000] [1052] [CRITICAL] WORKER TIMEOUT (pid:1061)
+[2023-10-04 13:13:16 +0000] [1061] [INFO] Worker exiting (pid: 1061)
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Best of Dolby Vision
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Best of Dolby Vision>]>
+[2023-10-04 13:13:16 +0000] [1052] [ERROR] Worker (pid:1061) exited with code 1
+[2023-10-04 13:13:16 +0000] [1052] [ERROR] Worker (pid:1061) exited with code 1.
+[2023-10-04 13:13:16 +0000] [1065] [INFO] Booting worker with pid: 1065
+[2023-10-04 13:14:17 +0000] [1052] [CRITICAL] WORKER TIMEOUT (pid:1065)
+[2023-10-04 13:14:17 +0000] [1065] [INFO] Worker exiting (pid: 1065)
+[2023-10-04 13:14:17 +0000] [1052] [ERROR] Worker (pid:1065) exited with code 1
+[2023-10-04 13:14:17 +0000] [1052] [ERROR] Worker (pid:1065) exited with code 1.
+[2023-10-04 13:14:17 +0000] [1066] [INFO] Booting worker with pid: 1066
+[2023-10-04 13:16:05 +0000] [1052] [CRITICAL] WORKER TIMEOUT (pid:1066)
+[2023-10-04 13:16:05 +0000] [1066] [INFO] Worker exiting (pid: 1066)
+[2023-10-04 13:16:05 +0000] [1052] [ERROR] Worker (pid:1066) exited with code 1
+[2023-10-04 13:16:05 +0000] [1052] [ERROR] Worker (pid:1066) exited with code 1.
+[2023-10-04 13:16:05 +0000] [1067] [INFO] Booting worker with pid: 1067
+[2023-10-04 13:17:06 +0000] [1052] [CRITICAL] WORKER TIMEOUT (pid:1067)
+[2023-10-04 13:17:06 +0000] [1067] [INFO] Worker exiting (pid: 1067)
+[2023-10-04 13:17:07 +0000] [1052] [ERROR] Worker (pid:1067) exited with code 1
+[2023-10-04 13:17:07 +0000] [1052] [ERROR] Worker (pid:1067) exited with code 1.
+[2023-10-04 13:17:07 +0000] [1072] [INFO] Booting worker with pid: 1072
+[2023-10-04 13:18:08 +0000] [1052] [CRITICAL] WORKER TIMEOUT (pid:1072)
+[2023-10-04 13:18:08 +0000] [1072] [INFO] Worker exiting (pid: 1072)
+[2023-10-04 13:18:08 +0000] [1052] [ERROR] Worker (pid:1072) exited with code 1
+[2023-10-04 13:18:08 +0000] [1052] [ERROR] Worker (pid:1072) exited with code 1.
+[2023-10-04 13:18:08 +0000] [1074] [INFO] Booting worker with pid: 1074
+[2023-10-04 13:39:16 +0000] [1052] [CRITICAL] WORKER TIMEOUT (pid:1074)
+[2023-10-04 13:39:16 +0000] [1074] [INFO] Worker exiting (pid: 1074)
+sui
+sui
+<class 'str'>
+user= sui
+<QuerySet [<CustomUser: sui>]>
+<QuerySet []>
+verified
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Best of Dolby Vision
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Best of Dolby Vision>]>
+Swapnil
+Swapnil@999
+<class 'str'>
+user= Swapnil
+<QuerySet [<CustomUser: Swapnil>]>
+<QuerySet []>
+verified
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Best of Dolby Vision
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Best of Dolby Vision>]>
+[2023-10-04 13:39:16 +0000] [1052] [ERROR] Worker (pid:1074) exited with code 1
+[2023-10-04 13:39:16 +0000] [1052] [ERROR] Worker (pid:1074) exited with code 1.
+[2023-10-04 13:39:16 +0000] [1081] [INFO] Booting worker with pid: 1081
+[2023-10-04 13:40:17 +0000] [1052] [CRITICAL] WORKER TIMEOUT (pid:1081)
+[2023-10-04 13:40:17 +0000] [1081] [INFO] Worker exiting (pid: 1081)
+[2023-10-04 13:40:17 +0000] [1052] [ERROR] Worker (pid:1081) exited with code 1
+[2023-10-04 13:40:17 +0000] [1052] [ERROR] Worker (pid:1081) exited with code 1.
+[2023-10-04 13:40:17 +0000] [1083] [INFO] Booting worker with pid: 1083
+Not Found: /443
+[2023-10-04 13:43:21 +0000] [1052] [CRITICAL] WORKER TIMEOUT (pid:1083)
+[2023-10-04 13:43:21 +0000] [1083] [INFO] Worker exiting (pid: 1083)
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Best of Dolby Vision
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Best of Dolby Vision>]>
+[2023-10-04 13:43:21 +0000] [1052] [ERROR] Worker (pid:1083) exited with code 1
+[2023-10-04 13:43:21 +0000] [1052] [ERROR] Worker (pid:1083) exited with code 1.
+[2023-10-04 13:43:21 +0000] [1085] [INFO] Booting worker with pid: 1085
+[2023-10-04 13:49:06 +0000] [1052] [CRITICAL] WORKER TIMEOUT (pid:1085)
+[2023-10-04 13:49:06 +0000] [1085] [INFO] Worker exiting (pid: 1085)
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Best of Dolby Vision
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Best of Dolby Vision>]>
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Best of Dolby Vision
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Best of Dolby Vision>]>
+[2023-10-04 13:49:06 +0000] [1052] [ERROR] Worker (pid:1085) exited with code 1
+[2023-10-04 13:49:06 +0000] [1052] [ERROR] Worker (pid:1085) exited with code 1.
+[2023-10-04 13:49:06 +0000] [1088] [INFO] Booting worker with pid: 1088
+[2023-10-04 13:50:07 +0000] [1052] [CRITICAL] WORKER TIMEOUT (pid:1088)
+[2023-10-04 13:50:07 +0000] [1088] [INFO] Worker exiting (pid: 1088)
+[2023-10-04 13:50:07 +0000] [1052] [ERROR] Worker (pid:1088) exited with code 1
+[2023-10-04 13:50:07 +0000] [1052] [ERROR] Worker (pid:1088) exited with code 1.
+[2023-10-04 13:50:07 +0000] [1089] [INFO] Booting worker with pid: 1089
+[2023-10-04 13:51:08 +0000] [1052] [CRITICAL] WORKER TIMEOUT (pid:1089)
+[2023-10-04 13:51:08 +0000] [1089] [INFO] Worker exiting (pid: 1089)
+[2023-10-04 13:51:08 +0000] [1052] [ERROR] Worker (pid:1089) exited with code 1
+[2023-10-04 13:51:08 +0000] [1052] [ERROR] Worker (pid:1089) exited with code 1.
+[2023-10-04 13:51:08 +0000] [1091] [INFO] Booting worker with pid: 1091
+Not Found: /favicon.ico
+[2023-10-04 13:54:43 +0000] [1052] [CRITICAL] WORKER TIMEOUT (pid:1091)
+[2023-10-04 13:54:43 +0000] [1091] [INFO] Worker exiting (pid: 1091)
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Best of Dolby Vision
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Best of Dolby Vision>]>
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Best of Dolby Vision
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Best of Dolby Vision>]>
+hey
+form valid
+[2023-10-04 13:54:43 +0000] [1052] [ERROR] Worker (pid:1091) exited with code 1
+[2023-10-04 13:54:43 +0000] [1052] [ERROR] Worker (pid:1091) exited with code 1.
+[2023-10-04 13:54:43 +0000] [1094] [INFO] Booting worker with pid: 1094
+[2023-10-04 13:55:44 +0000] [1052] [CRITICAL] WORKER TIMEOUT (pid:1094)
+[2023-10-04 13:55:44 +0000] [1094] [INFO] Worker exiting (pid: 1094)
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Best of Dolby Vision
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Best of Dolby Vision>, <Video: Nature>]>
+[2023-10-04 13:55:44 +0000] [1052] [ERROR] Worker (pid:1094) exited with code 1
+[2023-10-04 13:55:44 +0000] [1052] [ERROR] Worker (pid:1094) exited with code 1.
+[2023-10-04 13:55:44 +0000] [1095] [INFO] Booting worker with pid: 1095
+[2023-10-04 13:56:01 +0000] [1052] [INFO] Handling signal: term
+[2023-10-04 13:56:24 +0000] [1095] [INFO] Worker exiting (pid: 1095)
+[2023-10-04 13:56:25 +0000] [1052] [INFO] Shutting down: Master
+[2023-10-04 13:59:44 +0000] [1119] [INFO] Starting gunicorn 21.2.0
+[2023-10-04 13:59:44 +0000] [1119] [INFO] Listening at: http://0.0.0.0:8080 (1119)
+[2023-10-04 13:59:44 +0000] [1119] [INFO] Using worker: sync
+[2023-10-04 13:59:44 +0000] [1120] [INFO] Booting worker with pid: 1120
+[2023-10-04 13:59:44 +0000] [1121] [INFO] Booting worker with pid: 1121
+[2023-10-04 13:59:44 +0000] [1122] [INFO] Booting worker with pid: 1122
+[2023-10-04 13:59:44 +0000] [1123] [INFO] Booting worker with pid: 1123
+[2023-10-04 13:59:44 +0000] [1124] [INFO] Booting worker with pid: 1124
+[2023-10-04 13:59:44 +0000] [1125] [INFO] Booting worker with pid: 1125
+[2023-10-04 13:59:44 +0000] [1126] [INFO] Booting worker with pid: 1126
+[2023-10-04 13:59:44 +0000] [1127] [INFO] Booting worker with pid: 1127
+[2023-10-04 13:59:44 +0000] [1128] [INFO] Booting worker with pid: 1128
+[2023-10-04 13:59:44 +0000] [1129] [INFO] Booting worker with pid: 1129
+[2023-10-04 14:04:17 +0000] [1119] [CRITICAL] WORKER TIMEOUT (pid:1127)
+[2023-10-04 14:04:17 +0000] [1119] [CRITICAL] WORKER TIMEOUT (pid:1129)
+[2023-10-04 14:04:17 +0000] [1127] [INFO] Worker exiting (pid: 1127)
+[2023-10-04 14:04:17 +0000] [1129] [INFO] Worker exiting (pid: 1129)
+[2023-10-04 14:04:17 +0000] [1119] [ERROR] Worker (pid:1129) exited with code 1
+[2023-10-04 14:04:17 +0000] [1119] [ERROR] Worker (pid:1129) exited with code 1.
+[2023-10-04 14:04:17 +0000] [1119] [ERROR] Worker (pid:1127) exited with code 1
+[2023-10-04 14:04:17 +0000] [1119] [ERROR] Worker (pid:1127) exited with code 1.
+[2023-10-04 14:04:17 +0000] [1134] [INFO] Booting worker with pid: 1134
+[2023-10-04 14:04:17 +0000] [1135] [INFO] Booting worker with pid: 1135
+[2023-10-04 14:05:44 +0000] [1119] [CRITICAL] WORKER TIMEOUT (pid:1122)
+[2023-10-04 14:05:44 +0000] [1119] [CRITICAL] WORKER TIMEOUT (pid:1124)
+[2023-10-04 14:05:44 +0000] [1122] [INFO] Worker exiting (pid: 1122)
+[2023-10-04 14:05:44 +0000] [1124] [INFO] Worker exiting (pid: 1124)
+[2023-10-04 14:05:44 +0000] [1119] [ERROR] Worker (pid:1124) exited with code 1
+[2023-10-04 14:05:44 +0000] [1119] [ERROR] Worker (pid:1124) exited with code 1.
+[2023-10-04 14:05:44 +0000] [1119] [ERROR] Worker (pid:1122) exited with code 1
+[2023-10-04 14:05:44 +0000] [1119] [ERROR] Worker (pid:1122) exited with code 1.
+[2023-10-04 14:05:44 +0000] [1136] [INFO] Booting worker with pid: 1136
+[2023-10-04 14:05:44 +0000] [1137] [INFO] Booting worker with pid: 1137
+Not Found: /favicon.ico
+Internal Server Error: /signin/myview/
+Traceback (most recent call last):
+  File "/home/ubuntu/logins/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/ubuntu/logins/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/logins/sign_in/views.py", line 33, in signin
+    user = CustomUser.objects.create_user(
+  File "/home/ubuntu/logins/venv/lib/python3.10/site-packages/django/contrib/auth/models.py", line 161, in create_user
+    return self._create_user(username, email, password, **extra_fields)
+  File "/home/ubuntu/logins/venv/lib/python3.10/site-packages/django/contrib/auth/models.py", line 144, in _create_user
+    raise ValueError("The given username must be set")
+ValueError: The given username must be set
+[2023-10-04 14:12:32 +0000] [1119] [CRITICAL] WORKER TIMEOUT (pid:1128)
+[2023-10-04 14:12:32 +0000] [1128] [INFO] Worker exiting (pid: 1128)
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Best of Dolby Vision
+Nature
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Best of Dolby Vision>, <Video: Nature>]>
+hey
+form valid
+[2023-10-04 14:12:32 +0000] [1119] [ERROR] Worker (pid:1128) exited with code 1
+[2023-10-04 14:12:32 +0000] [1119] [ERROR] Worker (pid:1128) exited with code 1.
+[2023-10-04 14:12:32 +0000] [1139] [INFO] Booting worker with pid: 1139
+[2023-10-04 14:12:39 +0000] [1119] [CRITICAL] WORKER TIMEOUT (pid:1126)
+[2023-10-04 14:12:39 +0000] [1126] [INFO] Worker exiting (pid: 1126)
+hey
+form valid
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Best of Dolby Vision
+India in 8k
+Meri jaan
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Best of Dolby Vision>, <Video: India in 8k>, <Video: Meri jaan>]>
+[2023-10-04 14:12:39 +0000] [1119] [ERROR] Worker (pid:1126) exited with code 1
+[2023-10-04 14:12:39 +0000] [1119] [ERROR] Worker (pid:1126) exited with code 1.
+[2023-10-04 14:12:39 +0000] [1140] [INFO] Booting worker with pid: 1140
+[2023-10-04 14:16:34 +0000] [1119] [CRITICAL] WORKER TIMEOUT (pid:1136)
+[2023-10-04 14:16:34 +0000] [1136] [INFO] Worker exiting (pid: 1136)
+[2023-10-04 14:16:34 +0000] [1119] [ERROR] Worker (pid:1136) exited with code 1
+[2023-10-04 14:16:34 +0000] [1119] [ERROR] Worker (pid:1136) exited with code 1.
+[2023-10-04 14:16:34 +0000] [1141] [INFO] Booting worker with pid: 1141
+[2023-10-04 14:18:52 +0000] [1119] [CRITICAL] WORKER TIMEOUT (pid:1120)
+[2023-10-04 14:18:52 +0000] [1120] [INFO] Worker exiting (pid: 1120)
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Best of Dolby Vision
+India in 8k
+Meri jaan
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Best of Dolby Vision>, <Video: India in 8k>, <Video: Meri jaan>]>
+[2023-10-04 14:18:52 +0000] [1119] [CRITICAL] WORKER TIMEOUT (pid:1125)
+[2023-10-04 14:18:52 +0000] [1125] [INFO] Worker exiting (pid: 1125)
+[2023-10-04 14:18:52 +0000] [1119] [ERROR] Worker (pid:1125) exited with code 1
+[2023-10-04 14:18:52 +0000] [1119] [ERROR] Worker (pid:1125) exited with code 1.
+[2023-10-04 14:18:52 +0000] [1119] [ERROR] Worker (pid:1120) exited with code 1
+[2023-10-04 14:18:52 +0000] [1119] [ERROR] Worker (pid:1120) exited with code 1.
+[2023-10-04 14:18:52 +0000] [1145] [INFO] Booting worker with pid: 1145
+[2023-10-04 14:18:52 +0000] [1146] [INFO] Booting worker with pid: 1146
+Not Found: /favicon.ico
+[2023-10-04 14:35:10 +0000] [1119] [CRITICAL] WORKER TIMEOUT (pid:1135)
+[2023-10-04 14:35:10 +0000] [1135] [INFO] Worker exiting (pid: 1135)
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Best of Dolby Vision
+Nature
+India in 8k
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Best of Dolby Vision>, <Video: Nature>, <Video: India in 8k>]>
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Best of Dolby Vision
+India in 8k
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Best of Dolby Vision>, <Video: India in 8k>]>
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Best of Dolby Vision
+India in 8k
+Meri jaan
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Best of Dolby Vision>, <Video: India in 8k>, <Video: Meri jaan>]>
+[2023-10-04 14:35:10 +0000] [1119] [ERROR] Worker (pid:1135) exited with code 1
+[2023-10-04 14:35:10 +0000] [1119] [ERROR] Worker (pid:1135) exited with code 1.
+[2023-10-04 14:35:10 +0000] [1153] [INFO] Booting worker with pid: 1153
+[2023-10-04 14:35:35 +0000] [1119] [CRITICAL] WORKER TIMEOUT (pid:1137)
+[2023-10-04 14:35:35 +0000] [1137] [INFO] Worker exiting (pid: 1137)
+[2023-10-04 14:35:35 +0000] [1119] [ERROR] Worker (pid:1137) exited with code 1
+[2023-10-04 14:35:35 +0000] [1119] [ERROR] Worker (pid:1137) exited with code 1.
+[2023-10-04 14:35:35 +0000] [1154] [INFO] Booting worker with pid: 1154
+[2023-10-04 14:51:19 +0000] [1119] [ERROR] Worker (pid:1121) was sent SIGHUP!
+[2023-10-04 14:51:19 +0000] [1119] [ERROR] Worker (pid:1123) was sent SIGHUP!
+[2023-10-04 14:51:19 +0000] [1119] [ERROR] Worker (pid:1134) was sent SIGHUP!
+[2023-10-04 14:51:19 +0000] [1119] [ERROR] Worker (pid:1139) was sent SIGHUP!
+[2023-10-04 14:51:19 +0000] [1119] [ERROR] Worker (pid:1140) was sent SIGHUP!
+[2023-10-04 14:51:19 +0000] [1119] [ERROR] Worker (pid:1141) was sent SIGHUP!
+[2023-10-04 14:51:19 +0000] [1119] [ERROR] Worker (pid:1145) was sent SIGHUP!
+[2023-10-04 14:51:19 +0000] [1119] [ERROR] Worker (pid:1146) was sent SIGHUP!
+[2023-10-04 14:51:19 +0000] [1119] [ERROR] Worker (pid:1153) was sent SIGHUP!
+[2023-10-04 14:51:19 +0000] [1119] [ERROR] Worker (pid:1154) was sent SIGHUP!
+[2023-10-04 14:51:19 +0000] [1155] [INFO] Booting worker with pid: 1155
+[2023-10-04 14:51:19 +0000] [1156] [INFO] Booting worker with pid: 1156
+[2023-10-04 14:51:19 +0000] [1157] [INFO] Booting worker with pid: 1157
+[2023-10-04 14:51:19 +0000] [1158] [INFO] Booting worker with pid: 1158
+[2023-10-04 14:51:19 +0000] [1159] [INFO] Booting worker with pid: 1159
+[2023-10-04 14:51:19 +0000] [1160] [INFO] Booting worker with pid: 1160
+[2023-10-04 14:51:19 +0000] [1161] [INFO] Booting worker with pid: 1161
+[2023-10-04 14:51:19 +0000] [1162] [INFO] Booting worker with pid: 1162
+[2023-10-04 14:51:19 +0000] [1163] [INFO] Booting worker with pid: 1163
+[2023-10-04 14:51:19 +0000] [1164] [INFO] Booting worker with pid: 1164
+[2023-10-04 14:51:19 +0000] [1119] [INFO] Handling signal: hup
+[2023-10-04 14:51:19 +0000] [1119] [INFO] Hang up: Master
+[2023-10-04 14:51:19 +0000] [1165] [INFO] Booting worker with pid: 1165
+[2023-10-04 14:51:19 +0000] [1166] [INFO] Booting worker with pid: 1166
+[2023-10-04 14:51:19 +0000] [1167] [INFO] Booting worker with pid: 1167
+[2023-10-04 14:51:19 +0000] [1168] [INFO] Booting worker with pid: 1168
+[2023-10-04 14:51:19 +0000] [1170] [INFO] Booting worker with pid: 1170
+[2023-10-04 14:51:19 +0000] [1169] [INFO] Booting worker with pid: 1169
+[2023-10-04 14:51:19 +0000] [1171] [INFO] Booting worker with pid: 1171
+[2023-10-04 14:51:19 +0000] [1173] [INFO] Booting worker with pid: 1173
+[2023-10-04 14:51:19 +0000] [1172] [INFO] Booting worker with pid: 1172
+[2023-10-04 14:51:20 +0000] [1174] [INFO] Booting worker with pid: 1174
+[2023-10-04 14:51:21 +0000] [1155] [INFO] Worker exiting (pid: 1155)
+[2023-10-04 14:51:22 +0000] [1119] [ERROR] Worker (pid:1155) was sent SIGTERM!
+[2023-10-04 14:54:45 +0000] [1119] [CRITICAL] WORKER TIMEOUT (pid:1168)
+[2023-10-04 14:55:21 +0000] [1119] [CRITICAL] WORKER TIMEOUT (pid:1169)
+[2023-10-04 14:56:11 +0000] [1119] [CRITICAL] WORKER TIMEOUT (pid:1170)
+[2023-10-04 14:56:47 +0000] [1119] [CRITICAL] WORKER TIMEOUT (pid:1171)
+[2023-10-04 14:57:25 +0000] [1119] [CRITICAL] WORKER TIMEOUT (pid:1172)
+[2023-10-04 14:57:29 +0000] [1168] [INFO] Worker exiting (pid: 1168)
+[2023-10-04 14:58:05 +0000] [1119] [CRITICAL] WORKER TIMEOUT (pid:1173)
+[2023-10-04 14:57:48 +0000] [1169] [INFO] Worker exiting (pid: 1169)
+Exception ignored in: <function _get_module_lock.<locals>.cb at 0x7fb744390b80>
+Traceback (most recent call last):
+  File "<frozen importlib._bootstrap>", line 199, in cb
+[2023-10-04 14:58:42 +0000] [1119] [CRITICAL] WORKER TIMEOUT (pid:1174)
+  File "/home/ubuntu/logins/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 203, in handle_abort
+[2023-10-04 14:59:45 +0000] [1119] [CRITICAL] WORKER TIMEOUT (pid:1156)
+[2023-10-04 14:59:12 +0000] [1170] [INFO] Worker exiting (pid: 1170)
+    sys.exit(1)
+[2023-10-04 14:59:51 +0000] [1171] [INFO] Worker exiting (pid: 1171)
+[2023-10-04 15:00:22 +0000] [1119] [CRITICAL] WORKER TIMEOUT (pid:1157)
+SystemExit: 1
+[2023-10-04 15:01:08 +0000] [1119] [CRITICAL] WORKER TIMEOUT (pid:1158)
+[2023-10-04 15:00:34 +0000] [1172] [INFO] Worker exiting (pid: 1172)
+[2023-10-04 15:01:18 +0000] [1174] [INFO] Worker exiting (pid: 1174)
+[2023-10-04 15:01:43 +0000] [1119] [CRITICAL] WORKER TIMEOUT (pid:1159)
+[2023-10-04 15:01:26 +0000] [1156] [INFO] Worker exiting (pid: 1156)
+[2023-10-04 15:01:53 +0000] [1158] [INFO] Worker exiting (pid: 1158)
+[2023-10-04 15:01:53 +0000] [1157] [INFO] Worker exiting (pid: 1157)
+[2023-10-04 15:02:24 +0000] [1119] [CRITICAL] WORKER TIMEOUT (pid:1160)
+[2023-10-04 15:02:57 +0000] [1119] [CRITICAL] WORKER TIMEOUT (pid:1161)
+[2023-10-04 15:03:38 +0000] [1119] [CRITICAL] WORKER TIMEOUT (pid:1162)
+[2023-10-04 15:03:34 +0000] [1159] [INFO] Worker exiting (pid: 1159)
+[2023-10-04 15:04:31 +0000] [1160] [INFO] Worker exiting (pid: 1160)
+[2023-10-04 15:06:13 +0000] [1119] [CRITICAL] WORKER TIMEOUT (pid:1163)
+[2023-10-04 15:06:46 +0000] [1119] [CRITICAL] WORKER TIMEOUT (pid:1164)
+[2023-10-04 15:06:46 +0000] [1119] [CRITICAL] WORKER TIMEOUT (pid:1165)
+[2023-10-04 15:06:46 +0000] [1119] [CRITICAL] WORKER TIMEOUT (pid:1166)
+[2023-10-04 15:06:46 +0000] [1119] [CRITICAL] WORKER TIMEOUT (pid:1167)
+[2023-10-04 15:06:46 +0000] [1164] [INFO] Worker exiting (pid: 1164)
+[2023-10-04 15:06:46 +0000] [1166] [INFO] Worker exiting (pid: 1166)
+[2023-10-04 15:06:46 +0000] [1162] [INFO] Worker exiting (pid: 1162)
+[2023-10-04 15:06:46 +0000] [1165] [INFO] Worker exiting (pid: 1165)
+[2023-10-04 15:06:46 +0000] [1167] [INFO] Worker exiting (pid: 1167)
+[2023-10-04 15:06:34 +0000] [1161] [INFO] Worker exiting (pid: 1161)
+[2023-10-04 15:06:47 +0000] [1163] [INFO] Worker exiting (pid: 1163)
+[2023-10-04 15:06:47 +0000] [1119] [ERROR] Worker (pid:1170) was sent SIGKILL! Perhaps out of memory?
+[2023-10-04 15:06:47 +0000] [1119] [ERROR] Worker (pid:1173) was sent SIGKILL! Perhaps out of memory?
+[2023-10-04 15:06:47 +0000] [1119] [ERROR] Worker (pid:1174) was sent SIGKILL! Perhaps out of memory?
+[2023-10-04 15:06:47 +0000] [1119] [ERROR] Worker (pid:1168) was sent SIGKILL! Perhaps out of memory?
+[2023-10-04 15:06:47 +0000] [1119] [ERROR] Worker (pid:1157) was sent SIGTERM!
+[2023-10-04 15:06:47 +0000] [1119] [ERROR] Worker (pid:1156) was sent SIGTERM!
+[2023-10-04 15:06:47 +0000] [1119] [ERROR] Worker (pid:1172) was sent SIGKILL! Perhaps out of memory?
+[2023-10-04 15:06:47 +0000] [1119] [ERROR] Worker (pid:1169) was sent SIGKILL! Perhaps out of memory?
+[2023-10-04 15:06:47 +0000] [1119] [ERROR] Worker (pid:1158) was sent SIGTERM!
+[2023-10-04 15:06:47 +0000] [1119] [ERROR] Worker (pid:1162) was sent SIGKILL! Perhaps out of memory?
+[2023-10-04 15:06:47 +0000] [1119] [ERROR] Worker (pid:1164) was sent SIGKILL! Perhaps out of memory?
+[2023-10-04 15:06:47 +0000] [1119] [ERROR] Worker (pid:1165) was sent SIGKILL! Perhaps out of memory?
+[2023-10-04 15:06:47 +0000] [1119] [ERROR] Worker (pid:1171) was sent SIGKILL! Perhaps out of memory?
+[2023-10-04 15:06:47 +0000] [1119] [ERROR] Worker (pid:1161) was sent SIGKILL! Perhaps out of memory?
+[2023-10-04 15:06:47 +0000] [1119] [ERROR] Worker (pid:1163) was sent SIGKILL! Perhaps out of memory?
+[2023-10-04 15:06:47 +0000] [1119] [ERROR] Worker (pid:1166) was sent SIGKILL! Perhaps out of memory?
+[2023-10-04 15:06:47 +0000] [1179] [INFO] Booting worker with pid: 1179
+[2023-10-04 15:06:47 +0000] [1119] [ERROR] Worker (pid:1167) was sent SIGKILL! Perhaps out of memory?
+[2023-10-04 15:06:47 +0000] [1119] [ERROR] Worker (pid:1159) was sent SIGKILL! Perhaps out of memory?
+[2023-10-04 15:06:47 +0000] [1119] [ERROR] Worker (pid:1160) was sent SIGKILL! Perhaps out of memory?
+[2023-10-04 15:06:47 +0000] [1180] [INFO] Booting worker with pid: 1180
+[2023-10-04 15:06:47 +0000] [1181] [INFO] Booting worker with pid: 1181
+[2023-10-04 15:06:47 +0000] [1184] [INFO] Booting worker with pid: 1184
+[2023-10-04 15:06:47 +0000] [1185] [INFO] Booting worker with pid: 1185
+[2023-10-04 15:06:47 +0000] [1186] [INFO] Booting worker with pid: 1186
+[2023-10-04 15:06:47 +0000] [1191] [INFO] Booting worker with pid: 1191
+[2023-10-04 15:06:47 +0000] [1197] [INFO] Booting worker with pid: 1197
+[2023-10-04 15:06:47 +0000] [1198] [INFO] Booting worker with pid: 1198
+[2023-10-04 15:06:47 +0000] [1201] [INFO] Booting worker with pid: 1201
+[2023-10-05 05:03:59 +0000] [1119] [ERROR] Worker (pid:1179) was sent SIGHUP!
+[2023-10-05 05:03:59 +0000] [1119] [ERROR] Worker (pid:1180) was sent SIGHUP!
+[2023-10-05 05:03:59 +0000] [1119] [ERROR] Worker (pid:1181) was sent SIGHUP!
+[2023-10-05 05:03:59 +0000] [1119] [ERROR] Worker (pid:1184) was sent SIGHUP!
+[2023-10-05 05:03:59 +0000] [1119] [ERROR] Worker (pid:1185) was sent SIGHUP!
+[2023-10-05 05:03:59 +0000] [1119] [ERROR] Worker (pid:1186) was sent SIGHUP!
+[2023-10-05 05:03:59 +0000] [1119] [ERROR] Worker (pid:1191) was sent SIGHUP!
+[2023-10-05 05:03:59 +0000] [1119] [ERROR] Worker (pid:1197) was sent SIGHUP!
+[2023-10-05 05:03:59 +0000] [1119] [ERROR] Worker (pid:1198) was sent SIGHUP!
+[2023-10-05 05:03:59 +0000] [1119] [ERROR] Worker (pid:1201) was sent SIGHUP!
+[2023-10-05 05:03:59 +0000] [1718] [INFO] Booting worker with pid: 1718
+[2023-10-05 05:03:59 +0000] [1721] [INFO] Booting worker with pid: 1721
+[2023-10-05 05:03:59 +0000] [1732] [INFO] Booting worker with pid: 1732
+[2023-10-05 05:03:59 +0000] [1738] [INFO] Booting worker with pid: 1738
+[2023-10-05 05:03:59 +0000] [1748] [INFO] Booting worker with pid: 1748
+[2023-10-05 05:04:00 +0000] [1751] [INFO] Booting worker with pid: 1751
+[2023-10-05 05:04:00 +0000] [1753] [INFO] Booting worker with pid: 1753
+[2023-10-05 05:04:00 +0000] [1757] [INFO] Booting worker with pid: 1757
+[2023-10-05 05:04:00 +0000] [1763] [INFO] Booting worker with pid: 1763
+[2023-10-05 05:04:00 +0000] [1119] [INFO] Handling signal: hup
+[2023-10-05 05:04:00 +0000] [1119] [INFO] Hang up: Master
+[2023-10-05 05:04:00 +0000] [1764] [INFO] Booting worker with pid: 1764
+[2023-10-05 05:04:00 +0000] [1784] [INFO] Booting worker with pid: 1784
+[2023-10-05 05:04:00 +0000] [1780] [INFO] Booting worker with pid: 1780
+[2023-10-05 05:04:00 +0000] [1794] [INFO] Booting worker with pid: 1794
+[2023-10-05 05:04:00 +0000] [1793] [INFO] Booting worker with pid: 1793
+[2023-10-05 05:04:00 +0000] [1807] [INFO] Booting worker with pid: 1807
+[2023-10-05 05:04:00 +0000] [1795] [INFO] Booting worker with pid: 1795
+[2023-10-05 05:04:00 +0000] [1808] [INFO] Booting worker with pid: 1808
+[2023-10-05 05:04:00 +0000] [1809] [INFO] Booting worker with pid: 1809
+[2023-10-05 05:04:00 +0000] [1834] [INFO] Booting worker with pid: 1834
+[2023-10-05 05:04:00 +0000] [1119] [INFO] Handling signal: term
+[2023-10-05 05:04:00 +0000] [1850] [INFO] Booting worker with pid: 1850
+[2023-10-05 05:04:06 +0000] [1757] [INFO] Worker exiting (pid: 1757)
+[2023-10-05 05:04:06 +0000] [1738] [INFO] Worker exiting (pid: 1738)
+[2023-10-05 05:04:06 +0000] [1732] [INFO] Worker exiting (pid: 1732)
+[2023-10-05 05:04:06 +0000] [1764] [INFO] Worker exiting (pid: 1764)
+[2023-10-05 05:04:06 +0000] [1718] [INFO] Worker exiting (pid: 1718)
+[2023-10-05 05:04:06 +0000] [1721] [INFO] Worker exiting (pid: 1721)
+[2023-10-05 05:04:06 +0000] [1751] [INFO] Worker exiting (pid: 1751)
+[2023-10-05 05:04:06 +0000] [1753] [INFO] Worker exiting (pid: 1753)
+[2023-10-05 05:04:06 +0000] [1748] [INFO] Worker exiting (pid: 1748)
+[2023-10-05 05:04:06 +0000] [1763] [INFO] Worker exiting (pid: 1763)
+[2023-10-05 05:04:06 +0000] [1784] [INFO] Worker exiting (pid: 1784)
+[2023-10-05 05:04:06 +0000] [1793] [INFO] Worker exiting (pid: 1793)
+[2023-10-05 05:04:06 +0000] [1795] [INFO] Worker exiting (pid: 1795)
+[2023-10-05 05:04:06 +0000] [1780] [INFO] Worker exiting (pid: 1780)
+[2023-10-05 05:04:06 +0000] [1808] [INFO] Worker exiting (pid: 1808)
+[2023-10-05 05:04:06 +0000] [1794] [INFO] Worker exiting (pid: 1794)
+[2023-10-05 05:04:06 +0000] [1807] [INFO] Worker exiting (pid: 1807)
+[2023-10-05 05:04:06 +0000] [1809] [INFO] Worker exiting (pid: 1809)
+[2023-10-05 05:04:30 +0000] [1119] [ERROR] Worker (pid:1834) was sent SIGKILL! Perhaps out of memory?
+[2023-10-05 05:04:30 +0000] [1119] [ERROR] Worker (pid:1850) was sent SIGKILL! Perhaps out of memory?
+[2023-10-05 05:04:30 +0000] [1119] [INFO] Shutting down: Master
+[2023-10-05 05:17:09 +0000] [927] [INFO] Starting gunicorn 21.2.0
+[2023-10-05 05:17:09 +0000] [927] [INFO] Listening at: http://0.0.0.0:8080 (927)
+[2023-10-05 05:17:09 +0000] [927] [INFO] Using worker: sync
+[2023-10-05 05:17:09 +0000] [928] [INFO] Booting worker with pid: 928
+[2023-10-05 05:17:09 +0000] [929] [INFO] Booting worker with pid: 929
+[2023-10-05 05:17:09 +0000] [930] [INFO] Booting worker with pid: 930
+[2023-10-05 05:17:09 +0000] [931] [INFO] Booting worker with pid: 931
+[2023-10-05 05:17:10 +0000] [932] [INFO] Booting worker with pid: 932
+[2023-10-05 05:17:10 +0000] [933] [INFO] Booting worker with pid: 933
+[2023-10-05 05:17:10 +0000] [934] [INFO] Booting worker with pid: 934
+[2023-10-05 05:17:10 +0000] [935] [INFO] Booting worker with pid: 935
+[2023-10-05 05:17:10 +0000] [936] [INFO] Booting worker with pid: 936
+[2023-10-05 05:17:10 +0000] [937] [INFO] Booting worker with pid: 937
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[2023-10-05 05:29:10 +0000] [927] [CRITICAL] WORKER TIMEOUT (pid:933)
+[2023-10-05 05:29:10 +0000] [927] [CRITICAL] WORKER TIMEOUT (pid:937)
+[2023-10-05 05:29:10 +0000] [933] [INFO] Worker exiting (pid: 933)
+[2023-10-05 05:29:10 +0000] [937] [INFO] Worker exiting (pid: 937)
+Swapnil
+Swapnil@999
+<class 'str'>
+user= Swapnil
+<QuerySet [<CustomUser: Swapnil>]>
+<QuerySet []>
+verified
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Best of Dolby Vision
+India in 8k
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Best of Dolby Vision>, <Video: India in 8k>]>
+Alibag beach ⛱️
+Switzerland in 8k
+Sniper will smith (Gemini Man)
+Bike Chase sean (Gemini man)
+Best of Dolby Vision
+India in 8k
+<QuerySet [<Video: Alibag beach ⛱️>, <Video: Switzerland in 8k>, <Video: Sniper will smith (Gemini Man)>, <Video: Bike Chase sean (Gemini man)>, <Video: Best of Dolby Vision>, <Video: India in 8k>]>
+[2023-10-05 05:29:10 +0000] [927] [ERROR] Worker (pid:937) exited with code 1
+[2023-10-05 05:29:10 +0000] [927] [ERROR] Worker (pid:937) exited with code 1.
+[2023-10-05 05:29:10 +0000] [927] [ERROR] Worker (pid:933) exited with code 1
+[2023-10-05 05:29:10 +0000] [927] [ERROR] Worker (pid:933) exited with code 1.
+[2023-10-05 05:29:10 +0000] [943] [INFO] Booting worker with pid: 943
+[2023-10-05 05:29:10 +0000] [944] [INFO] Booting worker with pid: 944
+Not Found: /443
+Not Found: /aaa9
+Not Found: /aab8
+[2023-10-05 08:16:35 +0000] [927] [CRITICAL] WORKER TIMEOUT (pid:934)
+[2023-10-05 08:18:05 +0000] [927] [CRITICAL] WORKER TIMEOUT (pid:932)
+[2023-10-05 08:17:55 +0000] [934] [INFO] Worker exiting (pid: 934)
+[2023-10-05 08:18:29 +0000] [927] [CRITICAL] WORKER TIMEOUT (pid:936)
+[2023-10-05 08:18:29 +0000] [927] [CRITICAL] WORKER TIMEOUT (pid:943)
+[2023-10-05 08:18:29 +0000] [943] [INFO] Worker exiting (pid: 943)
+[2023-10-05 08:18:29 +0000] [927] [ERROR] Worker (pid:934) was sent SIGKILL! Perhaps out of memory?
+[2023-10-05 08:18:30 +0000] [936] [INFO] Worker exiting (pid: 936)
+[2023-10-05 08:18:30 +0000] [932] [INFO] Worker exiting (pid: 932)
+[2023-10-05 08:18:30 +0000] [927] [CRITICAL] WORKER TIMEOUT (pid:929)
+[2023-10-05 08:18:30 +0000] [929] [INFO] Worker exiting (pid: 929)
+[2023-10-05 08:18:30 +0000] [927] [ERROR] Worker (pid:932) was sent SIGKILL! Perhaps out of memory?
+[2023-10-05 08:18:30 +0000] [927] [ERROR] Worker (pid:936) was sent SIGKILL! Perhaps out of memory?
+[2023-10-05 08:18:30 +0000] [927] [ERROR] Worker (pid:943) was sent SIGKILL! Perhaps out of memory?
+[2023-10-05 08:18:30 +0000] [927] [ERROR] Worker (pid:929) was sent SIGKILL! Perhaps out of memory?
+[2023-10-05 08:18:30 +0000] [1101] [INFO] Booting worker with pid: 1101
+[2023-10-05 08:18:30 +0000] [1102] [INFO] Booting worker with pid: 1102
+Not Found: /favicon.ico
+[2023-10-05 08:18:30 +0000] [1103] [INFO] Booting worker with pid: 1103
+[2023-10-05 08:18:30 +0000] [1105] [INFO] Booting worker with pid: 1105
+[2023-10-05 08:18:30 +0000] [1106] [INFO] Booting worker with pid: 1106
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[2023-10-05 08:35:44 +0000] [927] [ERROR] Worker (pid:930) was sent SIGHUP!
+[2023-10-05 08:35:44 +0000] [927] [ERROR] Worker (pid:931) was sent SIGHUP!
+[2023-10-05 08:35:44 +0000] [927] [ERROR] Worker (pid:935) was sent SIGHUP!
+[2023-10-05 08:35:44 +0000] [927] [ERROR] Worker (pid:944) was sent SIGHUP!
+[2023-10-05 08:35:44 +0000] [927] [ERROR] Worker (pid:1101) was sent SIGHUP!
+[2023-10-05 08:35:44 +0000] [927] [ERROR] Worker (pid:1102) was sent SIGHUP!
+[2023-10-05 08:35:44 +0000] [927] [ERROR] Worker (pid:1103) was sent SIGHUP!
+[2023-10-05 08:35:44 +0000] [927] [ERROR] Worker (pid:1105) was sent SIGHUP!
+[2023-10-05 08:35:44 +0000] [927] [ERROR] Worker (pid:1106) was sent SIGHUP!
+[2023-10-05 08:35:44 +0000] [927] [ERROR] Worker (pid:928) was sent SIGHUP!
+[2023-10-05 08:35:44 +0000] [1322] [INFO] Booting worker with pid: 1322
+[2023-10-05 08:35:44 +0000] [1323] [INFO] Booting worker with pid: 1323
+[2023-10-05 08:35:44 +0000] [1324] [INFO] Booting worker with pid: 1324
+[2023-10-05 08:35:44 +0000] [1325] [INFO] Booting worker with pid: 1325
+[2023-10-05 08:35:44 +0000] [1326] [INFO] Booting worker with pid: 1326
+[2023-10-05 08:35:45 +0000] [1327] [INFO] Booting worker with pid: 1327
+[2023-10-05 08:35:45 +0000] [1328] [INFO] Booting worker with pid: 1328
+[2023-10-05 08:35:45 +0000] [1329] [INFO] Booting worker with pid: 1329
+[2023-10-05 08:35:45 +0000] [1330] [INFO] Booting worker with pid: 1330
+[2023-10-05 08:35:45 +0000] [927] [INFO] Handling signal: hup
+[2023-10-05 08:35:45 +0000] [927] [INFO] Hang up: Master
+[2023-10-05 08:35:45 +0000] [1337] [INFO] Booting worker with pid: 1337
+[2023-10-05 08:35:45 +0000] [1338] [INFO] Booting worker with pid: 1338
+[2023-10-05 08:35:45 +0000] [1339] [INFO] Booting worker with pid: 1339
+[2023-10-05 08:35:45 +0000] [1340] [INFO] Booting worker with pid: 1340
+[2023-10-05 08:35:45 +0000] [1341] [INFO] Booting worker with pid: 1341
+[2023-10-05 08:35:45 +0000] [1343] [INFO] Booting worker with pid: 1343
+[2023-10-05 08:35:45 +0000] [1342] [INFO] Booting worker with pid: 1342
+[2023-10-05 08:35:45 +0000] [1344] [INFO] Booting worker with pid: 1344
+[2023-10-05 08:35:45 +0000] [1345] [INFO] Booting worker with pid: 1345
+[2023-10-05 08:35:45 +0000] [1346] [INFO] Booting worker with pid: 1346
+[2023-10-05 08:35:45 +0000] [1347] [INFO] Booting worker with pid: 1347
+[2023-10-05 08:40:16 +0000] [927] [CRITICAL] WORKER TIMEOUT (pid:1322)
+[2023-10-05 08:42:01 +0000] [927] [CRITICAL] WORKER TIMEOUT (pid:1323)
+[2023-10-05 08:44:02 +0000] [1322] [INFO] Worker exiting (pid: 1322)
+[2023-10-05 08:45:34 +0000] [927] [CRITICAL] WORKER TIMEOUT (pid:1324)
+[2023-10-05 08:48:04 +0000] [927] [CRITICAL] WORKER TIMEOUT (pid:1325)
+[2023-10-05 08:47:32 +0000] [1323] [INFO] Worker exiting (pid: 1323)
+[2023-10-05 08:50:31 +0000] [927] [CRITICAL] WORKER TIMEOUT (pid:1326)
+[2023-10-05 08:50:04 +0000] [1324] [INFO] Worker exiting (pid: 1324)
+[2023-10-05 08:53:03 +0000] [927] [CRITICAL] WORKER TIMEOUT (pid:1327)
+[2023-10-05 08:56:01 +0000] [1327] [INFO] Worker exiting (pid: 1327)
+[2023-10-05 08:55:04 +0000] [1326] [INFO] Worker exiting (pid: 1326)
+[2023-10-05 08:53:48 +0000] [1325] [INFO] Worker exiting (pid: 1325)
+[2023-10-05 08:55:28 +0000] [927] [CRITICAL] WORKER TIMEOUT (pid:1328)
+[2023-10-05 08:56:01 +0000] [927] [CRITICAL] WORKER TIMEOUT (pid:1329)
+[2023-10-05 08:56:01 +0000] [927] [CRITICAL] WORKER TIMEOUT (pid:1330)
+[2023-10-05 08:56:01 +0000] [927] [CRITICAL] WORKER TIMEOUT (pid:1337)
+[2023-10-05 08:56:01 +0000] [927] [CRITICAL] WORKER TIMEOUT (pid:1338)
+[2023-10-05 08:56:01 +0000] [927] [CRITICAL] WORKER TIMEOUT (pid:1339)
+[2023-10-05 08:56:01 +0000] [927] [CRITICAL] WORKER TIMEOUT (pid:1340)
+[2023-10-05 08:56:01 +0000] [927] [CRITICAL] WORKER TIMEOUT (pid:1341)
+[2023-10-05 08:56:01 +0000] [927] [CRITICAL] WORKER TIMEOUT (pid:1342)
+[2023-10-05 08:56:01 +0000] [927] [CRITICAL] WORKER TIMEOUT (pid:1343)
+[2023-10-05 08:56:01 +0000] [927] [CRITICAL] WORKER TIMEOUT (pid:1344)
+[2023-10-05 08:56:01 +0000] [927] [CRITICAL] WORKER TIMEOUT (pid:1345)
+[2023-10-05 08:56:01 +0000] [927] [CRITICAL] WORKER TIMEOUT (pid:1346)
+[2023-10-05 08:56:01 +0000] [927] [CRITICAL] WORKER TIMEOUT (pid:1347)
+[2023-10-05 08:56:01 +0000] [1329] [INFO] Worker exiting (pid: 1329)
+[2023-10-05 08:56:01 +0000] [1337] [INFO] Worker exiting (pid: 1337)
+[2023-10-05 08:56:01 +0000] [1338] [INFO] Worker exiting (pid: 1338)
+[2023-10-05 08:56:01 +0000] [1342] [INFO] Worker exiting (pid: 1342)
+[2023-10-05 08:56:01 +0000] [1343] [INFO] Worker exiting (pid: 1343)
+[2023-10-05 08:56:01 +0000] [1341] [INFO] Worker exiting (pid: 1341)
+[2023-10-05 08:56:01 +0000] [1330] [INFO] Worker exiting (pid: 1330)
+[2023-10-05 08:56:01 +0000] [1340] [INFO] Worker exiting (pid: 1340)
+[2023-10-05 08:56:01 +0000] [1328] [INFO] Worker exiting (pid: 1328)
+[2023-10-05 08:56:01 +0000] [1339] [INFO] Worker exiting (pid: 1339)
+[2023-10-05 08:56:01 +0000] [1347] [INFO] Worker exiting (pid: 1347)
+[2023-10-05 08:56:01 +0000] [1344] [INFO] Worker exiting (pid: 1344)
+[2023-10-05 08:56:01 +0000] [927] [ERROR] Worker (pid:1323) was sent SIGTERM!
+[2023-10-05 08:56:01 +0000] [1346] [INFO] Worker exiting (pid: 1346)
+[2023-10-05 08:56:01 +0000] [927] [ERROR] Worker (pid:1322) was sent SIGTERM!
+[2023-10-05 08:56:01 +0000] [927] [ERROR] Worker (pid:1326) was sent SIGTERM!
+[2023-10-05 08:56:01 +0000] [927] [ERROR] Worker (pid:1329) was sent SIGKILL! Perhaps out of memory?
+[2023-10-05 08:56:01 +0000] [927] [ERROR] Worker (pid:1347) was sent SIGKILL! Perhaps out of memory?
+[2023-10-05 08:56:01 +0000] [927] [ERROR] Worker (pid:1328) was sent SIGKILL! Perhaps out of memory?
+[2023-10-05 08:56:01 +0000] [927] [ERROR] Worker (pid:1330) was sent SIGKILL! Perhaps out of memory?
+[2023-10-05 08:56:01 +0000] [927] [ERROR] Worker (pid:1337) was sent SIGKILL! Perhaps out of memory?
+[2023-10-05 08:56:01 +0000] [927] [ERROR] Worker (pid:1324) was sent SIGTERM!
+[2023-10-05 08:56:01 +0000] [927] [ERROR] Worker (pid:1338) was sent SIGKILL! Perhaps out of memory?
+[2023-10-05 08:56:01 +0000] [927] [ERROR] Worker (pid:1340) was sent SIGKILL! Perhaps out of memory?
+[2023-10-05 08:56:01 +0000] [927] [ERROR] Worker (pid:1341) was sent SIGKILL! Perhaps out of memory?
+[2023-10-05 08:56:01 +0000] [927] [ERROR] Worker (pid:1325) was sent SIGTERM!
+[2023-10-05 08:56:01 +0000] [927] [ERROR] Worker (pid:1342) was sent SIGKILL! Perhaps out of memory?
+[2023-10-05 08:56:01 +0000] [927] [ERROR] Worker (pid:1345) was sent SIGKILL! Perhaps out of memory?
+[2023-10-05 08:56:01 +0000] [927] [ERROR] Worker (pid:1346) was sent SIGKILL! Perhaps out of memory?
+[2023-10-05 08:56:01 +0000] [927] [ERROR] Worker (pid:1327) was sent SIGKILL! Perhaps out of memory?
+[2023-10-05 08:56:01 +0000] [927] [ERROR] Worker (pid:1343) was sent SIGKILL! Perhaps out of memory?
+[2023-10-05 08:56:01 +0000] [927] [ERROR] Worker (pid:1344) was sent SIGKILL! Perhaps out of memory?
+[2023-10-05 08:56:01 +0000] [927] [ERROR] Worker (pid:1339) was sent SIGKILL! Perhaps out of memory?
+[2023-10-05 08:56:01 +0000] [1378] [INFO] Booting worker with pid: 1378
+[2023-10-05 08:56:01 +0000] [1379] [INFO] Booting worker with pid: 1379
+[2023-10-05 08:56:01 +0000] [1380] [INFO] Booting worker with pid: 1380
+[2023-10-05 08:56:02 +0000] [1382] [INFO] Booting worker with pid: 1382
+[2023-10-05 08:56:02 +0000] [1383] [INFO] Booting worker with pid: 1383
+[2023-10-05 08:56:02 +0000] [1384] [INFO] Booting worker with pid: 1384
+[2023-10-05 08:56:02 +0000] [1385] [INFO] Booting worker with pid: 1385
+[2023-10-05 08:56:02 +0000] [1386] [INFO] Booting worker with pid: 1386
+[2023-10-05 08:56:02 +0000] [1392] [INFO] Booting worker with pid: 1392
+[2023-10-05 08:56:02 +0000] [1393] [INFO] Booting worker with pid: 1393
+[2023-10-05 14:05:21 +0000] [927] [ERROR] Worker (pid:1378) was sent SIGHUP!
+[2023-10-05 14:05:21 +0000] [927] [ERROR] Worker (pid:1379) was sent SIGHUP!
+[2023-10-05 14:05:21 +0000] [927] [ERROR] Worker (pid:1380) was sent SIGHUP!
+[2023-10-05 14:05:21 +0000] [927] [ERROR] Worker (pid:1382) was sent SIGHUP!
+[2023-10-05 14:05:21 +0000] [927] [ERROR] Worker (pid:1383) was sent SIGHUP!
+[2023-10-05 14:05:21 +0000] [927] [ERROR] Worker (pid:1384) was sent SIGHUP!
+[2023-10-05 14:05:21 +0000] [927] [ERROR] Worker (pid:1385) was sent SIGHUP!
+[2023-10-05 14:05:21 +0000] [927] [ERROR] Worker (pid:1386) was sent SIGHUP!
+[2023-10-05 14:05:21 +0000] [927] [ERROR] Worker (pid:1392) was sent SIGHUP!
+[2023-10-05 14:05:21 +0000] [927] [ERROR] Worker (pid:1393) was sent SIGHUP!
+[2023-10-05 14:05:21 +0000] [1588] [INFO] Booting worker with pid: 1588
+[2023-10-05 14:05:21 +0000] [1589] [INFO] Booting worker with pid: 1589
+[2023-10-05 14:05:21 +0000] [1590] [INFO] Booting worker with pid: 1590
+[2023-10-05 14:05:21 +0000] [1593] [INFO] Booting worker with pid: 1593
+[2023-10-05 14:05:21 +0000] [1598] [INFO] Booting worker with pid: 1598
+[2023-10-05 14:05:21 +0000] [1610] [INFO] Booting worker with pid: 1610
+[2023-10-05 14:05:21 +0000] [1614] [INFO] Booting worker with pid: 1614
+[2023-10-05 14:05:21 +0000] [1620] [INFO] Booting worker with pid: 1620
+[2023-10-05 14:05:21 +0000] [1622] [INFO] Booting worker with pid: 1622
+[2023-10-05 14:05:22 +0000] [1628] [INFO] Booting worker with pid: 1628
+[2023-10-05 14:05:22 +0000] [927] [INFO] Handling signal: term
+[2023-10-05 14:05:22 +0000] [927] [ERROR] Worker (pid:1628) was sent SIGTERM!
+[2023-10-05 14:05:25 +0000] [1598] [INFO] Worker exiting (pid: 1598)
+[2023-10-05 14:05:25 +0000] [1610] [INFO] Worker exiting (pid: 1610)
+[2023-10-05 14:05:25 +0000] [1620] [INFO] Worker exiting (pid: 1620)
+[2023-10-05 14:05:25 +0000] [1614] [INFO] Worker exiting (pid: 1614)
+[2023-10-05 14:05:25 +0000] [1622] [INFO] Worker exiting (pid: 1622)
+[2023-10-05 14:05:25 +0000] [1593] [INFO] Worker exiting (pid: 1593)
+[2023-10-05 14:05:25 +0000] [1588] [INFO] Worker exiting (pid: 1588)
+[2023-10-05 14:05:25 +0000] [1589] [INFO] Worker exiting (pid: 1589)
+[2023-10-05 14:05:25 +0000] [1590] [INFO] Worker exiting (pid: 1590)
+[2023-10-05 14:05:26 +0000] [927] [INFO] Shutting down: Master
+[2023-10-05 14:10:55 +0000] [919] [INFO] Starting gunicorn 21.2.0
+[2023-10-05 14:10:55 +0000] [919] [INFO] Listening at: http://0.0.0.0:8080 (919)
+[2023-10-05 14:10:55 +0000] [919] [INFO] Using worker: sync
+[2023-10-05 14:10:55 +0000] [920] [INFO] Booting worker with pid: 920
+[2023-10-05 14:10:55 +0000] [921] [INFO] Booting worker with pid: 921
+[2023-10-05 14:10:55 +0000] [922] [INFO] Booting worker with pid: 922
+[2023-10-05 14:10:55 +0000] [923] [INFO] Booting worker with pid: 923
+[2023-10-05 14:10:55 +0000] [924] [INFO] Booting worker with pid: 924
+[2023-10-05 14:10:55 +0000] [925] [INFO] Booting worker with pid: 925
+[2023-10-05 14:10:55 +0000] [926] [INFO] Booting worker with pid: 926
+[2023-10-05 14:10:56 +0000] [927] [INFO] Booting worker with pid: 927
+Not Found: /ddns_check.ccp
+Not Found: /login
+[2023-10-05 14:41:10 +0000] [919] [CRITICAL] WORKER TIMEOUT (pid:920)
+[2023-10-05 14:41:10 +0000] [920] [INFO] Worker exiting (pid: 920)
+India in 8k
+<QuerySet [<Video: India in 8k>]>
+<QuerySet []>
+[2023-10-05 14:41:10 +0000] [919] [ERROR] Worker (pid:920) exited with code 1
+[2023-10-05 14:41:10 +0000] [919] [ERROR] Worker (pid:920) exited with code 1.
+[2023-10-05 14:41:10 +0000] [1944] [INFO] Booting worker with pid: 1944
+[2023-10-05 14:41:14 +0000] [919] [CRITICAL] WORKER TIMEOUT (pid:926)
+[2023-10-05 14:41:14 +0000] [926] [INFO] Worker exiting (pid: 926)
+[2023-10-05 14:41:14 +0000] [919] [ERROR] Worker (pid:926) exited with code 1
+[2023-10-05 14:41:14 +0000] [919] [ERROR] Worker (pid:926) exited with code 1.
+[2023-10-05 14:41:14 +0000] [1945] [INFO] Booting worker with pid: 1945

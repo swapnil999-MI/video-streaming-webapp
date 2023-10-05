@@ -1,0 +1,39 @@
+<!-- play_video.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Play Video</title>
+</head>
+<body>
+    <h1>Play Video</h1>
+    <form method="POST" action="javascript:void(0);" onsubmit="submitForm()">
+        <label for="title">Enter Video Title:</label>
+        <input type="text" name="title" id="title" required>
+        <button type="submit">Play</button>
+    </form>
+
+    <!-- Video Player Section -->
+    {% if video_url %}
+    <h2>Video Player</h2>
+    <video controls width="640" height="360">
+        <source src="{{ video_url }}" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    {% endif %}
+
+    <script>
+        function submitForm() {
+            var title = document.getElementById('title').value;
+            if (title) {
+                // Construct the URL with the entered title and redirect
+                var redirectUrl = "/stream/stream/" + encodeURIComponent(title) + "/";
+                window.location.href = redirectUrl;
+            } else {
+                alert('Please enter a video title.');
+            }
+            return false; // Prevent form submission
+        }
+    </script>
+</body>
+</html>

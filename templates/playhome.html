@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Play Video</title>
+    <meta name="viewport" content="width=device-width">
+    {% load static %}
+    <link rel="stylesheet" type="text/css" href="http://54.198.139.22/static/streamcss.css">
+    <script type="text/javascript" src="http://54.198.139.22/static/streamjs.js"></script>
+</head>
+<body>
+    <div id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <a href="/stream/upload_video1/">Upload Video</a>
+        <a href="/stream/delete_video1/">Delete Video</a>
+        <a href="https://www.youtube.com/@codespider148">YouTube</a>
+        <a href="https://instagram.com/__._.swapnil._.__?igshid=NGVhN2U2NjQ0Yg==">Instagram</a>
+      </div>
+    <div id='main'>
+    <header>
+        <nav>
+            <input id="checkbox" type="checkbox" onclick="openNav()">
+            <label class="toggle" for="checkbox">
+                <div id="bar1" class="bars"></div>
+                <div id="bar2" class="bars"></div>
+                <div id="bar3" class="bars"></div>
+            </label>
+            <form method="POST" action="javascript:void(0);" onsubmit="submitForm()" class="nav-search">
+              <div class="search">
+                <input placeholder="Search..." name="title" id="title" type="text" required>
+                <button type="submit"><div class="search-icon-wrapper">  
+                  <span class="search-icon searchbar-icon">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                          <path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z">
+                          </path>
+                      </svg>
+                  </span>
+              </div></button>
+              </div>
+                  
+            </form>
+        </nav>
+    </header>
+    <!-- video_list.html -->
+    <hr width="80%" size="2" color="white">
+    <div class="video-container-wrapper">
+    {% for video in videos %}
+    <div class="video-container">
+        
+        <video class="video" controls autoplay width="300" height="200">
+            <source src="http://54.198.139.22{{ video.video_file.url }}" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+        <h4>{{ video.title }}</h4>
+    </div>
+    {% endfor %}
+    </div>
+</div>
+
+</body>
+</html>

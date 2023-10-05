@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>home</title>
+        <meta name="viewport" content="width=device-width">
+        {%load static%}
+        <link rel="stylesheet" type="text/css" href="http://54.198.139.22/static/otpcss.css">
+        <script type="text/javascript" src="http://54.198.139.22/static/otpjs.js"></script>
+        <script type="text/javascript" src="http://54.198.139.22/static/forgojs.js"></script>
+</head>
+<body>
+    <center>
+        <div id="otpForm">
+            <form class="form" method='post'>
+                {% csrf_token %}
+                <input type='email' name='mail' id='mail' class='input' placeholder='Email'>
+                <button class="button" onclick="sendotp()" id='otpgen' type="button">Send OTP</button>
+                <input type="number" autocomplete="off" id="otp" name="otp" class="input" placeholder="OTP">
+                <div class="flex">
+                    <button class="button" onclick="checkotpMatch()" type="button">
+                        Log In
+                        <div class="hoverEffect">
+                            <div></div>
+                        </div>
+                    </button>
+                </div>
+                <div id='message'></div>
+            </form>
+        </div>
+
+        <div id="passwordForm" style="display: none;">
+            <form class="form" method='post'>
+                {% csrf_token %}
+                <input type='password' autocomplete="off" id='password1' name='password1' class='input' placeholder='Password'>
+                <input type='password' autocomplete="off" id='password2' name='password2' class='input' placeholder='Re enter Password'>
+                <div class='flex'>
+                    <button class='button' onclick='checkPasswordMatch()' type='button'>
+                        Submit
+                        <div class='hoverEffect'>
+                            <div></div>
+                        </div>
+                    </button>
+                </div>
+                <div id='message'></div>
+                <div class='alert alert-primary' id='messageforgo' role='alert'></div>
+            </form>
+        </div>
+    </center>
+
+</body>
+</html>

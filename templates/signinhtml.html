@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<head>
+    <title>sign_in</title>
+    <meta name='viewport' content='width=device-width,inital-scale=0.1'>
+    {%load static%}
+    <link rel='stylesheet' type='text/css' href="http://54.198.139.22/static/signincss.css"
+</head>
+<body>
+    <center>
+         <form  class='form' method='post'>
+            {% csrf_token %}
+
+            {% if messages %}
+            <div class="alert alert-primary" role="alert">
+                {% for message in messages %}
+                {{ message }}
+                {% endfor %}
+              </div>
+              {% endif %}
+            <input type='text' name='fname' id='fname' class='input' placeholder='First Name'>
+            <input type='text' name='mname' id='mname' class='input' placeholder='Second Name'>
+            <input type='text' name='lname' id='lname' class='input' placeholder='Last Name'>
+            <input type='tel'  name='phone' id='phone' class='input' placeholder='contact No.'>
+            <input type='email' name='mail' id='mail' class='input' placeholder='Email'>
+            <input type='text' name='username' id='username' class='input' placeholder='username'>
+            <input type='password' name='password' id='password' class='input'  placeholder='Password'>
+            <input type='text' name='address' id='address' class='input' placeholder='Address'>
+            <input type='radio' id='sex' name='sex' value='male'>
+            <lable for='male' >:Male</lable>
+            <input type='radio' id='sex' name='sex' value='female'>
+            <lable for='female'>:Female</lable>
+            <input type='radio' id='sex' name='sex' value='other'>
+            <lable for='other'>:Other</lable>
+               <div class=flex>
+                   <button class="button">
+                       Submit
+                       <div class="hoverEffect">
+                        <div>
+                       </div>
+                       </div>
+                    </button>
+                </div>
+        </form>
+    </center>
+</body>
+

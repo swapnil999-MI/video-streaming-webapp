@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            its for example page
+        </title>
+        <meta name="viewport" content="width=device-width, initial-scale=0.1">
+        <link rel="stylesheet" href="static/style2.css">
+        {% load login/static %}
+        <link rel="stylesheet" type="text/css" href="{% static 'style2.css' %}">
+
+    </head>
+    <body>
+        <div>
+            <table class="tabl">
+                <tr>
+                    <th class="th">sr No. </th>
+                    <th class="th">Name</th>
+                    <th class="th">Age</th>
+                <tr/>
+                {%for p in peoples%}
+                <tr>
+                    <td class="td">{{forloop.counter}}</td>
+                    <td class="td">{{p.name}}</td>
+                    <td class="td">{{p.age}}</td>
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
+    </body>
+</html>

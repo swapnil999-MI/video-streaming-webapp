@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Stream</title>
+        <meta name="viewport" content="width=device-width">
+        {%load static%}
+        <link rel="stylesheet" type="text/css" href="http://54.198.139.22/static/upload.css">
+        <script type="text/javascript" src="http://54.198.139.22/static/upload.js"></script>
+        
+    </head>
+    <body>
+        <center>
+        <form class="form" method="POST" enctype="multipart/form-data" action="{% url 'upload_video' %}">
+            {% csrf_token %}
+            <input type="text" class="input" name="title" id="title" placeholder="Video Title" required>
+            <label for="video">Select a video:</label>
+            <input type="file" class="input" name="video_file" id="video_file" accept="video/*" placeholder="Username" required>
+            <br>
+            <div class="center-button">
+            <button type="submit">Upload</button>
+            </div>
+        </form>
+        {% if form.errors %}
+        <div class="error">
+            <p>Please correct the following errors:</p>
+            {{ form.errors }}
+        </div>
+        {% endif %}
+    </center>
+    </body>
+</html>

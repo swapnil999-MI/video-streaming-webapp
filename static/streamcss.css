@@ -1,0 +1,212 @@
+.video-container-wrapper {
+    display: grid;               /* Use CSS Grid for layout */
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); /* Auto-fit columns with min-max width */
+    gap: 20px;                   /* Add some spacing between video containers */
+    overflow-x: auto;            /* Add horizontal scrollbar if needed */
+    max-width: 100%;             /* Limit the width to the parent container */
+}
+
+.video-container {
+    /* Optionally, adjust the width and height of video containers as needed */
+    width: 320px;
+    height: 250px;
+}
+nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 20px;
+  overflow: hidden;
+  background-color: #3597b8;
+  position: sticky;
+  position: -webkit-sticky;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  top: 0;
+}
+
+
+
+
+.search {
+  display: inline-block;
+  position: relative;
+}
+
+.search input[type="text"] {
+  width: 200px;
+  padding: 10px;
+  border: none;
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.search button[type="submit"] {
+  background-color: #4e99e9;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  padding: 2.5px 9px;
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  position: absolute;
+  top: 0;
+  right: 0;
+  transition: .9s ease;
+}
+
+.search button[type="submit"]:hover {
+  transform: scale(1.1);
+  color: rgb(255, 255, 255);
+  background-color: blue;
+}
+
+
+
+
+
+.search-icon-wrapper {
+  margin: auto;
+}
+.search-icon {
+  margin-top: 3px;
+  color: #ffffff;
+  height: 10px;
+  line-height: 10px;
+  width: 20px;
+}
+
+.searchbar-icon {
+  display: inline-block;
+  fill: currentColor;
+  height: 14px;
+  line-height: 14px;
+  position: relative;
+  width: 24px;
+}
+
+
+
+/* menu button */
+#checkbox {
+  display: none;
+}
+
+.toggle {
+  position: relative;
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 10px;
+  transition-duration: .5s;
+}
+
+.bars {
+  width: 100%;
+  height: 4px;
+  background-color: rgb(19, 19, 22);
+  border-radius: 4px;
+}
+
+#bar2 {
+  transition-duration: .8s;
+}
+
+#bar1 {
+  width: 50%;
+}
+
+#bar2 {
+  width: 75%;
+}
+
+#checkbox:checked + .toggle .bars {
+  position: absolute;
+  transition-duration: .5s;
+}
+
+#checkbox:checked + .toggle #bar2 {
+  transform: scaleX(0);
+  transition-duration: .1s;
+}
+
+#checkbox:checked + .toggle #bar1 {
+  width: 100%;
+  transform: rotate(45deg);
+  transition-duration: .5s;
+}
+
+#checkbox:checked + .toggle #bar3 {
+  width: 100%;
+  transform: rotate(-45deg);
+  transition-duration: .5s;
+}
+
+#checkbox:checked + .toggle {
+  transition-duration: .5s;
+  transform: rotate(180deg);
+}
+
+
+.nav-search {
+  flex-grow: 1; /* To make the search bar expand and take available space */
+  display: flex;
+  justify-content: center; /* Center the search input within the available space */
+}
+
+
+/* menu side bar */
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+#main {
+  transition: margin-left .5s;
+  padding: 16px;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.center-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* You can adjust this value to control the vertical centering */
+}

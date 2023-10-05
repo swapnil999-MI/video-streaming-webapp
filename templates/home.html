@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>home</title>
+        <meta name="viewport" content="width=device-width">
+        {%load static%}
+        <link rel="stylesheet" type="text/css" href="http://54.198.139.22/static/style.css">
+        <script type="text/javascript" src="http://54.198.139.22/static/script.js"></script>
+        
+    </head>
+    <body>
+        <center>
+            <form class="form" method='POST'>
+                {% csrf_token %}
+                <input type="text" autocomplete="off" name="username" class="input" placeholder="Username">
+                <input type="Password" autocomplete="off" name="password" class="input" placeholder="Password">
+                <a class="ancor" href="/homei/getotp1/">   Forgot password?</a>
+                <div class="flex">
+                    <button class="button" id="loginButton" type="submit">
+                        Log In
+                        <div class="hoverEffect">
+                        <div>
+                        </div>
+                        </div>
+                    </button>
+                    
+                    
+                    <button class="button" id="signInButton" type="button">
+                        Sign Up 
+                        <div class="hoverEffect">
+                        <div>
+                        </div>
+                        </div>
+                    </button>
+                    
+                </div>
+                <div id="error-messages"></div>
+                
+            </form>
+        </center>
+
+    </body>
+
+</html>
